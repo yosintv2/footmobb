@@ -56,8 +56,16 @@
     }
   },
   "15253530": {
-    "teamDuel": null,
-    "managerDuel": null
+    "teamDuel": {
+      "homeWins": 1,
+      "awayWins": 0,
+      "draws": 0
+    },
+    "managerDuel": {
+      "homeWins": 1,
+      "awayWins": 0,
+      "draws": 0
+    }
   },
   "15237894": {
     "teamDuel": {
@@ -75,7 +83,7 @@
     "teamDuel": {
       "homeWins": 1,
       "awayWins": 0,
-      "draws": 0
+      "draws": 1
     },
     "managerDuel": {
       "homeWins": 0,
@@ -121,7 +129,11 @@
       "awayWins": 3,
       "draws": 2
     },
-    "managerDuel": null
+    "managerDuel": {
+      "homeWins": 1,
+      "awayWins": 0,
+      "draws": 0
+    }
   },
   "15237896": {
     "teamDuel": {
