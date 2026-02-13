@@ -773,10 +773,19 @@
   },
   "14671733": {
     "match_id": 14671733,
-    "home_score": 0,
-    "away_score": 2,
-    "home_scorers": [],
+    "home_score": 1,
+    "away_score": 3,
+    "home_scorers": [
+      {
+        "name": "Stefan Colakovski",
+        "time": "90'"
+      }
+    ],
     "away_scorers": [
+      {
+        "name": "Xavier Bertoncello",
+        "time": "81'"
+      },
       {
         "name": "Lachlan Rose",
         "time": "47'"
@@ -2090,7 +2099,7 @@
     "home_scorers": [
       {
         "name": "Th\u00e9o Pionnier",
-        "time": "62'"
+        "time": "61'"
       },
       {
         "name": "Ismail Bouneb",
@@ -2269,14 +2278,9 @@
   "15481511": {
     "match_id": 15481511,
     "home_score": 0,
-    "away_score": 1,
+    "away_score": 0,
     "home_scorers": [],
-    "away_scorers": [
-      {
-        "name": "Unknown",
-        "time": "21'"
-      }
-    ]
+    "away_scorers": []
   },
   "14302739": {
     "match_id": 14302739,
@@ -2714,10 +2718,19 @@
   },
   "15273973": {
     "match_id": 15273973,
-    "home_score": 0,
-    "away_score": 3,
-    "home_scorers": [],
+    "home_score": 1,
+    "away_score": 4,
+    "home_scorers": [
+      {
+        "name": "Unknown",
+        "time": "70'"
+      }
+    ],
     "away_scorers": [
+      {
+        "name": "Gal Kranjcic",
+        "time": "49'"
+      },
       {
         "name": "R\u00faben Ribeiro",
         "time": "36'"
@@ -2804,10 +2817,28 @@
   },
   "14195543": {
     "match_id": 14195543,
-    "home_score": 0,
-    "away_score": 0,
-    "home_scorers": [],
-    "away_scorers": []
+    "home_score": 3,
+    "away_score": 1,
+    "home_scorers": [
+      {
+        "name": "Jakov Katu\u0161a",
+        "time": "73'"
+      },
+      {
+        "name": "Jakov Katu\u0161a",
+        "time": "64'"
+      },
+      {
+        "name": "Bogdan Mandi\u0107",
+        "time": "36'"
+      }
+    ],
+    "away_scorers": [
+      {
+        "name": "S\u00e9rgio Mendon\u00e7a",
+        "time": "70'"
+      }
+    ]
   },
   "15410167": {
     "match_id": 15410167,
@@ -3088,10 +3119,32 @@
   },
   "15518529": {
     "match_id": 15518529,
-    "home_score": 0,
-    "away_score": 0,
-    "home_scorers": [],
-    "away_scorers": []
+    "home_score": 2,
+    "away_score": 3,
+    "home_scorers": [
+      {
+        "name": "Unknown",
+        "time": "84'"
+      },
+      {
+        "name": "Unknown",
+        "time": "59'"
+      }
+    ],
+    "away_scorers": [
+      {
+        "name": "Niklas Sandberg",
+        "time": "89'"
+      },
+      {
+        "name": "Michael Opoku",
+        "time": "52'"
+      },
+      {
+        "name": "Daniel Karlsbakk",
+        "time": "19'"
+      }
+    ]
   },
   "15524901": {
     "match_id": 15524901,
@@ -3102,10 +3155,24 @@
   },
   "15518526": {
     "match_id": 15518526,
-    "home_score": 0,
-    "away_score": 0,
-    "home_scorers": [],
-    "away_scorers": []
+    "home_score": 1,
+    "away_score": 2,
+    "home_scorers": [
+      {
+        "name": "David Ezeh",
+        "time": "67'"
+      }
+    ],
+    "away_scorers": [
+      {
+        "name": "Noah Persson",
+        "time": "81'"
+      },
+      {
+        "name": "Nahir Besara",
+        "time": "22'"
+      }
+    ]
   },
   "15526659": {
     "match_id": 15526659,
@@ -3113,5 +3180,26 @@
     "away_score": 0,
     "home_scorers": [],
     "away_scorers": []
+  },
+  "15535379": {
+    "match_id": 15535379,
+    "home_score": 1,
+    "away_score": 2,
+    "home_scorers": [
+      {
+        "name": "Ruben Lopez",
+        "time": "70'"
+      }
+    ],
+    "away_scorers": [
+      {
+        "name": "Doru Popadiuc",
+        "time": "57'"
+      },
+      {
+        "name": "Konstantinos Doumtsios",
+        "time": "47'"
+      }
+    ]
   }
 }
