@@ -10,8 +10,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -27,8 +27,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -61,6 +61,18 @@
                 "country": "Brazil",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "Sky Sport Calcio"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "Sky Sport Calcio"
                 ]
             }
         ]
@@ -149,8 +161,9 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Disney+",
                     "ESPN",
-                    "Disney+"
+                    "YouTube - ESPN Brasil"
                 ]
             }
         ]
@@ -175,7 +188,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball"
+                    "OneFootball",
+                    "Canal Goat"
                 ]
             }
         ]
@@ -191,7 +205,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball"
+                    "OneFootball",
+                    "RedeTV!",
+                    "Canal Goat"
                 ]
             }
         ]
@@ -221,6 +237,12 @@
                 "channels": [
                     "Prime Video",
                     "YouTube - Caz\u00e9TV"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "Ligue 1+"
                 ]
             },
             {
@@ -612,8 +634,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -629,8 +651,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -753,18 +775,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 14015611,
-        "kickoff": 1773068400,
-        "fixture": "OFK Beograd Mozzart vs FK Radni\u010dki 1923",
+        "match_id": 14015608,
+        "kickoff": 1773075600,
+        "fixture": "FK Mladost Lu\u010dani vs FK Novi Pazar",
         "league_id": 210,
         "league": "Mozzart Bet Superliga",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14015608,
+        "match_id": 14015611,
         "kickoff": 1773075600,
-        "fixture": "FK Mladost Lu\u010dani vs FK Novi Pazar",
+        "fixture": "OFK Beograd Mozzart vs FK Radni\u010dki 1923",
         "league_id": 210,
         "league": "Mozzart Bet Superliga",
         "venue": "TBA",
@@ -795,7 +817,20 @@
         "league_id": 18,
         "league": "Championship",
         "venue": "Loftus Road Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083383,
@@ -1242,17 +1277,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 15502463,
-        "kickoff": 1773007200,
-        "fixture": "Barcelona SC Guayaquil vs Emelec",
-        "league_id": 240,
-        "league": "LigaPro Serie A, Primera Etapa",
-        "venue": "Estadio Monumental Banco Pichincha",
-        "tv_channels": []
-    },
-    {
         "match_id": 15502466,
-        "kickoff": 1773012600,
+        "kickoff": 1772994600,
         "fixture": "Macar\u00e1 vs T\u00e9cnico Universitario",
         "league_id": 240,
         "league": "LigaPro Serie A, Primera Etapa",
@@ -1302,6 +1328,15 @@
         "league_id": 1900,
         "league": "Super League",
         "venue": "Guru Nanak Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15645911,
+        "kickoff": 1773085500,
+        "fixture": "Shelbourne vs Shamrock Rovers",
+        "league_id": 192,
+        "league": "Premier Division",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -1843,6 +1878,15 @@
         ]
     },
     {
+        "match_id": 15643468,
+        "kickoff": 1773003600,
+        "fixture": "Cruzeiro vs Atl\u00e9tico Mineiro",
+        "league_id": 379,
+        "league": "Mineiro M\u00f3dulo I - Playoffs",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15603936,
         "kickoff": 1773003600,
         "fixture": "Campinense vs Sousa EC",
@@ -1852,12 +1896,30 @@
         "tv_channels": []
     },
     {
+        "match_id": 15646622,
+        "kickoff": 1773012600,
+        "fixture": "Gr\u00eamio Novorizontino vs Palmeiras",
+        "league_id": 372,
+        "league": "Paulista S\u00e9rie A1 - Playoffs",
+        "venue": "Est\u00e1dio Dr. Jorge Ismael de Biasi",
+        "tv_channels": []
+    },
+    {
         "match_id": 15602236,
         "kickoff": 1773003600,
         "fixture": "N\u00e1utico vs Sport Recife",
         "league_id": 380,
         "league": "Pernambucano, Serie A1, Playoffs",
         "venue": "Aflitos",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15646934,
+        "kickoff": 1773000000,
+        "fixture": "AO Itabaiana vs Am\u00e9rica-SE",
+        "league_id": 11665,
+        "league": "Sergipano,  S\u00e9rie A1 \u2013 Mata-mata",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -2221,24 +2283,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 14489934,
-        "kickoff": 1772982000,
-        "fixture": "Samartex vs Dreams",
-        "league_id": 1191,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14489932,
-        "kickoff": 1772982000,
-        "fixture": "Vision FC vs Berekum Chelsea",
-        "league_id": 1191,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 14489933,
         "kickoff": 1772982000,
         "fixture": "Young Apostles FC vs Bibiani Gold Stars FC",
@@ -2545,6 +2589,69 @@
         "tv_channels": []
     },
     {
+        "match_id": 14068693,
+        "kickoff": 1772964000,
+        "fixture": "Hellas Verona U20 vs Frosinone U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068694,
+        "kickoff": 1772964000,
+        "fixture": "Roma U20 vs Parma U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068698,
+        "kickoff": 1772971200,
+        "fixture": "Inter U20 vs Fiorentina U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068697,
+        "kickoff": 1772978400,
+        "fixture": "Cagliari U20 vs Monza U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068695,
+        "kickoff": 1773050400,
+        "fixture": "Lecce U20 vs Torino U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068696,
+        "kickoff": 1773057600,
+        "fixture": "Cremonese U20 vs Atalanta U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068706,
+        "kickoff": 1773064800,
+        "fixture": "Cesena U20 vs Milan U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15635549,
         "kickoff": 1772964000,
         "fixture": "FC Kaysar vs FK Zhenys",
@@ -2713,6 +2820,24 @@
         "league_id": 199,
         "league": "1. MFL",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14770556,
+        "kickoff": 1772974800,
+        "fixture": "Tromsdalen UIL vs SK Brann",
+        "league_id": 29,
+        "league": "NM Cup",
+        "venue": "Tuil Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14770557,
+        "kickoff": 1772982000,
+        "fixture": "Bryne FK vs Rosenborg BK",
+        "league_id": 29,
+        "league": "NM Cup",
+        "venue": "Bryne Stadion",
         "tv_channels": []
     },
     {
@@ -3184,6 +3309,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 14260899,
+        "kickoff": 1772964000,
+        "fixture": "CSM Re\u015fi\u0163a vs FC Corvinul Hunedoara",
+        "league_id": 562,
+        "league": "Liga II",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15551852,
         "kickoff": 1772974800,
         "fixture": "Torpedo Moscow vs Rodina Moscow",
@@ -3280,7 +3414,20 @@
         "league_id": 347,
         "league": "Scottish Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15511609,
