@@ -15,7 +15,30 @@
         "league_id": 696,
         "league": "UEFA Champions League, Women, Knockout stage",
         "venue": "Meadow Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC Two",
+                    "BBC iPlayer",
+                    "BBC Sport Web"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "BBC Two"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC Two",
+                    "BBC iPlayer",
+                    "BBC Sport Web"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15270034,
@@ -24,7 +47,14 @@
         "league_id": 155,
         "league": "Liga Profesional de F\u00fatbol, Apertura",
         "venue": "Estadio Ciudad de La Plata",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15270042,
@@ -283,6 +313,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15799106,
+        "kickoff": 1774274400,
+        "fixture": "Mohammedan SC vs East Bengal FC",
+        "league_id": 1900,
+        "league": "Super League",
+        "venue": "Vivekananda Yuba Bharati Krirangan",
+        "tv_channels": []
+    },
+    {
         "match_id": 15689844,
         "kickoff": 1774290600,
         "fixture": "AFC Unirea 04 Slobozia vs SC O\u021belul Gala\u021bi",
@@ -338,7 +377,7 @@
     },
     {
         "match_id": 15554575,
-        "kickoff": 1774303200,
+        "kickoff": 1774292400,
         "fixture": "Nueva Chicago vs Gimnasia y Tiro de Salta",
         "league_id": 703,
         "league": "Primera B Nacional",
@@ -367,6 +406,24 @@
         "match_id": 15759537,
         "kickoff": 1774391400,
         "fixture": "ASA vs Piau\u00ed EC",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15791235,
+        "kickoff": 1774398600,
+        "fixture": "Ferrovi\u00e1rio vs Fortaleza",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15791236,
+        "kickoff": 1774398600,
+        "fixture": "Sport Recife vs Jacuipense",
         "league_id": 1596,
         "league": "Copa do Nordeste",
         "venue": "TBA",

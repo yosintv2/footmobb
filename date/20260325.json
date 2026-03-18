@@ -15,7 +15,30 @@
         "league_id": 696,
         "league": "UEFA Champions League, Women, Knockout stage",
         "venue": "Meadow Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC Two",
+                    "BBC iPlayer",
+                    "BBC Sport Web"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "BBC Two"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC Two",
+                    "BBC iPlayer",
+                    "BBC Sport Web"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15471607,
@@ -273,6 +296,69 @@
         "match_id": 15759537,
         "kickoff": 1774391400,
         "fixture": "ASA vs Piau\u00ed EC",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15791235,
+        "kickoff": 1774398600,
+        "fixture": "Ferrovi\u00e1rio vs Fortaleza",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15791236,
+        "kickoff": 1774398600,
+        "fixture": "Sport Recife vs Jacuipense",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15791242,
+        "kickoff": 1774476000,
+        "fixture": "Am\u00e9rica-RN vs Maranh\u00e3o AC",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15791241,
+        "kickoff": 1774476000,
+        "fixture": "Cear\u00e1 vs ABC",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15791245,
+        "kickoff": 1774477800,
+        "fixture": "AO Itabaiana vs CRB",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15791244,
+        "kickoff": 1774477800,
+        "fixture": "Fluminense-PI vs Juazeirense",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15791243,
+        "kickoff": 1774477800,
+        "fixture": "Vit\u00f3ria vs Botafogo-PB",
         "league_id": 1596,
         "league": "Copa do Nordeste",
         "venue": "TBA",
