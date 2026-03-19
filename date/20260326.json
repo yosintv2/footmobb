@@ -10,8 +10,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 3",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 3"
                 ]
             }
         ]
@@ -27,8 +27,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -44,8 +44,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -177,13 +177,63 @@
         "tv_channels": []
     },
     {
+        "match_id": 15452155,
+        "kickoff": 1774537200,
+        "fixture": "Moldova vs Lithuania",
+        "league_id": 851,
+        "league": "Int. Friendly Games",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15646790,
+        "kickoff": 1774538700,
+        "fixture": "United Arab Emirates vs Armenia",
+        "league_id": 851,
+        "league": "Int. Friendly Games",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15437152,
+        "kickoff": 1774544400,
+        "fixture": "Cyprus vs Belarus",
+        "league_id": 851,
+        "league": "Int. Friendly Games",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15458672,
+        "kickoff": 1774544400,
+        "fixture": "Georgia vs Israel",
+        "league_id": 851,
+        "league": "Int. Friendly Games",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15388434,
         "kickoff": 1774479600,
         "fixture": "NJ/NY Gotham FC vs Denver Summit FC",
         "league_id": 1690,
         "league": "NWSL",
         "venue": "Sports Illustrated Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Discovery+",
+                    "TNT Sports 2"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15388435,

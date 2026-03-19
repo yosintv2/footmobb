@@ -20,8 +20,8 @@
                 "country": "Ireland",
                 "channels": [
                     "BBC Two",
-                    "BBC iPlayer",
-                    "BBC Sport Web"
+                    "BBC Sport Web",
+                    "BBC iPlayer"
                 ]
             },
             {
@@ -34,8 +34,8 @@
                 "country": "United Kingdom",
                 "channels": [
                     "BBC Two",
-                    "BBC iPlayer",
-                    "BBC Sport Web"
+                    "BBC Sport Web",
+                    "BBC iPlayer"
                 ]
             }
         ]
@@ -49,9 +49,27 @@
         "venue": "Estadio Ciudad de La Plata",
         "tv_channels": [
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
                 ]
             }
         ]
@@ -175,7 +193,26 @@
         "league_id": 54,
         "league": "LaLiga 2",
         "venue": "Estadio Municipal Castalia",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15559141,
@@ -220,7 +257,122 @@
         "league_id": 11539,
         "league": "Liga DIMAYOR, Apertura",
         "venue": "Estadio La Independencia",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Aruba",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Cura\u00e7ao",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15367400,
@@ -229,7 +381,122 @@
         "league_id": 11539,
         "league": "Liga DIMAYOR, Apertura",
         "venue": "Estadio Nemesio Camacho El Campin",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Aruba",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Cura\u00e7ao",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15367401,
@@ -238,7 +505,122 @@
         "league_id": 11539,
         "league": "Liga DIMAYOR, Apertura",
         "venue": "Estadio Jaraguay",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Aruba",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Cura\u00e7ao",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15367398,
@@ -337,7 +719,21 @@
         "league_id": 1894,
         "league": "A-League, Women",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Discovery+",
+                    "TNT Sports 3"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15420886,
@@ -364,7 +760,58 @@
         "league_id": 232,
         "league": "Frauen-Bundesliga",
         "venue": "An der alten F\u00f6rsterei",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "Sport1"
+                ]
+            },
+            {
+                "country": "Denmark",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "V Sport 2 Suomi"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "DAZN",
+                    "Sport1",
+                    "Magenta Sport"
+                ]
+            },
+            {
+                "country": "Greenland",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Sport1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14605938,
@@ -697,7 +1144,14 @@
         "league_id": 11540,
         "league": "Divisi\u00f3n de Honor, Apertura",
         "venue": "Estadio Martin Torres",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Tigo Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15400130,
@@ -706,7 +1160,14 @@
         "league_id": 11540,
         "league": "Divisi\u00f3n de Honor, Apertura",
         "venue": "Estadio La Arboleda",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Tigo Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15703703,

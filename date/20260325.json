@@ -20,8 +20,8 @@
                 "country": "Ireland",
                 "channels": [
                     "BBC Two",
-                    "BBC iPlayer",
-                    "BBC Sport Web"
+                    "BBC Sport Web",
+                    "BBC iPlayer"
                 ]
             },
             {
@@ -34,8 +34,8 @@
                 "country": "United Kingdom",
                 "channels": [
                     "BBC Two",
-                    "BBC iPlayer",
-                    "BBC Sport Web"
+                    "BBC Sport Web",
+                    "BBC iPlayer"
                 ]
             }
         ]
@@ -146,7 +146,21 @@
         "league_id": 1894,
         "league": "A-League, Women",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Discovery+",
+                    "TNT Sports 3"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15285669,
@@ -182,7 +196,21 @@
         "league_id": 1690,
         "league": "NWSL",
         "venue": "Sports Illustrated Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Discovery+",
+                    "TNT Sports 2"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15388435,
