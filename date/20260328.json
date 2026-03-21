@@ -15,7 +15,20 @@
         "league_id": 54,
         "league": "LaLiga 2",
         "venue": "Estadio Nuevo Arc\u00e1ngel",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Czechia",
+                "channels": [
+                    "Nova Sport 4"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Nova Sport 4"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083475,
@@ -249,7 +262,20 @@
         "league_id": 25,
         "league": "League Two",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Czechia",
+                "channels": [
+                    "Nova Sport 3"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Nova Sport 3"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14061025,
@@ -834,7 +860,20 @@
         "league_id": 1139,
         "league": "Premi\u00e8re Ligue, F\u00e9minine",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Czechia",
+                "channels": [
+                    "Nova Sport 5"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Nova Sport 5"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14420615,
@@ -1107,6 +1146,42 @@
         "tv_channels": []
     },
     {
+        "match_id": 15840663,
+        "kickoff": 1774728000,
+        "fixture": "CRB vs Vit\u00f3ria",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15840665,
+        "kickoff": 1774728000,
+        "fixture": "Maranh\u00e3o AC vs Ferrovi\u00e1rio",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15840664,
+        "kickoff": 1774728000,
+        "fixture": "Retr\u00f4 vs Cear\u00e1",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15840666,
+        "kickoff": 1774735200,
+        "fixture": "Fortaleza vs Imperatriz",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15416172,
         "kickoff": 1774645200,
         "fixture": "Deportes Recoleta vs Deportes Temuco",
@@ -1365,7 +1440,20 @@
         "league_id": 26,
         "league": "U21 EURO, Qualification, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Czechia",
+                "channels": [
+                    "\u010cT Sport"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "\u010cT Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 13500794,
@@ -1383,7 +1471,14 @@
         "league_id": 26,
         "league": "U21 EURO, Qualification, Group D",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "STVR \u0160port"
+                ]
+            }
+        ]
     },
     {
         "match_id": 13500795,
