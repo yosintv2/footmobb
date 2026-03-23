@@ -270,9 +270,21 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "channels": [
                     "Nova Sport 3"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football"
                 ]
             }
         ]
@@ -392,7 +404,21 @@
         "league_id": 1894,
         "league": "A-League, Women",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "TNT Sports 2",
+                    "Discovery+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14671922,
@@ -646,6 +672,19 @@
         "venue": "Centennial Stadium",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "channels": [
+                    "TNT Sports 4",
+                    "Discovery+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "CBS"
@@ -784,7 +823,22 @@
         "league_id": 1044,
         "league": "Women's Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Mix",
+                    "Sky Sports Premier League"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Mix",
+                    "Sky Sports Premier League"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14283277,
@@ -793,7 +847,36 @@
         "league_id": 1044,
         "league": "Women's Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC iPlayer",
+                    "BBC Sport Web",
+                    "BBC One"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC iPlayer",
+                    "BBC Sport Web",
+                    "BBC One"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14283278,
@@ -802,7 +885,22 @@
         "league_id": 1044,
         "league": "Women's Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14283279,
