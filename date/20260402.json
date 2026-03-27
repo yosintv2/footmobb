@@ -5,7 +5,7 @@
         "fixture": "FC Bayern M\u00fcnchen vs Manchester United",
         "league_id": 696,
         "league": "UEFA Champions League, Women, Knockout stage",
-        "venue": "FC Bayern Campus",
+        "venue": "Allianz Arena",
         "tv_channels": [
             {
                 "country": "Angola",
@@ -349,7 +349,7 @@
         "fixture": "Chelsea FC vs Arsenal",
         "league_id": 696,
         "league": "UEFA Champions League, Women, Knockout stage",
-        "venue": "Wheatsheaf Park",
+        "venue": "Stamford Bridge",
         "tv_channels": [
             {
                 "country": "Angola",
@@ -673,6 +673,12 @@
                 ]
             },
             {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Network"
+                ]
+            },
+            {
                 "country": "Zambia",
                 "channels": [
                     "ESPN Africa"
@@ -695,6 +701,12 @@
         "league": "UEFA Champions League, Women, Knockout stage",
         "venue": "Spotify Camp Nou",
         "tv_channels": [
+            {
+                "country": "Andorra",
+                "channels": [
+                    "TV3"
+                ]
+            },
             {
                 "country": "Angola",
                 "channels": [
@@ -984,6 +996,12 @@
                 ]
             },
             {
+                "country": "Spain",
+                "channels": [
+                    "TV3"
+                ]
+            },
+            {
                 "country": "Sudan",
                 "channels": [
                     "DStv Now"
@@ -1031,8 +1049,14 @@
         "fixture": "OL Lyonnes vs VfL Wolfsburg",
         "league_id": 696,
         "league": "UEFA Champions League, Women, Knockout stage",
-        "venue": "Stade Municipal de Gerland",
+        "venue": "Groupama Stadium",
         "tv_channels": [
+            {
+                "country": "Andorra",
+                "channels": [
+                    "L'\u00c9quipe"
+                ]
+            },
             {
                 "country": "Angola",
                 "channels": [
@@ -1147,6 +1171,12 @@
                 ]
             },
             {
+                "country": "France",
+                "channels": [
+                    "L'\u00c9quipe"
+                ]
+            },
+            {
                 "country": "Gabon",
                 "channels": [
                     "DStv Now",
@@ -1240,6 +1270,12 @@
                 "country": "Mayotte",
                 "channels": [
                     "ESPN Africa"
+                ]
+            },
+            {
+                "country": "Monaco",
+                "channels": [
+                    "L'\u00c9quipe"
                 ]
             },
             {
@@ -1419,9 +1455,9 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "TV Globo",
                     "Sportv",
-                    "Premiere",
-                    "TV Globo"
+                    "Premiere"
                 ]
             }
         ]
@@ -1450,7 +1486,7 @@
         "fixture": "Palmeiras vs Gr\u00eamio",
         "league_id": 325,
         "league": "Brasileir\u00e3o Betano",
-        "venue": "Allianz Parque",
+        "venue": "Arena Barueri",
         "tv_channels": []
     },
     {
@@ -1460,6 +1496,42 @@
         "league_id": 325,
         "league": "Brasileir\u00e3o Betano",
         "venue": "Est\u00e1dio C\u00edcero de Souza Marques",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15270053,
+        "kickoff": 1775084400,
+        "fixture": "CA Lan\u00fas vs Platense",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Estadio Ciudad de Lanus",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15270056,
+        "kickoff": 1775152800,
+        "fixture": "Barracas Central vs Sarmiento",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Estadio Claudio Chiqui Tapia",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15270059,
+        "kickoff": 1775161800,
+        "fixture": "Tigre vs Independiente Rivadavia",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Estadio Jose Dellagiovanna",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15270047,
+        "kickoff": 1775172600,
+        "fixture": "CA Talleres vs Boca Juniors",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Mario Alberto Kempes",
         "tv_channels": []
     },
     {
@@ -2046,6 +2118,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15353010,
+        "kickoff": 1775163600,
+        "fixture": "Universidad Cat\u00f3lica vs Palestino",
+        "league_id": 11653,
+        "league": "Liga de Primera",
+        "venue": "Claro Arena",
+        "tv_channels": []
+    },
+    {
         "match_id": 15362607,
         "kickoff": 1775170800,
         "fixture": "Deportivo La Guaira vs Carabobo FC",
@@ -2492,6 +2573,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15882309,
+        "kickoff": 1775062800,
+        "fixture": "Eintracht Norderstedt vs 1.FC Ph\u00f6nix L\u00fcbeck",
+        "league_id": 42,
+        "league": "Regionalliga North",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15589564,
         "kickoff": 1775142000,
         "fixture": "Bremer SV vs Kickers Emden",
@@ -2654,9 +2744,54 @@
         "tv_channels": []
     },
     {
+        "match_id": 15336047,
+        "kickoff": 1775077200,
+        "fixture": "Cob\u00e1n Imperial vs Aurora FC",
+        "league_id": 11615,
+        "league": "Liga Bantrab, Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15336045,
+        "kickoff": 1775088000,
+        "fixture": "Antigua GFC vs CD Mictl\u00e1n",
+        "league_id": 11615,
+        "league": "Liga Bantrab, Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15336053,
+        "kickoff": 1775095200,
+        "fixture": "CD Marquense vs CSD Xelaj\u00fa MC",
+        "league_id": 11615,
+        "league": "Liga Bantrab, Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15336049,
+        "kickoff": 1775163600,
+        "fixture": "Deportivo Achuapa vs CSD Municipal",
+        "league_id": 11615,
+        "league": "Liga Bantrab, Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15336048,
         "kickoff": 1775170800,
         "fixture": "Comunicaciones FC vs Deportivo Mixco",
+        "league_id": 11615,
+        "league": "Liga Bantrab, Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15336052,
+        "kickoff": 1775178000,
+        "fixture": "Deportivo Malacateco vs Deportivo Guastatoya",
         "league_id": 11615,
         "league": "Liga Bantrab, Clausura",
         "venue": "TBA",
