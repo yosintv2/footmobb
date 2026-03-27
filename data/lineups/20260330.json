@@ -3003,5 +3003,415 @@
       "missingPlayers": []
     },
     "statisticalVersion": 2
+  },
+  "15437864": {
+    "confirmed": false,
+    "home": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "008c80",
+        "outline": "f0bd49",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "ffffff",
+        "outline": "035bf6",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": [
+        {
+          "player": {
+            "name": "Nicholas D'Agostino",
+            "slug": "nicholas-dagostino",
+            "shortName": "N. D'Agostino",
+            "position": "F",
+            "jerseyNumber": "9",
+            "height": 175,
+            "userCount": 143,
+            "gender": "M",
+            "country": {
+              "alpha2": "AU",
+              "alpha3": "AUS",
+              "name": "Australia",
+              "slug": "australia"
+            },
+            "id": 791963,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 888364800,
+            "proposedMarketValueRaw": {
+              "value": 740000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0646\u064a\u0643\u0648\u0644\u0627\u0633 \u062f\u0627\u062c\u0648\u0633\u062a\u064a\u0646\u0648",
+                "bn": "\u09a8\u09bf\u0995\u09cb\u09b2\u09be\u09b8 \u09a1\u09bf'\u0986\u0997\u09cb\u09b8\u09cd\u099f\u09bf\u09a8\u09cb",
+                "hi": "\u0928\u093f\u0915\u094b\u0932\u0938 \u0921\u0940'\u0905\u0917\u094b\u0938\u094d\u091f\u093f\u0928\u094b"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0646. \u062f\u0627\u062c\u0648\u0633\u062a\u064a\u0646\u0648",
+                "bn": "\u098f\u09a8. \u09a1\u09bf'\u0985\u09cd\u09af\u09be\u0997\u09cb\u09b8\u09cd\u099f\u09bf\u09a8\u09cb",
+                "hi": "\u090f\u0928. \u0921\u0940'\u0905\u0917\u094b\u0938\u094d\u091f\u093f\u0928\u094b"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "MCL Knee Injury",
+          "externalType": 72,
+          "expectedEndDate": "2026-04-19T00:00:00+00:00"
+        }
+      ]
+    },
+    "away": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "000000",
+        "outline": "ffffff",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "ffffff",
+        "outline": "ff8b00",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": []
+    },
+    "statisticalVersion": 2
+  },
+  "15617773": {
+    "confirmed": false,
+    "home": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "ffff00",
+        "outline": "006633",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "050505",
+        "outline": "cc97d3",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": [
+        {
+          "player": {
+            "name": "Frank Magri",
+            "firstName": "Frank Magri",
+            "lastName": "",
+            "slug": "frank-magri",
+            "shortName": "F. Magri",
+            "position": "F",
+            "jerseyNumber": "9",
+            "height": 178,
+            "userCount": 1820,
+            "gender": "M",
+            "country": {
+              "alpha2": "CM",
+              "alpha3": "CMR",
+              "name": "Cameroon",
+              "slug": "cameroon"
+            },
+            "id": 1169436,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 936403200,
+            "proposedMarketValueRaw": {
+              "value": 4200000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0628\u064a\u0631\u064a\u0643\u0648\u064a\u062a\u0634\u064a\u0627 \u0646 / \u0645\u0648\u0646\u0648 \u0623",
+                "bn": "\u09ab\u09cd\u09b0\u09be\u0999\u09cd\u0995 \u09ae\u09be\u0997\u09cd\u09b0\u09bf",
+                "hi": "\u092b\u094d\u0930\u0948\u0902\u0915 \u092e\u0948\u0917\u094d\u0930\u0940"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0641. \u0645\u0627\u062c\u0631\u064a",
+                "bn": "\u098f\u09ab. \u09ae\u09be\u0997\u09b0\u09bf",
+                "hi": "\u090f\u092b. \u092e\u0948\u0917\u094d\u0930\u0940"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "Knee Injury",
+          "externalType": 72
+        },
+        {
+          "player": {
+            "name": "Bryan Mbeumo",
+            "slug": "bryan-mbeumo",
+            "shortName": "B. Mbeumo",
+            "position": "M",
+            "jerseyNumber": "19",
+            "height": 173,
+            "userCount": 116684,
+            "gender": "M",
+            "sofascoreId": "bryan_m19",
+            "country": {
+              "alpha2": "CM",
+              "alpha3": "CMR",
+              "name": "Cameroon",
+              "slug": "cameroon"
+            },
+            "id": 927083,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 933984000,
+            "proposedMarketValueRaw": {
+              "value": 78000000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0628\u0631\u0627\u064a\u0627\u0646 \u0645\u0628\u064a\u0648\u0645\u0648",
+                "bn": "\u09ac\u09cd\u09b0\u09be\u09af\u09bc\u09be\u09a8 \u098f\u09ae\u09ac\u09c7\u0989\u09ae\u09cb",
+                "hi": "\u092c\u094d\u0930\u093e\u092f\u0928 \u092e\u092c\u0947\u0909\u092e\u094b"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0628. \u0645\u0628\u064a\u0648\u0645\u0648",
+                "bn": "\u09ac\u09bf. \u098f\u09ae\u09ac\u09c7\u0989\u09ae\u09cb",
+                "hi": "\u092c\u0940. \u092e\u092c\u0947\u0909\u092e\u094b"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "Physical Discomfort",
+          "externalType": 114,
+          "expectedEndDate": "2026-04-10T00:00:00+00:00"
+        }
+      ]
+    },
+    "away": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "282828",
+        "outline": "fc2c2d",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "ffffff",
+        "outline": "76ff0d",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": []
+    },
+    "statisticalVersion": 2
+  },
+  "15400664": {
+    "confirmed": false,
+    "home": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "f8f8f7",
+        "outline": "0a478a",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "000033",
+        "outline": "d388c8",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": []
+    },
+    "away": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "0030b5",
+        "outline": "fcfcfc",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "ffffff",
+        "outline": "080808",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": [
+        {
+          "player": {
+            "name": "Luk\u00e1\u0161 Hr\u00e1deck\u00fd",
+            "slug": "lukas-hradecky",
+            "shortName": "L. Hr\u00e1deck\u00fd",
+            "position": "G",
+            "jerseyNumber": "1",
+            "height": 190,
+            "userCount": 2468,
+            "gender": "M",
+            "country": {
+              "alpha2": "FI",
+              "alpha3": "FIN",
+              "name": "Finland",
+              "slug": "finland"
+            },
+            "id": 15219,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 627868800,
+            "proposedMarketValueRaw": {
+              "value": 1900000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0644\u0648\u0643\u0627\u0633 \u0647\u0631\u0627\u062f\u064a\u0643\u0649",
+                "bn": "\u09b2\u09c1\u0995\u09be\u09b8 \u09b9\u09cd\u09b0\u09be\u09a1\u09c7\u0995\u09bf",
+                "hi": "\u0932\u0941\u0915\u093e\u0938 \u0939\u094d\u0930\u093e\u0921\u0947\u0915\u0940"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0644. \u0647\u0631\u0627\u062f\u064a\u0643\u0649",
+                "bn": "\u098f\u09b2. \u09b9\u09cd\u09b0\u09be\u09a1\u09c7\u0995\u09bf",
+                "hi": "\u090f\u0932. \u0939\u094d\u0930\u093e\u0921\u0947\u0915\u0940"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "Knee Injury",
+          "externalType": 72
+        }
+      ]
+    },
+    "statisticalVersion": 2
+  },
+  "15718024": {
+    "confirmed": false,
+    "home": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "000000",
+        "outline": "ffffff",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "ffffff",
+        "outline": "cb9be9",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": [
+        {
+          "player": {
+            "name": "Michael Boxall",
+            "slug": "michael-boxall",
+            "shortName": "M. Boxall",
+            "position": "D",
+            "jerseyNumber": "15",
+            "height": 188,
+            "userCount": 123,
+            "gender": "M",
+            "country": {
+              "alpha2": "NZ",
+              "alpha3": "NZL",
+              "name": "New Zealand",
+              "slug": "new-zealand"
+            },
+            "id": 38624,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 587865600,
+            "proposedMarketValueRaw": {
+              "value": 155000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0645\u0627\u064a\u0643\u0644 \u0628\u0648\u0643\u0633\u0627\u0644",
+                "bn": "\u09ae\u09be\u0987\u0995\u09c7\u09b2 \u09ac\u0995\u09cd\u09b8\u09be\u09b2",
+                "hi": "\u092e\u093e\u0907\u0915\u0932 \u092c\u0949\u0915\u094d\u0938\u0932"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0645. \u0628\u0648\u0643\u0633\u0627\u0644",
+                "bn": "\u098f\u09ae. \u09ac\u0995\u09cd\u09b8\u09be\u09b2",
+                "hi": "\u090f\u092e. \u092c\u0949\u0915\u094d\u0938\u0932"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "Groin Injury",
+          "externalType": 72,
+          "expectedEndDate": "2026-04-06T00:00:00+00:00"
+        }
+      ]
+    },
+    "away": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "ffffff",
+        "outline": "fe5b3c",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "c8e149",
+        "outline": "1c9d46",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": [
+        {
+          "player": {
+            "name": "Marcelino N\u00fa\u00f1ez",
+            "slug": "marcelino-nunez",
+            "shortName": "M. N\u00fa\u00f1ez",
+            "position": "M",
+            "jerseyNumber": "32",
+            "height": 173,
+            "userCount": 3042,
+            "gender": "M",
+            "country": {
+              "alpha2": "CL",
+              "alpha3": "CHL",
+              "name": "Chile",
+              "slug": "chile"
+            },
+            "id": 1014801,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 951868800,
+            "proposedMarketValueRaw": {
+              "value": 10600000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0645\u0627\u0631\u0633\u064a\u0644\u064a\u0646\u0648 \u0646\u0648\u0646\u064a\u0632",
+                "bn": "\u09ae\u09be\u09b0\u09cd\u09b8\u09c7\u09b2\u09bf\u09a8\u09cb \u09a8\u09c1\u09a8\u09c7\u099c",
+                "hi": "\u092e\u093e\u0930\u094d\u0938\u0947\u0932\u093f\u0928\u094b \u0928\u0941\u0928\u0947\u091c\u093c"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0645. \u0646\u0648\u0646\u064a\u0632",
+                "bn": "\u098f\u09ae. \u09a8\u09c1\u09a8\u09c7\u099c",
+                "hi": "\u090f\u092e. \u0928\u0941\u0928\u0947\u091c\u093c"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "Hamstring",
+          "externalType": 72,
+          "expectedEndDate": "2026-04-07T00:00:00+00:00"
+        }
+      ]
+    },
+    "statisticalVersion": 2
   }
 }
