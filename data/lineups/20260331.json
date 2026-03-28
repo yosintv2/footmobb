@@ -4358,5 +4358,87 @@
       "missingPlayers": []
     },
     "statisticalVersion": 3
+  },
+  "15891358": {
+    "confirmed": false,
+    "home": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "ffffff",
+        "outline": "054fba",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "ffffff",
+        "outline": "cbff00",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": []
+    },
+    "away": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "245f8f",
+        "outline": "feea00",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "0067ff",
+        "outline": "00ff01",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": [
+        {
+          "player": {
+            "name": "Louis Munteanu",
+            "firstName": "",
+            "lastName": "",
+            "slug": "louis-munteanu",
+            "shortName": "L. Munteanu",
+            "position": "F",
+            "jerseyNumber": "11",
+            "height": 184,
+            "userCount": 2257,
+            "gender": "M",
+            "country": {
+              "alpha2": "RO",
+              "alpha3": "ROU",
+              "name": "Romania",
+              "slug": "romania"
+            },
+            "id": 960307,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 1024185600,
+            "proposedMarketValueRaw": {
+              "value": 4600000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0644\u0648\u064a\u0633 \u0645\u0648\u0646\u062a\u064a\u0627\u0646\u0648",
+                "bn": "\u09b2\u09c1\u0987 \u09ae\u09c1\u09a8\u09a4\u09c7\u09a8\u09c1",
+                "hi": "\u0932\u0941\u0908\u0938 \u092e\u0941\u0902\u091f\u0947\u0928\u0941"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0644. \u0645\u0648\u0646\u062a\u064a\u0627\u0646\u0648",
+                "bn": "\u098f\u09b2. \u09ae\u09c1\u09a8\u09a4\u09c7\u09a8\u09c1",
+                "hi": "\u090f\u0932. \u092e\u0941\u0902\u091f\u0947\u0928\u0941"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "Leg Injury",
+          "externalType": 72
+        }
+      ]
+    },
+    "statisticalVersion": 2
   }
 }
