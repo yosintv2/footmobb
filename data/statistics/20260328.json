@@ -29964,14 +29964,122 @@
             "groupName": "Match overview",
             "statisticsItems": [
               {
+                "name": "Ball possession",
+                "home": "48%",
+                "away": "52%",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 48,
+                "awayValue": 52,
+                "renderType": 2,
+                "key": "ballPossession"
+              },
+              {
+                "name": "Expected goals",
+                "home": "2.03",
+                "away": "0.68",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 2.03,
+                "awayValue": 0.68,
+                "renderType": 1,
+                "key": "expectedGoals"
+              },
+              {
+                "name": "Total shots",
+                "home": "11",
+                "away": "8",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 11,
+                "awayValue": 8,
+                "renderType": 1,
+                "key": "totalShotsOnGoal"
+              },
+              {
+                "name": "Goalkeeper saves",
+                "home": "2",
+                "away": "3",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 2,
+                "awayValue": 3,
+                "renderType": 1,
+                "key": "goalkeeperSaves"
+              },
+              {
+                "name": "Corner kicks",
+                "home": "4",
+                "away": "6",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 4,
+                "awayValue": 6,
+                "renderType": 1,
+                "key": "cornerKicks"
+              },
+              {
+                "name": "Fouls",
+                "home": "12",
+                "away": "12",
+                "compareCode": 3,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 12,
+                "awayValue": 12,
+                "renderType": 1,
+                "key": "fouls"
+              },
+              {
+                "name": "Passes",
+                "home": "331",
+                "away": "377",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 331,
+                "awayValue": 377,
+                "renderType": 1,
+                "key": "passes"
+              },
+              {
+                "name": "Tackles",
+                "home": "1",
+                "away": "0",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "totalTackle"
+              },
+              {
+                "name": "Free kicks",
+                "home": "1",
+                "away": "3",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 3,
+                "renderType": 1,
+                "key": "freeKicks"
+              },
+              {
                 "name": "Yellow cards",
                 "home": "3",
-                "away": "2",
-                "compareCode": 1,
+                "away": "3",
+                "compareCode": 3,
                 "statisticsType": "negative",
                 "valueType": "event",
                 "homeValue": 3,
-                "awayValue": 2,
+                "awayValue": 3,
                 "renderType": 1,
                 "key": "yellowCards"
               },
@@ -29986,6 +30094,322 @@
                 "awayValue": 0,
                 "renderType": 1,
                 "key": "redCards"
+              }
+            ]
+          },
+          {
+            "groupName": "Shots",
+            "statisticsItems": [
+              {
+                "name": "Total shots",
+                "home": "11",
+                "away": "8",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 11,
+                "awayValue": 8,
+                "renderType": 1,
+                "key": "totalShotsOnGoal"
+              },
+              {
+                "name": "Shots on target",
+                "home": "7",
+                "away": "3",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 7,
+                "awayValue": 3,
+                "renderType": 1,
+                "key": "shotsOnGoal"
+              },
+              {
+                "name": "Hit woodwork",
+                "home": "0",
+                "away": "0",
+                "compareCode": 3,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 0,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "hitWoodwork"
+              },
+              {
+                "name": "Shots off target",
+                "home": "3",
+                "away": "4",
+                "compareCode": 2,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 3,
+                "awayValue": 4,
+                "renderType": 1,
+                "key": "shotsOffGoal"
+              },
+              {
+                "name": "Blocked shots",
+                "home": "1",
+                "away": "1",
+                "compareCode": 3,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 1,
+                "renderType": 1,
+                "key": "blockedScoringAttempt"
+              },
+              {
+                "name": "Shots inside box",
+                "home": "9",
+                "away": "4",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 9,
+                "awayValue": 4,
+                "renderType": 1,
+                "key": "totalShotsInsideBox"
+              },
+              {
+                "name": "Shots outside box",
+                "home": "2",
+                "away": "4",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 2,
+                "awayValue": 4,
+                "renderType": 1,
+                "key": "totalShotsOutsideBox"
+              }
+            ]
+          },
+          {
+            "groupName": "Attack",
+            "statisticsItems": [
+              {
+                "name": "Through balls",
+                "home": "1",
+                "away": "0",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "accurateThroughBall"
+              },
+              {
+                "name": "Offsides",
+                "home": "3",
+                "away": "0",
+                "compareCode": 1,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 3,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "offsides"
+              }
+            ]
+          },
+          {
+            "groupName": "Passes",
+            "statisticsItems": [
+              {
+                "name": "Accurate passes",
+                "home": "222",
+                "away": "267",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 222,
+                "awayValue": 267,
+                "renderType": 1,
+                "key": "accuratePasses"
+              },
+              {
+                "name": "Throw-ins",
+                "home": "36",
+                "away": "15",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 36,
+                "awayValue": 15,
+                "renderType": 1,
+                "key": "throwIns"
+              },
+              {
+                "name": "Long balls",
+                "home": "35/76 (46%)",
+                "away": "34/70 (48%)",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 35,
+                "awayValue": 34,
+                "homeTotal": 76,
+                "awayTotal": 70,
+                "renderType": 3,
+                "key": "accurateLongBalls"
+              },
+              {
+                "name": "Crosses",
+                "home": "6/13 (46%)",
+                "away": "5/16 (31%)",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 6,
+                "awayValue": 5,
+                "homeTotal": 13,
+                "awayTotal": 16,
+                "renderType": 3,
+                "key": "accurateCross"
+              }
+            ]
+          },
+          {
+            "groupName": "Duels",
+            "statisticsItems": [
+              {
+                "name": "Duels",
+                "home": "49%",
+                "away": "29%",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 49,
+                "awayValue": 29,
+                "renderType": 2,
+                "key": "duelWonPercent"
+              },
+              {
+                "name": "Dispossessed",
+                "home": "3",
+                "away": "4",
+                "compareCode": 2,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 3,
+                "awayValue": 4,
+                "renderType": 1,
+                "key": "dispossessed"
+              },
+              {
+                "name": "Ground duels",
+                "home": "44/112 (39%)",
+                "away": "35/119 (29%)",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 44,
+                "awayValue": 35,
+                "homeTotal": 112,
+                "awayTotal": 119,
+                "renderType": 3,
+                "key": "groundDuelsPercentage"
+              },
+              {
+                "name": "Aerial duels",
+                "home": "38/55 (69%)",
+                "away": "17/55 (31%)",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 38,
+                "awayValue": 17,
+                "homeTotal": 55,
+                "awayTotal": 55,
+                "renderType": 3,
+                "key": "aerialDuelsPercentage"
+              },
+              {
+                "name": "Dribbles",
+                "home": "14/26 (54%)",
+                "away": "9/13 (69%)",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 14,
+                "awayValue": 9,
+                "homeTotal": 26,
+                "awayTotal": 13,
+                "renderType": 3,
+                "key": "dribblesPercentage"
+              }
+            ]
+          },
+          {
+            "groupName": "Defending",
+            "statisticsItems": [
+              {
+                "name": "Total tackles",
+                "home": "1",
+                "away": "0",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "totalTackle"
+              },
+              {
+                "name": "Interceptions",
+                "home": "11",
+                "away": "16",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 11,
+                "awayValue": 16,
+                "renderType": 1,
+                "key": "interceptionWon"
+              },
+              {
+                "name": "Clearances",
+                "home": "13",
+                "away": "15",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 13,
+                "awayValue": 15,
+                "renderType": 1,
+                "key": "totalClearance"
+              }
+            ]
+          },
+          {
+            "groupName": "Goalkeeping",
+            "statisticsItems": [
+              {
+                "name": "Total saves",
+                "home": "2",
+                "away": "3",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 2,
+                "awayValue": 3,
+                "renderType": 1,
+                "key": "goalkeeperSaves"
+              },
+              {
+                "name": "Goal kicks",
+                "home": "5",
+                "away": "7",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 5,
+                "awayValue": 7,
+                "renderType": 1,
+                "key": "goalKicks"
               }
             ]
           }
@@ -43077,12 +43501,12 @@
               {
                 "name": "Total shots",
                 "home": "12",
-                "away": "9",
+                "away": "10",
                 "compareCode": 1,
                 "statisticsType": "positive",
                 "valueType": "event",
                 "homeValue": 12,
-                "awayValue": 9,
+                "awayValue": 10,
                 "renderType": 1,
                 "key": "totalShotsOnGoal"
               },
@@ -43190,12 +43614,12 @@
               {
                 "name": "Total shots",
                 "home": "12",
-                "away": "9",
+                "away": "10",
                 "compareCode": 1,
                 "statisticsType": "positive",
                 "valueType": "event",
                 "homeValue": 12,
-                "awayValue": 9,
+                "awayValue": 10,
                 "renderType": 1,
                 "key": "totalShotsOnGoal"
               },
@@ -43238,24 +43662,24 @@
               {
                 "name": "Blocked shots",
                 "home": "2",
-                "away": "3",
+                "away": "4",
                 "compareCode": 2,
                 "statisticsType": "negative",
                 "valueType": "event",
                 "homeValue": 2,
-                "awayValue": 3,
+                "awayValue": 4,
                 "renderType": 1,
                 "key": "blockedScoringAttempt"
               },
               {
                 "name": "Shots inside box",
                 "home": "9",
-                "away": "6",
+                "away": "7",
                 "compareCode": 1,
                 "statisticsType": "positive",
                 "valueType": "event",
                 "homeValue": 9,
-                "awayValue": 6,
+                "awayValue": 7,
                 "renderType": 1,
                 "key": "totalShotsInsideBox"
               },
@@ -43303,12 +43727,12 @@
               {
                 "name": "Touches in penalty area",
                 "home": "37",
-                "away": "20",
+                "away": "21",
                 "compareCode": 1,
                 "statisticsType": "positive",
                 "valueType": "event",
                 "homeValue": 37,
-                "awayValue": 20,
+                "awayValue": 21,
                 "renderType": 1,
                 "key": "touchesInOppBox"
               },
@@ -43497,12 +43921,12 @@
             "statisticsItems": [
               {
                 "name": "Tackles won",
-                "home": "86%",
+                "home": "79%",
                 "away": "54%",
                 "compareCode": 1,
                 "statisticsType": "positive",
                 "valueType": "team",
-                "homeValue": 12,
+                "homeValue": 11,
                 "awayValue": 7,
                 "homeTotal": 14,
                 "awayTotal": 13,
@@ -44179,12 +44603,12 @@
               {
                 "name": "Total shots",
                 "home": "1",
-                "away": "7",
+                "away": "8",
                 "compareCode": 2,
                 "statisticsType": "positive",
                 "valueType": "event",
                 "homeValue": 1,
-                "awayValue": 7,
+                "awayValue": 8,
                 "renderType": 1,
                 "key": "totalShotsOnGoal"
               },
@@ -44292,12 +44716,12 @@
               {
                 "name": "Total shots",
                 "home": "1",
-                "away": "7",
+                "away": "8",
                 "compareCode": 2,
                 "statisticsType": "positive",
                 "valueType": "event",
                 "homeValue": 1,
-                "awayValue": 7,
+                "awayValue": 8,
                 "renderType": 1,
                 "key": "totalShotsOnGoal"
               },
@@ -44340,24 +44764,24 @@
               {
                 "name": "Blocked shots",
                 "home": "0",
-                "away": "1",
+                "away": "2",
                 "compareCode": 2,
                 "statisticsType": "negative",
                 "valueType": "event",
                 "homeValue": 0,
-                "awayValue": 1,
+                "awayValue": 2,
                 "renderType": 1,
                 "key": "blockedScoringAttempt"
               },
               {
                 "name": "Shots inside box",
                 "home": "1",
-                "away": "5",
+                "away": "6",
                 "compareCode": 2,
                 "statisticsType": "positive",
                 "valueType": "event",
                 "homeValue": 1,
-                "awayValue": 5,
+                "awayValue": 6,
                 "renderType": 1,
                 "key": "totalShotsInsideBox"
               },
@@ -44573,12 +44997,12 @@
             "statisticsItems": [
               {
                 "name": "Tackles won",
-                "home": "83%",
+                "home": "67%",
                 "away": "50%",
                 "compareCode": 1,
                 "statisticsType": "positive",
                 "valueType": "team",
-                "homeValue": 5,
+                "homeValue": 4,
                 "awayValue": 2,
                 "homeTotal": 6,
                 "awayTotal": 4,
@@ -46792,24 +47216,24 @@
               },
               {
                 "name": "Corner kicks",
-                "home": "4",
+                "home": "6",
                 "away": "0",
                 "compareCode": 1,
                 "statisticsType": "positive",
                 "valueType": "event",
-                "homeValue": 4,
+                "homeValue": 6,
                 "awayValue": 0,
                 "renderType": 1,
                 "key": "cornerKicks"
               },
               {
                 "name": "Fouls",
-                "home": "6",
+                "home": "10",
                 "away": "0",
                 "compareCode": 1,
                 "statisticsType": "negative",
                 "valueType": "event",
-                "homeValue": 6,
+                "homeValue": 10,
                 "awayValue": 0,
                 "renderType": 1,
                 "key": "fouls"
@@ -46817,12 +47241,12 @@
               {
                 "name": "Free kicks",
                 "home": "0",
-                "away": "6",
+                "away": "10",
                 "compareCode": 2,
                 "statisticsType": "positive",
                 "valueType": "event",
                 "homeValue": 0,
-                "awayValue": 6,
+                "awayValue": 10,
                 "renderType": 1,
                 "key": "freeKicks"
               },
@@ -46857,13 +47281,13 @@
             "statisticsItems": [
               {
                 "name": "Shots on target",
-                "home": "0",
-                "away": "0",
+                "home": "1",
+                "away": "1",
                 "compareCode": 3,
                 "statisticsType": "positive",
                 "valueType": "event",
-                "homeValue": 0,
-                "awayValue": 0,
+                "homeValue": 1,
+                "awayValue": 1,
                 "renderType": 1,
                 "key": "shotsOnGoal"
               },
@@ -46893,12 +47317,12 @@
               },
               {
                 "name": "Blocked shots",
-                "home": "3",
+                "home": "4",
                 "away": "1",
                 "compareCode": 1,
                 "statisticsType": "negative",
                 "valueType": "event",
-                "homeValue": 3,
+                "homeValue": 4,
                 "awayValue": 1,
                 "renderType": 1,
                 "key": "blockedScoringAttempt"
@@ -46910,12 +47334,12 @@
             "statisticsItems": [
               {
                 "name": "Offsides",
-                "home": "1",
+                "home": "3",
                 "away": "0",
                 "compareCode": 1,
                 "statisticsType": "negative",
                 "valueType": "event",
-                "homeValue": 1,
+                "homeValue": 3,
                 "awayValue": 0,
                 "renderType": 1,
                 "key": "offsides"
@@ -46927,13 +47351,13 @@
             "statisticsItems": [
               {
                 "name": "Throw-ins",
-                "home": "6",
-                "away": "9",
+                "home": "10",
+                "away": "11",
                 "compareCode": 2,
                 "statisticsType": "positive",
                 "valueType": "event",
-                "homeValue": 6,
-                "awayValue": 9,
+                "homeValue": 10,
+                "awayValue": 11,
                 "renderType": 1,
                 "key": "throwIns"
               }
@@ -47448,6 +47872,1191 @@
                 "awayValue": 11,
                 "renderType": 1,
                 "key": "goalKicks"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "14073661": {
+    "statistics": [
+      {
+        "period": "ALL",
+        "groups": [
+          {
+            "groupName": "Match overview",
+            "statisticsItems": [
+              {
+                "name": "Ball possession",
+                "home": "27%",
+                "away": "73%",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 27,
+                "awayValue": 73,
+                "renderType": 2,
+                "key": "ballPossession"
+              },
+              {
+                "name": "Expected goals",
+                "home": "1.96",
+                "away": "2.51",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 1.96,
+                "awayValue": 2.51,
+                "renderType": 1,
+                "key": "expectedGoals"
+              },
+              {
+                "name": "Total shots",
+                "home": "13",
+                "away": "22",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 13,
+                "awayValue": 22,
+                "renderType": 1,
+                "key": "totalShotsOnGoal"
+              },
+              {
+                "name": "Goalkeeper saves",
+                "home": "5",
+                "away": "5",
+                "compareCode": 3,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 5,
+                "awayValue": 5,
+                "renderType": 1,
+                "key": "goalkeeperSaves"
+              },
+              {
+                "name": "Corner kicks",
+                "home": "5",
+                "away": "8",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 5,
+                "awayValue": 8,
+                "renderType": 1,
+                "key": "cornerKicks"
+              },
+              {
+                "name": "Fouls",
+                "home": "10",
+                "away": "6",
+                "compareCode": 1,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 10,
+                "awayValue": 6,
+                "renderType": 1,
+                "key": "fouls"
+              },
+              {
+                "name": "Passes",
+                "home": "272",
+                "away": "589",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 272,
+                "awayValue": 589,
+                "renderType": 1,
+                "key": "passes"
+              },
+              {
+                "name": "Tackles",
+                "home": "1",
+                "away": "3",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 3,
+                "renderType": 1,
+                "key": "totalTackle"
+              },
+              {
+                "name": "Free kicks",
+                "home": "1",
+                "away": "3",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 3,
+                "renderType": 1,
+                "key": "freeKicks"
+              },
+              {
+                "name": "Yellow cards",
+                "home": "1",
+                "away": "0",
+                "compareCode": 1,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "yellowCards"
+              },
+              {
+                "name": "Red cards",
+                "home": "0",
+                "away": "0",
+                "compareCode": 3,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 0,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "redCards"
+              }
+            ]
+          },
+          {
+            "groupName": "Shots",
+            "statisticsItems": [
+              {
+                "name": "Total shots",
+                "home": "13",
+                "away": "22",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 13,
+                "awayValue": 22,
+                "renderType": 1,
+                "key": "totalShotsOnGoal"
+              },
+              {
+                "name": "Shots on target",
+                "home": "6",
+                "away": "5",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 6,
+                "awayValue": 5,
+                "renderType": 1,
+                "key": "shotsOnGoal"
+              },
+              {
+                "name": "Hit woodwork",
+                "home": "0",
+                "away": "0",
+                "compareCode": 3,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 0,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "hitWoodwork"
+              },
+              {
+                "name": "Shots off target",
+                "home": "5",
+                "away": "6",
+                "compareCode": 2,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 5,
+                "awayValue": 6,
+                "renderType": 1,
+                "key": "shotsOffGoal"
+              },
+              {
+                "name": "Blocked shots",
+                "home": "2",
+                "away": "11",
+                "compareCode": 2,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 2,
+                "awayValue": 11,
+                "renderType": 1,
+                "key": "blockedScoringAttempt"
+              },
+              {
+                "name": "Shots inside box",
+                "home": "10",
+                "away": "14",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 10,
+                "awayValue": 14,
+                "renderType": 1,
+                "key": "totalShotsInsideBox"
+              },
+              {
+                "name": "Shots outside box",
+                "home": "3",
+                "away": "8",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 3,
+                "awayValue": 8,
+                "renderType": 1,
+                "key": "totalShotsOutsideBox"
+              }
+            ]
+          },
+          {
+            "groupName": "Attack",
+            "statisticsItems": [
+              {
+                "name": "Through balls",
+                "home": "2",
+                "away": "2",
+                "compareCode": 3,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 2,
+                "awayValue": 2,
+                "renderType": 1,
+                "key": "accurateThroughBall"
+              },
+              {
+                "name": "Touches in penalty area",
+                "home": "15",
+                "away": "32",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 15,
+                "awayValue": 32,
+                "renderType": 1,
+                "key": "touchesInOppBox"
+              },
+              {
+                "name": "Offsides",
+                "home": "2",
+                "away": "1",
+                "compareCode": 1,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 2,
+                "awayValue": 1,
+                "renderType": 1,
+                "key": "offsides"
+              }
+            ]
+          },
+          {
+            "groupName": "Passes",
+            "statisticsItems": [
+              {
+                "name": "Accurate passes",
+                "home": "157",
+                "away": "471",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 157,
+                "awayValue": 471,
+                "renderType": 1,
+                "key": "accuratePasses"
+              },
+              {
+                "name": "Throw-ins",
+                "home": "21",
+                "away": "23",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 21,
+                "awayValue": 23,
+                "renderType": 1,
+                "key": "throwIns"
+              },
+              {
+                "name": "Final third phase",
+                "home": "16/42 (38%)",
+                "away": "53/77 (69%)",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 16,
+                "awayValue": 53,
+                "homeTotal": 42,
+                "awayTotal": 77,
+                "renderType": 3,
+                "key": "finalThirdPhaseStatistic"
+              },
+              {
+                "name": "Long balls",
+                "home": "14/51 (27%)",
+                "away": "42/83 (50%)",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 14,
+                "awayValue": 42,
+                "homeTotal": 51,
+                "awayTotal": 83,
+                "renderType": 3,
+                "key": "accurateLongBalls"
+              },
+              {
+                "name": "Crosses",
+                "home": "1/7 (14%)",
+                "away": "8/31 (25%)",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 1,
+                "awayValue": 8,
+                "homeTotal": 7,
+                "awayTotal": 31,
+                "renderType": 3,
+                "key": "accurateCross"
+              }
+            ]
+          },
+          {
+            "groupName": "Duels",
+            "statisticsItems": [
+              {
+                "name": "Duels",
+                "home": "35%",
+                "away": "47%",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 35,
+                "awayValue": 47,
+                "renderType": 2,
+                "key": "duelWonPercent"
+              },
+              {
+                "name": "Dispossessed",
+                "home": "11",
+                "away": "8",
+                "compareCode": 1,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 11,
+                "awayValue": 8,
+                "renderType": 1,
+                "key": "dispossessed"
+              },
+              {
+                "name": "Ground duels",
+                "home": "39/117 (33%)",
+                "away": "52/116 (45%)",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 39,
+                "awayValue": 52,
+                "homeTotal": 117,
+                "awayTotal": 116,
+                "renderType": 3,
+                "key": "groundDuelsPercentage"
+              },
+              {
+                "name": "Aerial duels",
+                "home": "20/51 (39%)",
+                "away": "27/49 (55%)",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 20,
+                "awayValue": 27,
+                "homeTotal": 51,
+                "awayTotal": 49,
+                "renderType": 3,
+                "key": "aerialDuelsPercentage"
+              },
+              {
+                "name": "Dribbles",
+                "home": "16/21 (76%)",
+                "away": "22/26 (85%)",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 16,
+                "awayValue": 22,
+                "homeTotal": 21,
+                "awayTotal": 26,
+                "renderType": 3,
+                "key": "dribblesPercentage"
+              }
+            ]
+          },
+          {
+            "groupName": "Defending",
+            "statisticsItems": [
+              {
+                "name": "Total tackles",
+                "home": "1",
+                "away": "3",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 3,
+                "renderType": 1,
+                "key": "totalTackle"
+              },
+              {
+                "name": "Interceptions",
+                "home": "24",
+                "away": "20",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 24,
+                "awayValue": 20,
+                "renderType": 1,
+                "key": "interceptionWon"
+              },
+              {
+                "name": "Clearances",
+                "home": "38",
+                "away": "13",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 38,
+                "awayValue": 13,
+                "renderType": 1,
+                "key": "totalClearance"
+              },
+              {
+                "name": "Errors lead to a shot",
+                "home": "3",
+                "away": "3",
+                "compareCode": 3,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 3,
+                "awayValue": 3,
+                "renderType": 1,
+                "key": "errorsLeadToShot"
+              }
+            ]
+          },
+          {
+            "groupName": "Goalkeeping",
+            "statisticsItems": [
+              {
+                "name": "Total saves",
+                "home": "5",
+                "away": "5",
+                "compareCode": 3,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 5,
+                "awayValue": 5,
+                "renderType": 1,
+                "key": "goalkeeperSaves"
+              },
+              {
+                "name": "High claims",
+                "home": "0",
+                "away": "1",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 0,
+                "awayValue": 1,
+                "renderType": 1,
+                "key": "highClaims"
+              },
+              {
+                "name": "Goal kicks",
+                "home": "11",
+                "away": "9",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 11,
+                "awayValue": 9,
+                "renderType": 1,
+                "key": "goalKicks"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "14073664": {
+    "statistics": [
+      {
+        "period": "ALL",
+        "groups": [
+          {
+            "groupName": "Match overview",
+            "statisticsItems": [
+              {
+                "name": "Ball possession",
+                "home": "61%",
+                "away": "39%",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 61,
+                "awayValue": 39,
+                "renderType": 2,
+                "key": "ballPossession"
+              },
+              {
+                "name": "Expected goals",
+                "home": "0.68",
+                "away": "2.22",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 0.68,
+                "awayValue": 2.22,
+                "renderType": 1,
+                "key": "expectedGoals"
+              },
+              {
+                "name": "Total shots",
+                "home": "11",
+                "away": "6",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 11,
+                "awayValue": 6,
+                "renderType": 1,
+                "key": "totalShotsOnGoal"
+              },
+              {
+                "name": "Goalkeeper saves",
+                "home": "3",
+                "away": "2",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 3,
+                "awayValue": 2,
+                "renderType": 1,
+                "key": "goalkeeperSaves"
+              },
+              {
+                "name": "Corner kicks",
+                "home": "3",
+                "away": "4",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 3,
+                "awayValue": 4,
+                "renderType": 1,
+                "key": "cornerKicks"
+              },
+              {
+                "name": "Fouls",
+                "home": "19",
+                "away": "11",
+                "compareCode": 1,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 19,
+                "awayValue": 11,
+                "renderType": 1,
+                "key": "fouls"
+              },
+              {
+                "name": "Passes",
+                "home": "624",
+                "away": "365",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 624,
+                "awayValue": 365,
+                "renderType": 1,
+                "key": "passes"
+              },
+              {
+                "name": "Tackles",
+                "home": "1",
+                "away": "1",
+                "compareCode": 3,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 1,
+                "renderType": 1,
+                "key": "totalTackle"
+              },
+              {
+                "name": "Free kicks",
+                "home": "0",
+                "away": "2",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 0,
+                "awayValue": 2,
+                "renderType": 1,
+                "key": "freeKicks"
+              },
+              {
+                "name": "Yellow cards",
+                "home": "4",
+                "away": "1",
+                "compareCode": 1,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 4,
+                "awayValue": 1,
+                "renderType": 1,
+                "key": "yellowCards"
+              },
+              {
+                "name": "Red cards",
+                "home": "1",
+                "away": "0",
+                "compareCode": 1,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "redCards"
+              }
+            ]
+          },
+          {
+            "groupName": "Shots",
+            "statisticsItems": [
+              {
+                "name": "Total shots",
+                "home": "11",
+                "away": "6",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 11,
+                "awayValue": 6,
+                "renderType": 1,
+                "key": "totalShotsOnGoal"
+              },
+              {
+                "name": "Shots on target",
+                "home": "2",
+                "away": "6",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 2,
+                "awayValue": 6,
+                "renderType": 1,
+                "key": "shotsOnGoal"
+              },
+              {
+                "name": "Hit woodwork",
+                "home": "1",
+                "away": "0",
+                "compareCode": 1,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "hitWoodwork"
+              },
+              {
+                "name": "Shots off target",
+                "home": "3",
+                "away": "0",
+                "compareCode": 1,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 3,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "shotsOffGoal"
+              },
+              {
+                "name": "Blocked shots",
+                "home": "5",
+                "away": "0",
+                "compareCode": 1,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 5,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "blockedScoringAttempt"
+              },
+              {
+                "name": "Shots inside box",
+                "home": "6",
+                "away": "6",
+                "compareCode": 3,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 6,
+                "awayValue": 6,
+                "renderType": 1,
+                "key": "totalShotsInsideBox"
+              },
+              {
+                "name": "Shots outside box",
+                "home": "5",
+                "away": "0",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 5,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "totalShotsOutsideBox"
+              }
+            ]
+          },
+          {
+            "groupName": "Attack",
+            "statisticsItems": [
+              {
+                "name": "Through balls",
+                "home": "2",
+                "away": "0",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 2,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "accurateThroughBall"
+              },
+              {
+                "name": "Touches in penalty area",
+                "home": "14",
+                "away": "13",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 14,
+                "awayValue": 13,
+                "renderType": 1,
+                "key": "touchesInOppBox"
+              },
+              {
+                "name": "Offsides",
+                "home": "6",
+                "away": "2",
+                "compareCode": 1,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 6,
+                "awayValue": 2,
+                "renderType": 1,
+                "key": "offsides"
+              }
+            ]
+          },
+          {
+            "groupName": "Passes",
+            "statisticsItems": [
+              {
+                "name": "Accurate passes",
+                "home": "523",
+                "away": "296",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 523,
+                "awayValue": 296,
+                "renderType": 1,
+                "key": "accuratePasses"
+              },
+              {
+                "name": "Throw-ins",
+                "home": "24",
+                "away": "13",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 24,
+                "awayValue": 13,
+                "renderType": 1,
+                "key": "throwIns"
+              },
+              {
+                "name": "Final third phase",
+                "home": "55/89 (62%)",
+                "away": "21/36 (58%)",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 55,
+                "awayValue": 21,
+                "homeTotal": 89,
+                "awayTotal": 36,
+                "renderType": 3,
+                "key": "finalThirdPhaseStatistic"
+              },
+              {
+                "name": "Long balls",
+                "home": "23/55 (41%)",
+                "away": "41/63 (65%)",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 23,
+                "awayValue": 41,
+                "homeTotal": 55,
+                "awayTotal": 63,
+                "renderType": 3,
+                "key": "accurateLongBalls"
+              },
+              {
+                "name": "Crosses",
+                "home": "3/17 (17%)",
+                "away": "6/10 (60%)",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 3,
+                "awayValue": 6,
+                "homeTotal": 17,
+                "awayTotal": 10,
+                "renderType": 3,
+                "key": "accurateCross"
+              }
+            ]
+          },
+          {
+            "groupName": "Duels",
+            "statisticsItems": [
+              {
+                "name": "Duels",
+                "home": "37%",
+                "away": "39%",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 37,
+                "awayValue": 39,
+                "renderType": 2,
+                "key": "duelWonPercent"
+              },
+              {
+                "name": "Dispossessed",
+                "home": "6",
+                "away": "8",
+                "compareCode": 2,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 6,
+                "awayValue": 8,
+                "renderType": 1,
+                "key": "dispossessed"
+              },
+              {
+                "name": "Ground duels",
+                "home": "48/137 (35%)",
+                "away": "46/123 (37%)",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 48,
+                "awayValue": 46,
+                "homeTotal": 137,
+                "awayTotal": 123,
+                "renderType": 3,
+                "key": "groundDuelsPercentage"
+              },
+              {
+                "name": "Aerial duels",
+                "home": "20/45 (44%)",
+                "away": "22/48 (46%)",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 20,
+                "awayValue": 22,
+                "homeTotal": 45,
+                "awayTotal": 48,
+                "renderType": 3,
+                "key": "aerialDuelsPercentage"
+              },
+              {
+                "name": "Dribbles",
+                "home": "21/30 (70%)",
+                "away": "21/26 (81%)",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "team",
+                "homeValue": 21,
+                "awayValue": 21,
+                "homeTotal": 30,
+                "awayTotal": 26,
+                "renderType": 3,
+                "key": "dribblesPercentage"
+              }
+            ]
+          },
+          {
+            "groupName": "Defending",
+            "statisticsItems": [
+              {
+                "name": "Total tackles",
+                "home": "1",
+                "away": "1",
+                "compareCode": 3,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 1,
+                "renderType": 1,
+                "key": "totalTackle"
+              },
+              {
+                "name": "Interceptions",
+                "home": "7",
+                "away": "26",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 7,
+                "awayValue": 26,
+                "renderType": 1,
+                "key": "interceptionWon"
+              },
+              {
+                "name": "Clearances",
+                "home": "12",
+                "away": "23",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 12,
+                "awayValue": 23,
+                "renderType": 1,
+                "key": "totalClearance"
+              },
+              {
+                "name": "Errors lead to a shot",
+                "home": "1",
+                "away": "3",
+                "compareCode": 2,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 3,
+                "renderType": 1,
+                "key": "errorsLeadToShot"
+              }
+            ]
+          },
+          {
+            "groupName": "Goalkeeping",
+            "statisticsItems": [
+              {
+                "name": "Total saves",
+                "home": "3",
+                "away": "2",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 3,
+                "awayValue": 2,
+                "renderType": 1,
+                "key": "goalkeeperSaves"
+              },
+              {
+                "name": "Goal kicks",
+                "home": "0",
+                "away": "5",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 0,
+                "awayValue": 5,
+                "renderType": 1,
+                "key": "goalKicks"
+              },
+              {
+                "name": "Penalty saves",
+                "home": "1",
+                "away": "0",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "penaltySaves"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "15224859": {
+    "statistics": [
+      {
+        "period": "ALL",
+        "groups": [
+          {
+            "groupName": "Match overview",
+            "statisticsItems": [
+              {
+                "name": "Ball possession",
+                "home": "48%",
+                "away": "52%",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 48,
+                "awayValue": 52,
+                "renderType": 2,
+                "key": "ballPossession"
+              },
+              {
+                "name": "Corner kicks",
+                "home": "0",
+                "away": "0",
+                "compareCode": 3,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 0,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "cornerKicks"
+              },
+              {
+                "name": "Fouls",
+                "home": "1",
+                "away": "0",
+                "compareCode": 1,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "fouls"
+              },
+              {
+                "name": "Free kicks",
+                "home": "0",
+                "away": "2",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 0,
+                "awayValue": 2,
+                "renderType": 1,
+                "key": "freeKicks"
+              },
+              {
+                "name": "Yellow cards",
+                "home": "0",
+                "away": "0",
+                "compareCode": 3,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 0,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "yellowCards"
+              },
+              {
+                "name": "Red cards",
+                "home": "0",
+                "away": "0",
+                "compareCode": 3,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 0,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "redCards"
+              }
+            ]
+          },
+          {
+            "groupName": "Shots",
+            "statisticsItems": [
+              {
+                "name": "Shots on target",
+                "home": "0",
+                "away": "0",
+                "compareCode": 3,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 0,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "shotsOnGoal"
+              },
+              {
+                "name": "Shots off target",
+                "home": "1",
+                "away": "1",
+                "compareCode": 3,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 1,
+                "awayValue": 1,
+                "renderType": 1,
+                "key": "shotsOffGoal"
+              },
+              {
+                "name": "Blocked shots",
+                "home": "0",
+                "away": "0",
+                "compareCode": 3,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 0,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "blockedScoringAttempt"
+              }
+            ]
+          },
+          {
+            "groupName": "Attack",
+            "statisticsItems": [
+              {
+                "name": "Offsides",
+                "home": "0",
+                "away": "0",
+                "compareCode": 3,
+                "statisticsType": "negative",
+                "valueType": "event",
+                "homeValue": 0,
+                "awayValue": 0,
+                "renderType": 1,
+                "key": "offsides"
+              }
+            ]
+          },
+          {
+            "groupName": "Passes",
+            "statisticsItems": [
+              {
+                "name": "Throw-ins",
+                "home": "5",
+                "away": "6",
+                "compareCode": 2,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 5,
+                "awayValue": 6,
+                "renderType": 1,
+                "key": "throwIns"
               }
             ]
           }
