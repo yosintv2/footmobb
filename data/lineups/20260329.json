@@ -821,6 +821,43 @@
           "type": "missing",
           "reason": 1,
           "externalType": 5
+        },
+        {
+          "player": {
+            "name": "Carlos Ter\u00e1n",
+            "slug": "carlos-teran",
+            "shortName": "C. Ter\u00e1n",
+            "position": "D",
+            "jerseyNumber": "13",
+            "height": 188,
+            "userCount": 371,
+            "gender": "M",
+            "country": {
+              "alpha2": "CO",
+              "alpha3": "COL",
+              "name": "Colombia",
+              "slug": "colombia"
+            },
+            "id": 974512,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 969753600,
+            "proposedMarketValueRaw": {
+              "value": 1400000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0643\u0627\u0631\u0644\u0648\u0633 \u062a\u064a\u0631\u0627\u0646"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0643. \u062a\u064a\u0631\u0627\u0646"
+              }
+            }
+          },
+          "type": "doubtful",
+          "reason": 1,
+          "description": "Ankle Injury",
+          "externalType": 72
         }
       ]
     },
@@ -2840,7 +2877,94 @@
         "outline": "cc5eda",
         "fancyNumber": "222226"
       },
-      "missingPlayers": []
+      "missingPlayers": [
+        {
+          "player": {
+            "name": "Luis Malag\u00f3n",
+            "firstName": "",
+            "lastName": "",
+            "slug": "luis-malagon",
+            "shortName": "L. Malag\u00f3n",
+            "position": "G",
+            "jerseyNumber": "1",
+            "height": 182,
+            "userCount": 1623,
+            "gender": "M",
+            "country": {
+              "alpha2": "MX",
+              "alpha3": "MEX",
+              "name": "Mexico",
+              "slug": "mexico"
+            },
+            "id": 830240,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 857260800,
+            "proposedMarketValueRaw": {
+              "value": 6400000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0644\u0648\u064a\u0633 \u0645\u0627\u0644\u0627\u063a\u0648\u0646",
+                "bn": "\u09b2\u09c1\u0987\u09b8 \u09ae\u09be\u09b2\u09be\u0997\u09a8",
+                "hi": "\u0932\u0941\u0907\u0938 \u092e\u093e\u0932\u093e\u0917\u094b\u0928"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0644. \u0645\u0627\u0644\u0627\u063a\u0648\u0646",
+                "bn": "\u098f\u09b2. \u09ae\u09be\u09b2\u09be\u0997\u09a8",
+                "hi": "\u090f\u0932. \u092e\u093e\u0932\u093e\u0917\u094b\u0928"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "Achilles Tendon Rupture",
+          "externalType": 72
+        },
+        {
+          "player": {
+            "name": "Marcel Ru\u00edz",
+            "firstName": "",
+            "lastName": "",
+            "slug": "marcel-ruiz",
+            "shortName": "M. Ru\u00edz",
+            "position": "M",
+            "jerseyNumber": "14",
+            "height": 182,
+            "userCount": 1518,
+            "gender": "M",
+            "country": {
+              "alpha2": "MX",
+              "alpha3": "MEX",
+              "name": "Mexico",
+              "slug": "mexico"
+            },
+            "id": 942167,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 972518400,
+            "proposedMarketValueRaw": {
+              "value": 9500000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0645\u0627\u0631\u0633\u064a\u0644 \u0631\u0648\u064a\u0632",
+                "bn": "\u09ae\u09be\u09b0\u09cd\u09b8\u09c7\u09b2 \u09b0\u09c1\u0987\u099c",
+                "hi": "\u092e\u093e\u0930\u094d\u0938\u0947\u0932 \u0930\u0941\u0907\u091c\u093c"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0645. \u0631\u0648\u064a\u0632",
+                "bn": "\u098f\u09ae. \u09b0\u09c1\u0987\u099c",
+                "hi": "\u090f\u092e. \u0930\u0941\u0907\u091c\u093c"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "ACL Knee Injury",
+          "externalType": 72
+        }
+      ]
     },
     "away": {
       "players": [
@@ -3407,6 +3531,47 @@
           "type": "doubtful",
           "reason": 1,
           "externalType": 5
+        },
+        {
+          "player": {
+            "name": "N\u00e9lson Semedo",
+            "slug": "nelson-semedo",
+            "shortName": "N. Semedo",
+            "position": "D",
+            "jerseyNumber": "27",
+            "height": 177,
+            "userCount": 7870,
+            "gender": "M",
+            "country": {
+              "alpha2": "PT",
+              "alpha3": "PRT",
+              "name": "Portugal",
+              "slug": "portugal"
+            },
+            "id": 252821,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 753408000,
+            "proposedMarketValueRaw": {
+              "value": 6400000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0646\u064a\u0644\u0633\u0648\u0646 \u0633\u064a\u0645\u064a\u062f\u0648",
+                "bn": "\u09a8\u09c7\u09b2\u09b8\u09a8 \u09b8\u09c7\u09ae\u09c7\u09a1\u09cb",
+                "hi": "\u0928\u0947\u0932\u094d\u0938\u0928 \u0938\u0947\u092e\u0947\u0926\u094b"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0646. \u0633\u064a\u0645\u064a\u062f\u0648",
+                "bn": "\u098f\u09a8. \u09b8\u09c7\u09ae\u09bf\u09a1\u09cb",
+                "hi": "\u090f\u0928. \u0938\u0947\u092e\u0947\u0926\u094b"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "Knee Injury",
+          "externalType": 72
         }
       ]
     },
@@ -3920,6 +4085,93 @@
           "type": "doubtful",
           "reason": 1,
           "externalType": 5
+        },
+        {
+          "player": {
+            "name": "Sergi\u00f1o Dest",
+            "slug": "sergino-dest",
+            "shortName": "S. Dest",
+            "position": "D",
+            "jerseyNumber": "8",
+            "height": 173,
+            "userCount": 6118,
+            "gender": "M",
+            "sofascoreId": "sergino",
+            "country": {
+              "alpha2": "US",
+              "alpha3": "USA",
+              "name": "USA",
+              "slug": "usa"
+            },
+            "id": 906021,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 973209600,
+            "proposedMarketValueRaw": {
+              "value": 17200000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0633\u064a\u0631\u062c\u064a\u0646\u064a\u0648 \u062f\u064a\u0633\u062a",
+                "bn": "\u09b8\u09be\u09b0\u09cd\u099c\u09bf\u09a8\u09cb \u09a1\u09c7\u09b8\u09cd\u099f",
+                "hi": "\u0938\u0930\u094d\u091c\u093f\u0928\u094b \u0921\u0947\u0938\u094d\u091f"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0633. \u062f\u064a\u0633\u062a",
+                "bn": "\u098f\u09b8. \u09a1\u09c7\u09b8\u09cd\u099f",
+                "hi": "\u090f\u0938. \u0921\u0947\u0938\u094d\u091f"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "Hamstring",
+          "externalType": 72,
+          "expectedEndDate": "2026-05-03T00:00:00+00:00"
+        },
+        {
+          "player": {
+            "name": "Haji Wright",
+            "firstName": "",
+            "lastName": "",
+            "slug": "haji-wright",
+            "shortName": "H. Wright",
+            "position": "F",
+            "jerseyNumber": "11",
+            "height": 193,
+            "userCount": 2275,
+            "gender": "M",
+            "country": {
+              "alpha2": "US",
+              "alpha3": "USA",
+              "name": "USA",
+              "slug": "usa"
+            },
+            "id": 818391,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 890956800,
+            "proposedMarketValueRaw": {
+              "value": 14500000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0647\u0627\u062c\u064a \u0631\u0627\u064a\u062a",
+                "bn": "\u09b9\u09be\u099c\u09c0 \u09b0\u09be\u0987\u099f",
+                "hi": "\u0939\u093e\u091c\u0940 \u0930\u093e\u0907\u091f"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0647. \u0631\u0627\u064a\u062a",
+                "bn": "\u098f\u0987\u099a. \u09b0\u09be\u0987\u099f",
+                "hi": "\u090f\u091a. \u0930\u093e\u0907\u091f"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "Groin Injury",
+          "externalType": 72,
+          "expectedEndDate": "2026-04-04T00:00:00+00:00"
         }
       ]
     },
@@ -4431,6 +4683,47 @@
           "type": "doubtful",
           "reason": 1,
           "externalType": 5
+        },
+        {
+          "player": {
+            "name": "Hans Vanaken",
+            "slug": "hans-vanaken",
+            "shortName": "H. Vanaken",
+            "position": "M",
+            "jerseyNumber": "20",
+            "height": 194,
+            "userCount": 2902,
+            "gender": "M",
+            "country": {
+              "alpha2": "BE",
+              "alpha3": "BEL",
+              "name": "Belgium",
+              "slug": "belgium"
+            },
+            "id": 118085,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 714614400,
+            "proposedMarketValueRaw": {
+              "value": 5800000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0647\u0627\u0646\u0633 \u0641\u0627\u0646\u0627\u0643\u064a\u0646",
+                "bn": "\u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09b8 \u09ad\u09be\u09a8\u09be\u0995\u09c7\u09a8",
+                "hi": "\u0939\u0902\u0938 \u0935\u093e\u0928\u0915\u0947\u0928"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0647. \u0641\u0627\u0646\u0627\u0643\u064a\u0646",
+                "bn": "\u098f\u0987\u099a. \u09ad\u09be\u09a8\u09be\u0995\u09c7\u09a8",
+                "hi": "\u090f\u091a. \u0935\u093e\u0928\u0915\u0947\u0928"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "Hip Injury",
+          "externalType": 72
         }
       ]
     },
@@ -6589,5 +6882,77 @@
       ]
     },
     "statisticalVersion": 2
+  },
+  "15224856": {
+    "confirmed": false,
+    "home": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "ffcc66",
+        "outline": "0000cc",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "000000",
+        "outline": "ffff33",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": [
+        {
+          "player": {
+            "name": "Prosper Peter",
+            "firstName": "Prosper Peter",
+            "slug": "prosper-peter",
+            "shortName": "P. Peter",
+            "position": "F",
+            "jerseyNumber": "35",
+            "height": 177,
+            "userCount": 302,
+            "country": {
+              "alpha2": "FR",
+              "alpha3": "FRA",
+              "name": "France",
+              "slug": "france"
+            },
+            "id": 2137784,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 1186617600,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0628\u0631\u0648\u0633\u0628\u064a\u0631 \u0628\u064a\u062a\u0631"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0628. \u0628\u064a\u062a\u0631"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "Muscle Injury",
+          "externalType": 72
+        }
+      ]
+    },
+    "away": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "ffffff",
+        "outline": "ff0000",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "000000",
+        "outline": "ffff00",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": []
+    },
+    "statisticalVersion": null
   }
 }

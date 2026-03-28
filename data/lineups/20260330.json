@@ -821,6 +821,43 @@
           "type": "missing",
           "reason": 1,
           "externalType": 5
+        },
+        {
+          "player": {
+            "name": "Carlos Ter\u00e1n",
+            "slug": "carlos-teran",
+            "shortName": "C. Ter\u00e1n",
+            "position": "D",
+            "jerseyNumber": "13",
+            "height": 188,
+            "userCount": 371,
+            "gender": "M",
+            "country": {
+              "alpha2": "CO",
+              "alpha3": "COL",
+              "name": "Colombia",
+              "slug": "colombia"
+            },
+            "id": 974512,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 969753600,
+            "proposedMarketValueRaw": {
+              "value": 1400000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0643\u0627\u0631\u0644\u0648\u0633 \u062a\u064a\u0631\u0627\u0646"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0643. \u062a\u064a\u0631\u0627\u0646"
+              }
+            }
+          },
+          "type": "doubtful",
+          "reason": 1,
+          "description": "Ankle Injury",
+          "externalType": 72
         }
       ]
     },
@@ -3413,5 +3450,77 @@
       ]
     },
     "statisticalVersion": 2
+  },
+  "15224868": {
+    "confirmed": false,
+    "home": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "ffcc66",
+        "outline": "0000cc",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "000000",
+        "outline": "ffff33",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": [
+        {
+          "player": {
+            "name": "Prosper Peter",
+            "firstName": "Prosper Peter",
+            "slug": "prosper-peter",
+            "shortName": "P. Peter",
+            "position": "F",
+            "jerseyNumber": "35",
+            "height": 177,
+            "userCount": 302,
+            "country": {
+              "alpha2": "FR",
+              "alpha3": "FRA",
+              "name": "France",
+              "slug": "france"
+            },
+            "id": 2137784,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 1186617600,
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0628\u0631\u0648\u0633\u0628\u064a\u0631 \u0628\u064a\u062a\u0631"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0628. \u0628\u064a\u062a\u0631"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "description": "Muscle Injury",
+          "externalType": 72
+        }
+      ]
+    },
+    "away": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "0000cc",
+        "outline": "ffffff",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "222226",
+        "outline": "d3f7c9",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": []
+    },
+    "statisticalVersion": null
   }
 }
