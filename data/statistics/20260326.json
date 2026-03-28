@@ -68746,6 +68746,18 @@
                 "key": "ballPossession"
               },
               {
+                "name": "Expected goals",
+                "home": "0.55",
+                "away": "0.21",
+                "compareCode": 1,
+                "statisticsType": "positive",
+                "valueType": "event",
+                "homeValue": 0.55,
+                "awayValue": 0.21,
+                "renderType": 1,
+                "key": "expectedGoals"
+              },
+              {
                 "name": "Big chances",
                 "home": "1",
                 "away": "1",
