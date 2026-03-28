@@ -9,25 +9,25 @@
             "statisticsItems": [
               {
                 "name": "Ball possession",
-                "home": "29%",
-                "away": "71%",
+                "home": "36%",
+                "away": "64%",
                 "compareCode": 2,
                 "statisticsType": "positive",
                 "valueType": "event",
-                "homeValue": 29,
-                "awayValue": 71,
+                "homeValue": 36,
+                "awayValue": 64,
                 "renderType": 2,
                 "key": "ballPossession"
               },
               {
                 "name": "Corner kicks",
-                "home": "0",
-                "away": "0",
+                "home": "2",
+                "away": "2",
                 "compareCode": 3,
                 "statisticsType": "positive",
                 "valueType": "event",
-                "homeValue": 0,
-                "awayValue": 0,
+                "homeValue": 2,
+                "awayValue": 2,
                 "renderType": 1,
                 "key": "cornerKicks"
               },
@@ -62,25 +62,25 @@
             "statisticsItems": [
               {
                 "name": "Shots on target",
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "compareCode": 3,
+                "compareCode": 1,
                 "statisticsType": "positive",
                 "valueType": "event",
-                "homeValue": 0,
+                "homeValue": 1,
                 "awayValue": 0,
                 "renderType": 1,
                 "key": "shotsOnGoal"
               },
               {
                 "name": "Shots off target",
-                "home": "0",
-                "away": "0",
-                "compareCode": 3,
+                "home": "1",
+                "away": "3",
+                "compareCode": 2,
                 "statisticsType": "negative",
                 "valueType": "event",
-                "homeValue": 0,
-                "awayValue": 0,
+                "homeValue": 1,
+                "awayValue": 3,
                 "renderType": 1,
                 "key": "shotsOffGoal"
               }

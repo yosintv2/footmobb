@@ -588,7 +588,11 @@
     "managerDuel": null
   },
   "15378855": {
-    "teamDuel": null,
+    "teamDuel": {
+      "homeWins": 1,
+      "awayWins": 0,
+      "draws": 0
+    },
     "managerDuel": null
   },
   "15756807": {
@@ -1081,7 +1085,11 @@
       "awayWins": 2,
       "draws": 1
     },
-    "managerDuel": null
+    "managerDuel": {
+      "homeWins": 0,
+      "awayWins": 2,
+      "draws": 0
+    }
   },
   "14217654": {
     "teamDuel": {
