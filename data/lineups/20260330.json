@@ -849,7 +849,7 @@
               }
             }
           },
-          "type": "missing",
+          "type": "doubtful",
           "reason": 1,
           "description": "Ankle Injury",
           "externalType": 72
@@ -1071,15 +1071,15 @@
           "captain": true
         },
         {
-          "avgRating": 6.56,
+          "avgRating": 6.68,
           "player": {
-            "name": "Allan",
-            "slug": "allan",
-            "shortName": "Allan",
+            "name": "Edenilson",
+            "slug": "edenilson",
+            "shortName": "Edenilson",
             "position": "M",
-            "jerseyNumber": "25",
+            "jerseyNumber": "88",
             "height": 175,
-            "userCount": 4035,
+            "userCount": 1424,
             "gender": "M",
             "country": {
               "alpha2": "BR",
@@ -1087,29 +1087,25 @@
               "name": "Brazil",
               "slug": "brazil"
             },
-            "id": 158277,
+            "id": 221636,
             "marketValueCurrency": "EUR",
-            "dateOfBirthTimestamp": 663292800,
+            "dateOfBirthTimestamp": 629942400,
             "proposedMarketValueRaw": {
-              "value": 1100000,
+              "value": 290000,
               "currency": "EUR"
             },
             "fieldTranslations": {
               "nameTranslation": {
-                "ar": "\u0623\u0644\u0627\u0646",
-                "bn": "\u0985\u09cd\u09af\u09be\u09b2\u09be\u09a8",
-                "hi": "\u090f\u0932\u0928"
+                "ar": "\u0625\u062f\u0646\u064a\u0644\u0633\u0648\u0646"
               },
               "shortNameTranslation": {
-                "ar": "\u0623\u0644\u0627\u0646",
-                "bn": "\u0985\u09cd\u09af\u09be\u09b2\u09be\u09a8",
-                "hi": "\u090f\u0932\u0928"
+                "ar": "\u0625\u062f\u0646\u064a\u0644\u0633\u0648\u0646"
               }
             }
           },
           "teamId": 1958,
-          "shirtNumber": 25,
-          "jerseyNumber": "25",
+          "shirtNumber": 88,
+          "jerseyNumber": "88",
           "position": "M",
           "substitute": false
         },
@@ -1531,6 +1527,47 @@
                 "ar": "\u0643. \u0631\u0627\u0645\u0648\u0633",
                 "bn": "\u09b8\u09bf. \u09b0\u09be\u09ae\u09cb\u09b8",
                 "hi": "\u0938\u0940. \u0930\u093e\u092e\u094b\u0938"
+              }
+            }
+          },
+          "type": "missing",
+          "reason": 1,
+          "externalType": 5
+        },
+        {
+          "player": {
+            "name": "Joaqu\u00edn Correa",
+            "slug": "joaquin-correa",
+            "shortName": "J. Correa",
+            "position": "F",
+            "jerseyNumber": "30",
+            "height": 188,
+            "userCount": 5645,
+            "gender": "M",
+            "sofascoreId": "tucocorrea",
+            "country": {
+              "alpha2": "AR",
+              "alpha3": "ARG",
+              "name": "Argentina",
+              "slug": "argentina"
+            },
+            "id": 249929,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 776736000,
+            "proposedMarketValueRaw": {
+              "value": 1900000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u062e\u0648\u0627\u0643\u064a\u0646 \u0643\u0648\u0631\u064a\u0627",
+                "bn": "\u099c\u09cb\u09af\u09bc\u09be\u0995\u09c1\u0987\u09a8 \u0995\u09cb\u09b0\u09c7\u09af\u09bc\u09be",
+                "hi": "\u091c\u094b\u0906\u0915\u094d\u0935\u093f\u0928 \u0915\u094b\u0930\u093f\u092f\u093e"
+              },
+              "shortNameTranslation": {
+                "ar": "\u062e. \u0643\u0648\u0631\u064a\u0627",
+                "bn": "\u099c\u09c7. \u0995\u09cb\u09b0\u09c7\u09af\u09bc\u09be",
+                "hi": "\u091c\u0947. \u0915\u094b\u0930\u093f\u092f\u093e"
               }
             }
           },

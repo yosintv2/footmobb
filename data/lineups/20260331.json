@@ -4440,5 +4440,87 @@
       ]
     },
     "statisticalVersion": 2
+  },
+  "15129802": {
+    "confirmed": false,
+    "home": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "ffffff",
+        "outline": "0330b2",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "000000",
+        "outline": "ee7cfa",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": []
+    },
+    "away": {
+      "players": [],
+      "supportStaff": [],
+      "playerColor": {
+        "primary": "000000",
+        "number": "fa0000",
+        "outline": "ffffff",
+        "fancyNumber": "222226"
+      },
+      "goalkeeperColor": {
+        "primary": "000000",
+        "number": "ffffff",
+        "outline": "08ec42",
+        "fancyNumber": "222226"
+      },
+      "missingPlayers": [
+        {
+          "player": {
+            "name": "Hakan \u00c7alhano\u011flu",
+            "slug": "hakan-calhanoglu",
+            "shortName": "H. \u00c7alhano\u011flu",
+            "position": "M",
+            "jerseyNumber": "20",
+            "height": 178,
+            "userCount": 33364,
+            "gender": "M",
+            "sofascoreId": "H\u00c7alhano\u011flu",
+            "country": {
+              "alpha2": "TR",
+              "alpha3": "TUR",
+              "name": "T\u00fcrkiye",
+              "slug": "turkiye"
+            },
+            "id": 135700,
+            "marketValueCurrency": "EUR",
+            "dateOfBirthTimestamp": 760665600,
+            "proposedMarketValueRaw": {
+              "value": 23000000,
+              "currency": "EUR"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "\u0647\u0627\u0643\u0627\u0646 \u062a\u0634\u0627\u0644\u0647\u0627\u0646\u0648\u063a\u0644\u0648",
+                "bn": "\u09b9\u09be\u0995\u09be\u09a8 \u099a\u09be\u09b2\u09b9\u09be\u09a8\u09cb\u0997\u09b2\u09c1",
+                "hi": "\u0939\u0915\u093e\u0928 \u091a\u093e\u0932\u094d\u0939\u093e\u0928\u094b\u0917\u094d\u0932\u0942"
+              },
+              "shortNameTranslation": {
+                "ar": "\u0647. \u062a\u0634\u0627\u0644\u0647\u0627\u0646\u0648\u063a\u0644\u0648",
+                "bn": "\u098f\u0987\u099a. \u099a\u09be\u09b2\u09b9\u09be\u09a8\u09cb\u0997\u09b2\u09c1",
+                "hi": "\u090f\u091a. \u091a\u093e\u0932\u094d\u0939\u093e\u0928\u094b\u0917\u094d\u0932\u0942"
+              }
+            }
+          },
+          "type": "doubtful",
+          "reason": 1,
+          "description": "Ankle Injury",
+          "externalType": 114,
+          "expectedEndDate": "2026-04-01T00:00:23+00:00"
+        }
+      ]
+    },
+    "statisticalVersion": 2
   }
 }
