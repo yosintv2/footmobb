@@ -6,7 +6,14 @@
         "league_id": 17,
         "league": "Premier League",
         "venue": "Emirates Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "TNT Sports 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14025022,
@@ -33,7 +40,26 @@
         "league_id": 17,
         "league": "Premier League",
         "venue": "Anfield",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Premier League"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Premier League"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "NBC"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14023999,
@@ -1282,6 +1308,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15269945,
+        "kickoff": 1775954700,
+        "fixture": "Estudiantes de R\u00edo Cuarto vs Barracas Central",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Antonio Candini",
+        "tv_channels": []
+    },
+    {
         "match_id": 15270064,
         "kickoff": 1776016800,
         "fixture": "Newell's Old Boys vs San Lorenzo",
@@ -1315,15 +1350,6 @@
         "league_id": 155,
         "league": "Liga Profesional de F\u00fatbol, Apertura",
         "venue": "Estadio Tomas Adolfo Duco",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15269945,
-        "kickoff": 1776031200,
-        "fixture": "Estudiantes de R\u00edo Cuarto vs Barracas Central",
-        "league_id": 155,
-        "league": "Liga Profesional de F\u00fatbol, Apertura",
-        "venue": "Antonio Candini",
         "tv_channels": []
     },
     {
@@ -1468,7 +1494,62 @@
         "league_id": 242,
         "league": "MLS",
         "venue": "Q2 Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Afghanistan",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Canada",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15171440,
@@ -1486,7 +1567,14 @@
         "league_id": 242,
         "league": "MLS",
         "venue": "Providence Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15171468,
@@ -1603,7 +1691,14 @@
         "league_id": 18,
         "league": "Championship",
         "venue": "Carrow Road",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Network"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14059955,
@@ -1927,7 +2022,20 @@
         "league_id": 53,
         "league": "Serie B",
         "venue": "Stadio Adriatico",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14317575,
@@ -3313,7 +3421,20 @@
         "league_id": 13470,
         "league": "Canadian Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15502795,
@@ -5881,6 +6002,60 @@
         "tv_channels": []
     },
     {
+        "match_id": 14068733,
+        "kickoff": 1775905200,
+        "fixture": "Roma U20 vs Napoli U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068738,
+        "kickoff": 1775912400,
+        "fixture": "Monza U20 vs Bologna U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068735,
+        "kickoff": 1775984400,
+        "fixture": "Parma U20 vs Juventus U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068737,
+        "kickoff": 1775991600,
+        "fixture": "Fiorentina U20 vs Sassuolo U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068734,
+        "kickoff": 1775991600,
+        "fixture": "Frosinone U20 vs Cagliari U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068747,
+        "kickoff": 1776078000,
+        "fixture": "Hellas Verona U20 vs Lazio U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15345921,
         "kickoff": 1775970000,
         "fixture": "Urawa Red Diamonds vs Tokyo Verdy",
@@ -6435,7 +6610,7 @@
         "fixture": "Str\u00f8mmen IF vs Egersund",
         "league_id": 22,
         "league": "1st Division",
-        "venue": "Strommen Stadion",
+        "venue": "KFUM Arena",
         "tv_channels": []
     },
     {
@@ -7759,15 +7934,6 @@
         "league_id": 218,
         "league": "Premier League",
         "venue": "Tsentralnyi Stadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14090610,
-        "kickoff": 1775912400,
-        "fixture": "LNZ Cherkasy vs Shakhtar Donetsk",
-        "league_id": 218,
-        "league": "Premier League",
-        "venue": "Tsentralnyi Stadium",
         "tv_channels": []
     },
     {
