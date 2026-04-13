@@ -19,6 +19,12 @@
                 "channels": [
                     "TNT Sports 1"
                 ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "TNT Sports 1"
+                ]
             }
         ]
     },
@@ -85,6 +91,12 @@
                 "channels": [
                     "Disney+"
                 ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "TNT Sports 1"
+                ]
             }
         ]
     },
@@ -102,6 +114,18 @@
                     "Disney+",
                     "Xsports"
                 ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Premier League"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Premier League"
+                ]
             }
         ]
     },
@@ -116,8 +140,28 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
-                    "Disney+"
+                    "Disney+",
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -133,8 +177,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
-                    "Disney+"
+                    "Disney+",
+                    "OneFootball"
                 ]
             }
         ]
@@ -150,9 +194,35 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
                     "Disney+",
+                    "OneFootball",
                     "ESPN"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "Canal+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Canal+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -218,8 +288,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
-                    "Disney+"
+                    "Disney+",
+                    "OneFootball"
                 ]
             }
         ]
@@ -235,8 +305,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
                     "Disney+",
+                    "OneFootball",
                     "ESPN 4"
                 ]
             }
@@ -253,8 +323,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
-                    "Disney+"
+                    "Disney+",
+                    "OneFootball"
                 ]
             }
         ]
@@ -270,8 +340,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
                     "Disney+",
+                    "OneFootball",
                     "ESPN"
                 ]
             }
@@ -549,9 +619,9 @@
                 "country": "Brazil",
                 "channels": [
                     "OneFootball",
+                    "Prime Video",
                     "Xsports",
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -2136,7 +2206,14 @@
         "league_id": 11653,
         "league": "Liga de Primera",
         "venue": "Monumental David Arellano",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT SPORTS Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15353023,
@@ -3130,7 +3207,14 @@
         "league_id": 13470,
         "league": "Canadian Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "OneSoccer"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15502800,
@@ -5899,6 +5983,69 @@
         "tv_channels": []
     },
     {
+        "match_id": 15997938,
+        "kickoff": 1776533400,
+        "fixture": "Hapoel Be'er Sheva vs Hapoel Petach Tikva",
+        "league_id": 266,
+        "league": "Premier League, Championship Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15997941,
+        "kickoff": 1776618000,
+        "fixture": "Beitar Jerusalem vs Maccabi Haifa",
+        "league_id": 266,
+        "league": "Premier League, Championship Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15997939,
+        "kickoff": 1776619800,
+        "fixture": "Maccabi Tel Aviv vs Hapoel Tel Aviv",
+        "league_id": 266,
+        "league": "Premier League, Championship Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15997937,
+        "kickoff": 1776531000,
+        "fixture": "Maccabi Netanya vs Ashdod SC",
+        "league_id": 266,
+        "league": "Premier League, Relegation Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15997936,
+        "kickoff": 1776531600,
+        "fixture": "Hapoel Haifa vs Maccabi Bney Reine",
+        "league_id": 266,
+        "league": "Premier League, Relegation Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15997942,
+        "kickoff": 1776532500,
+        "fixture": "Bnei Sakhnin vs Ironi Dorot Tiberias",
+        "league_id": 266,
+        "league": "Premier League, Relegation Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15997940,
+        "kickoff": 1776614400,
+        "fixture": "Hapoel Ironi Kiryat Shmona vs Hapoel Jerusalem",
+        "league_id": 266,
+        "league": "Premier League, Relegation Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 14302849,
         "kickoff": 1776601800,
         "fixture": "AlbinoLeffe vs Triestina",
@@ -7408,7 +7555,20 @@
         "league_id": 347,
         "league": "Scottish Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14323453,
