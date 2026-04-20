@@ -8,9 +8,27 @@
         "venue": "Stadium of Light",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "ESPN 4 Sur"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "ESPN 4 Sur"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "ESPN 4 Sur"
                 ]
             },
             {
@@ -20,17 +38,95 @@
                 ]
             },
             {
+                "country": "Colombia",
+                "channels": [
+                    "ESPN 4 Sur"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "ESPN 4 Sur"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "ESPN 4 Sur"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "ESPN 4 Sur"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "ESPN 4 Sur"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "ESPN 4 Sur"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "ESPN 4 Sur"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "ESPN 4 Sur"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "ESPN 4 Sur"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "ESPN 4 Sur"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "ESPN 4 Sur"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "ESPN 4 Sur"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "ESPN 4 Sur"
                 ]
             }
         ]
@@ -46,8 +142,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -75,8 +171,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             },
             {
@@ -143,8 +239,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -156,15 +252,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -180,8 +276,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             },
             {
@@ -247,8 +343,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -476,8 +572,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             }
         ]
@@ -1057,7 +1153,110 @@
         "league_id": 155,
         "league": "Liga Profesional de F\u00fatbol, Apertura",
         "venue": "Estadio Guillermo Laza",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15269983,
@@ -1075,7 +1274,110 @@
         "league_id": 155,
         "league": "Liga Profesional de F\u00fatbol, Apertura",
         "venue": "Antonio Candini",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15270006,
@@ -1521,8 +1823,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -1745,8 +2047,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -2090,7 +2392,7 @@
     },
     {
         "match_id": 14671802,
-        "kickoff": 1777186800,
+        "kickoff": 1777188600,
         "fixture": "Melbourne City vs Adelaide United",
         "league_id": 136,
         "league": "A-League Men",
@@ -2951,8 +3253,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Virgin Media Two",
-                    "LOI TV"
+                    "LOI TV",
+                    "Virgin Media Two"
                 ]
             },
             {
@@ -3781,15 +4083,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15275562,
-        "kickoff": 1777147200,
-        "fixture": "Club Ferro Carril Oeste vs Almirante Brown",
-        "league_id": 703,
-        "league": "Primera B Nacional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 15275571,
         "kickoff": 1777149000,
         "fixture": "San Mart\u00edn de San Juan vs Quilmes Atl\u00e9tico Club",
@@ -3802,6 +4095,15 @@
         "match_id": 15275565,
         "kickoff": 1777150800,
         "fixture": "Atl\u00e9tico de Rafaela vs Gimnasia Jujuy",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275562,
+        "kickoff": 1777156200,
+        "fixture": "Club Ferro Carril Oeste vs Almirante Brown",
         "league_id": 703,
         "league": "Primera B Nacional",
         "venue": "TBA",
@@ -6641,17 +6943,17 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "BBC iPlayer",
                     "BBC Sport Web",
-                    "BBC Scotland",
-                    "BBC iPlayer"
+                    "BBC Scotland"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
+                    "BBC iPlayer",
                     "BBC Sport Web",
-                    "BBC Scotland",
-                    "BBC iPlayer"
+                    "BBC Scotland"
                 ]
             }
         ]

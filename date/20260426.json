@@ -10,8 +10,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -39,8 +39,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             },
             {
@@ -107,8 +107,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -120,15 +120,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -188,8 +188,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -263,6 +263,18 @@
                 "channels": [
                     "Migu"
                 ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "Sky Sport Calcio"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "Sky Sport Calcio"
+                ]
             }
         ]
     },
@@ -277,8 +289,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -348,8 +360,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             }
         ]
@@ -395,9 +407,27 @@
         "venue": "Estadio El Sadar",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "Teledeporte"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Teledeporte"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Teledeporte"
                 ]
             }
         ]
@@ -886,10 +916,28 @@
         "venue": "Meadow Park",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "L'\u00c9quipe"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
                     "ESPN 4",
                     "Disney+"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "L'\u00c9quipe"
+                ]
+            },
+            {
+                "country": "Monaco",
+                "channels": [
+                    "L'\u00c9quipe"
                 ]
             }
         ]
@@ -1088,8 +1136,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -1284,8 +1332,14 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "TNT Sports 1"
                 ]
             }
         ]
@@ -1804,8 +1858,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -2032,8 +2086,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -2058,9 +2112,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
                     "Xsports",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -2321,7 +2375,7 @@
     },
     {
         "match_id": 14671802,
-        "kickoff": 1777186800,
+        "kickoff": 1777188600,
         "fixture": "Melbourne City vs Adelaide United",
         "league_id": 136,
         "league": "A-League Men",
@@ -4175,15 +4229,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15275562,
-        "kickoff": 1777147200,
-        "fixture": "Club Ferro Carril Oeste vs Almirante Brown",
-        "league_id": 703,
-        "league": "Primera B Nacional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 15275571,
         "kickoff": 1777149000,
         "fixture": "San Mart\u00edn de San Juan vs Quilmes Atl\u00e9tico Club",
@@ -4196,6 +4241,15 @@
         "match_id": 15275565,
         "kickoff": 1777150800,
         "fixture": "Atl\u00e9tico de Rafaela vs Gimnasia Jujuy",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275562,
+        "kickoff": 1777156200,
+        "fixture": "Club Ferro Carril Oeste vs Almirante Brown",
         "league_id": 703,
         "league": "Primera B Nacional",
         "venue": "TBA",
