@@ -78,7 +78,7 @@ async def process_day(session, days_offset):
     date_query = target_date.strftime('%Y-%m-%d')
     file_name = target_date.strftime('%Y%m%d') + ".json"
     
-    schedule_url = f"https://www.sofascore.com/api/v1/sport/football/scheduled-events/{date_query}"
+    schedule_url = f"https://api.sofascore1.com/api/v1/sport/football/scheduled-events/{date_query}"
     
     print(f"--- Processing Day +{days_offset} ({date_query}) ---")
     resp = await session.get(schedule_url, impersonate="chrome120", timeout=30)
