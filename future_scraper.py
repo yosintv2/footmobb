@@ -21,7 +21,7 @@ async def get_channel_name(session, channel_id):
 
 async def get_tv_data(session, match_id):
     """Fetches country-specific TV channels and resolves their names."""
-    tv_url = f"https://api.sofascore.com/api/v1/tv/event/{match_id}/country-channels"
+    tv_url = f"https://api.sofascore1.com/api/v1/tv/event/{match_id}/country-channels"
     broadcasters = []
     try:
         res = await session.get(tv_url, impersonate="chrome120", timeout=10)
@@ -52,7 +52,7 @@ async def get_tv_data(session, match_id):
 
 async def fetch_match_details(session, match_id):
     """Fetches full fixture meta-data and TV listings."""
-    event_url = f"https://api.sofascore.com/api/v1/event/{match_id}"
+    event_url = f"https://api.sofascore1.com/api/v1/event/{match_id}"
     try:
         res = await session.get(event_url, impersonate="chrome120", timeout=10)
         if res.status_code != 200: return None
