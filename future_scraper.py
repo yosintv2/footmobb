@@ -9,7 +9,7 @@ SOURCE_NAME = "YoSinTV_Ultra_Engine"
 
 async def get_channel_name(session, channel_id):
     """Fetches the actual name of a channel (e.g., 'Sky Sports') from its ID."""
-    url = f"https://api.sofascore.com/api/v1/tv/channel/{channel_id}/schedule"
+    url = f"https://api.sofascore1.com/api/v1/tv/channel/{channel_id}/schedule"
     try:
         res = await session.get(url, impersonate="chrome120", timeout=5)
         if res.status_code == 200:
