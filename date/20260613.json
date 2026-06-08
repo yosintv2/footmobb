@@ -8,22 +8,75 @@
         "venue": "BMO Field",
         "tv_channels": [
             {
+                "country": "Albania",
+                "channels": [
+                    "TV Klan"
+                ]
+            },
+            {
+                "country": "Andorra",
+                "channels": [
+                    "M6",
+                    "RTVE Play",
+                    "RTVE.es",
+                    "TVE La 1",
+                    "beIN SPORTS 1",
+                    "DAZN Mundial"
+                ]
+            },
+            {
                 "country": "Angola",
                 "channels": [
                     "DStv Now"
                 ]
             },
             {
+                "country": "Argentina",
+                "channels": [
+                    "DGO",
+                    "DIRECTV Sports"
+                ]
+            },
+            {
                 "country": "Austria",
                 "channels": [
-                    "ORF 1",
-                    "Prime Video"
+                    "Das Erste",
+                    "Prime Video",
+                    "ORF 1"
+                ]
+            },
+            {
+                "country": "Azerbaijan",
+                "channels": [
+                    "Ictimai TV"
+                ]
+            },
+            {
+                "country": "Bangladesh",
+                "channels": [
+                    "T Sports",
+                    "Bioscope+"
                 ]
             },
             {
                 "country": "Belgium",
                 "channels": [
+                    "Das Erste",
                     "Prime Video"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Tigo Sports 1"
+                ]
+            },
+            {
+                "country": "Bosnia and Herzegovina",
+                "channels": [
+                    "BHT 1",
+                    "Arena Sport Premium 1",
+                    "HRT 2"
                 ]
             },
             {
@@ -40,6 +93,14 @@
                 ]
             },
             {
+                "country": "Bulgaria",
+                "channels": [
+                    "Das Erste",
+                    "BNT 3",
+                    "BNT 1"
+                ]
+            },
+            {
                 "country": "Burkina Faso",
                 "channels": [
                     "DStv Now"
@@ -48,8 +109,8 @@
             {
                 "country": "Burundi",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -61,13 +122,19 @@
             {
                 "country": "Cameroon",
                 "channels": [
-                    "DStv Now"
+                    "DStv Now",
+                    "StarTimes App"
                 ]
             },
             {
                 "country": "Canada",
                 "channels": [
-                    "RDS"
+                    "CTV",
+                    "TSN+",
+                    "TSN3",
+                    "RDS",
+                    "TSN4",
+                    "TSN1"
                 ]
             },
             {
@@ -77,16 +144,44 @@
                 ]
             },
             {
+                "country": "Chile",
+                "channels": [
+                    "Chilevision",
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
                 "country": "Congo",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "StarTimes App",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Congo, The Democratic Republic of the",
                 "channels": [
-                    "DStv Now"
+                    "DStv Now",
+                    "StarTimes App"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "channels": [
+                    "HRTi",
+                    "HRT 2"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "channels": [
+                    "Sigma TV"
                 ]
             },
             {
@@ -104,13 +199,24 @@
             {
                 "country": "Denmark",
                 "channels": [
-                    "DRTV"
+                    "Das Erste",
+                    "DR 1",
+                    "NRK 1",
+                    "SVT Play",
+                    "DRTV",
+                    "SVT 1"
                 ]
             },
             {
                 "country": "Djibouti",
                 "channels": [
                     "DStv Now"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "DGO"
                 ]
             },
             {
@@ -138,6 +244,30 @@
                 ]
             },
             {
+                "country": "Faroe Islands",
+                "channels": [
+                    "NRK 1",
+                    "SVT Play",
+                    "SVT 1",
+                    "DR 1"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "Yle TV2",
+                    "Yle Areena"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "6play",
+                    "beIN SPORTS 1",
+                    "M6"
+                ]
+            },
+            {
                 "country": "Gabon",
                 "channels": [
                     "DStv Now"
@@ -152,21 +282,38 @@
             {
                 "country": "Germany",
                 "channels": [
+                    "Das Erste",
                     "Magenta TV"
                 ]
             },
             {
                 "country": "Ghana",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "StarTimes App",
+                    "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Greece",
+                "channels": [
+                    "EPT2"
+                ]
+            },
+            {
+                "country": "Greenland",
+                "channels": [
+                    "DR 1",
+                    "SVT Play",
+                    "SVT 1"
                 ]
             },
             {
                 "country": "Guinea",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "StarTimes App",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -176,30 +323,68 @@
                 ]
             },
             {
+                "country": "Hungary",
+                "channels": [
+                    "M4 Sport",
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "India",
+                "channels": [
+                    "ZEE5"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "channels": [
+                    "TVRI Sport",
+                    "TVRI"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
-                    "BBC Sport Web",
+                    "BBC One",
                     "BBC iPlayer",
-                    "BBC One"
+                    "RTE Player",
+                    "BBC Sport Web",
+                    "RTE 2"
                 ]
             },
             {
                 "country": "Italy",
                 "channels": [
-                    "Rai 1"
+                    "RaiPlay",
+                    "Rai 1",
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
                 "country": "Kenya",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "StarTimes App",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Lesotho",
                 "channels": [
-                    "DStv Now"
+                    "DStv Now",
+                    "StarTimes App"
                 ]
             },
             {
@@ -209,15 +394,29 @@
                 ]
             },
             {
+                "country": "Liechtenstein",
+                "channels": [
+                    "RTS 2"
+                ]
+            },
+            {
+                "country": "Luxembourg",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
                 "country": "Madagascar",
                 "channels": [
-                    "DStv Now"
+                    "DStv Now",
+                    "StarTimes App"
                 ]
             },
             {
                 "country": "Malawi",
                 "channels": [
-                    "DStv Now"
+                    "DStv Now",
+                    "StarTimes App"
                 ]
             },
             {
@@ -245,10 +444,24 @@
                 ]
             },
             {
+                "country": "Monaco",
+                "channels": [
+                    "beIN SPORTS 1",
+                    "M6"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "HRT 2"
+                ]
+            },
+            {
                 "country": "Mozambique",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "StarTimes App",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -260,7 +473,9 @@
             {
                 "country": "Netherlands",
                 "channels": [
-                    "BBC One"
+                    "BBC One",
+                    "Das Erste",
+                    "NPO 1"
                 ]
             },
             {
@@ -272,26 +487,100 @@
             {
                 "country": "Nigeria",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "StarTimes App",
+                    "Sporty TV App"
+                ]
+            },
+            {
+                "country": "North Macedonia",
+                "channels": [
+                    "Arena Sport Premium 1"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "NRK TV",
+                    "SVT Play",
+                    "SVT 1",
+                    "NRK 1"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Unicanal"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Am\u00e9rica Televisi\u00f3n",
+                    "DGO",
+                    "Am\u00e9rica TVGO",
+                    "DIRECTV Sports"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "TVP Sport HD",
+                    "TVP 1 HD",
+                    "sport.tvp.pl",
+                    "TVP Sport App"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Sport TV5",
+                    "SIC",
+                    "Sport TV1"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Antena Play",
+                    "Antena 1"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "channels": [
+                    "matchtv.ru"
                 ]
             },
             {
                 "country": "Rwanda",
                 "channels": [
+                    "StarTimes App",
                     "Sporty TV App"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "Rai 1"
+                    "RaiPlay",
+                    "Rai 1",
+                    "DAZN"
                 ]
             },
             {
                 "country": "Senegal",
                 "channels": [
-                    "DStv Now"
+                    "RTS 2",
+                    "DStv Now",
+                    "RTS 1"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "channels": [
+                    "RTS 2",
+                    "Arena Sport Premium 1",
+                    "RTS 1"
                 ]
             },
             {
@@ -303,8 +592,9 @@
             {
                 "country": "Sierra Leone",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "StarTimes App",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -315,8 +605,17 @@
                 ]
             },
             {
+                "country": "Slovenia",
+                "channels": [
+                    "Das Erste",
+                    "Arena Sport Slovenia 1",
+                    "HRT 2"
+                ]
+            },
+            {
                 "country": "South Africa",
                 "channels": [
+                    "StarTimes App",
                     "Sporty TV App"
                 ]
             },
@@ -329,7 +628,11 @@
             {
                 "country": "Spain",
                 "channels": [
-                    "Prime Video"
+                    "Prime Video",
+                    "RTVE Play",
+                    "RTVE.es",
+                    "TVE La 1",
+                    "DAZN Mundial"
                 ]
             },
             {
@@ -339,17 +642,28 @@
                 ]
             },
             {
+                "country": "Sweden",
+                "channels": [
+                    "NRK 1",
+                    "Das Erste",
+                    "SVT 1",
+                    "SVT Play"
+                ]
+            },
+            {
                 "country": "Switzerland",
                 "channels": [
-                    "ORF 1",
-                    "BBC One"
+                    "BBC One",
+                    "Das Erste",
+                    "ORF 1"
                 ]
             },
             {
                 "country": "Tanzania, United Republic of",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "StarTimes App",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -361,22 +675,60 @@
             {
                 "country": "Uganda",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "StarTimes App",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC Sport Web",
+                    "BBC One",
                     "BBC iPlayer",
-                    "BBC One"
+                    "RTE Player",
+                    "BBC Sport Web",
+                    "RTE 2"
                 ]
             },
             {
                 "country": "United States",
                 "channels": [
-                    "Prime Video"
+                    "FOX One",
+                    "Peacock",
+                    "Prime Video",
+                    "Telemundo"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "DGO",
+                    "Canal 5"
+                ]
+            },
+            {
+                "country": "Uzbekistan",
+                "channels": [
+                    "Zo\u02bbr TV"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "DIRECTV Sports Venezuela",
+                    "DGO"
+                ]
+            },
+            {
+                "country": "XK",
+                "channels": [
+                    "TV Klan"
+                ]
+            },
+            {
+                "country": "Zambia",
+                "channels": [
+                    "StarTimes App"
                 ]
             },
             {
@@ -396,6 +748,12 @@
         "venue": "Levi's Stadium",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "DAZN Mundial"
+                ]
+            },
+            {
                 "country": "Angola",
                 "channels": [
                     "DStv Now"
@@ -404,6 +762,7 @@
             {
                 "country": "Austria",
                 "channels": [
+                    "ZDF",
                     "Prime Video"
                 ]
             },
@@ -435,8 +794,8 @@
             {
                 "country": "Burundi",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -460,14 +819,20 @@
             {
                 "country": "Congo",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Congo, The Democratic Republic of the",
                 "channels": [
                     "DStv Now"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "channels": [
+                    "Sigma TV"
                 ]
             },
             {
@@ -527,21 +892,22 @@
             {
                 "country": "Germany",
                 "channels": [
+                    "ZDF",
                     "Magenta Sport"
                 ]
             },
             {
                 "country": "Ghana",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Guinea",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -559,8 +925,8 @@
             {
                 "country": "Kenya",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -608,14 +974,20 @@
             {
                 "country": "Mozambique",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Namibia",
                 "channels": [
                     "DStv Now"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "ZDF"
                 ]
             },
             {
@@ -627,8 +999,14 @@
             {
                 "country": "Nigeria",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Sport TV5"
                 ]
             },
             {
@@ -652,15 +1030,15 @@
             {
                 "country": "Sierra Leone",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Slovakia",
                 "channels": [
-                    "JOJ \u0160port",
-                    "\u010cT Sport"
+                    "\u010cT Sport",
+                    "JOJ \u0160port"
                 ]
             },
             {
@@ -678,7 +1056,9 @@
             {
                 "country": "Spain",
                 "channels": [
-                    "Prime Video"
+                    "ZDF",
+                    "Prime Video",
+                    "DAZN Mundial"
                 ]
             },
             {
@@ -688,10 +1068,16 @@
                 ]
             },
             {
+                "country": "Switzerland",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
                 "country": "Tanzania, United Republic of",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -703,8 +1089,8 @@
             {
                 "country": "Uganda",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -738,6 +1124,7 @@
             {
                 "country": "Andorra",
                 "channels": [
+                    "DAZN Mundial",
                     "M6",
                     "beIN SPORTS 1",
                     "RTVE.es"
@@ -758,6 +1145,7 @@
             {
                 "country": "Austria",
                 "channels": [
+                    "ZDF",
                     "Prime Video"
                 ]
             },
@@ -777,12 +1165,12 @@
                 "country": "Brazil",
                 "channels": [
                     "YouTube - Caz\u00e9TV",
-                    "TV Globo",
+                    "SBT",
+                    "Prime Video",
                     "NSports",
                     "Sportv",
                     "GE TV",
-                    "SBT",
-                    "Prime Video"
+                    "TV Globo"
                 ]
             },
             {
@@ -794,8 +1182,8 @@
             {
                 "country": "Burundi",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -825,8 +1213,8 @@
             {
                 "country": "Congo",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -886,8 +1274,8 @@
             {
                 "country": "France",
                 "channels": [
-                    "M6",
-                    "beIN SPORTS 1"
+                    "beIN SPORTS 1",
+                    "M6"
                 ]
             },
             {
@@ -905,21 +1293,22 @@
             {
                 "country": "Germany",
                 "channels": [
+                    "ZDF",
                     "Magenta TV"
                 ]
             },
             {
                 "country": "Ghana",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Guinea",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -931,9 +1320,9 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC Sport Web",
+                    "BBC One",
                     "BBC iPlayer",
-                    "BBC One"
+                    "BBC Sport Web"
                 ]
             },
             {
@@ -945,8 +1334,8 @@
             {
                 "country": "Kenya",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1007,8 +1396,8 @@
             {
                 "country": "Mozambique",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1020,7 +1409,8 @@
             {
                 "country": "Netherlands",
                 "channels": [
-                    "BBC One"
+                    "BBC One",
+                    "ZDF"
                 ]
             },
             {
@@ -1032,8 +1422,15 @@
             {
                 "country": "Nigeria",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Sport TV5",
+                    "Sport TV1"
                 ]
             },
             {
@@ -1063,15 +1460,15 @@
             {
                 "country": "Sierra Leone",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Slovakia",
                 "channels": [
-                    "JOJ \u0160port",
-                    "\u010cT Sport"
+                    "\u010cT Sport",
+                    "JOJ \u0160port"
                 ]
             },
             {
@@ -1089,8 +1486,10 @@
             {
                 "country": "Spain",
                 "channels": [
-                    "RTVE.es",
-                    "Prime Video"
+                    "ZDF",
+                    "Prime Video",
+                    "DAZN Mundial",
+                    "RTVE.es"
                 ]
             },
             {
@@ -1102,14 +1501,15 @@
             {
                 "country": "Switzerland",
                 "channels": [
-                    "BBC One"
+                    "BBC One",
+                    "ZDF"
                 ]
             },
             {
                 "country": "Tanzania, United Republic of",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1121,8 +1521,8 @@
             {
                 "country": "Uganda",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1136,8 +1536,8 @@
             {
                 "country": "United States",
                 "channels": [
-                    "Telemundo",
-                    "Prime Video"
+                    "Prime Video",
+                    "Telemundo"
                 ]
             },
             {
@@ -1163,6 +1563,12 @@
         "venue": "Gillette Stadium",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "DAZN Mundial"
+                ]
+            },
+            {
                 "country": "Angola",
                 "channels": [
                     "DStv Now"
@@ -1171,12 +1577,14 @@
             {
                 "country": "Austria",
                 "channels": [
+                    "Das Erste",
                     "Prime Video"
                 ]
             },
             {
                 "country": "Belgium",
                 "channels": [
+                    "Das Erste",
                     "Prime Video"
                 ]
             },
@@ -1194,6 +1602,12 @@
                 ]
             },
             {
+                "country": "Bulgaria",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
                 "country": "Burkina Faso",
                 "channels": [
                     "DStv Now"
@@ -1202,8 +1616,8 @@
             {
                 "country": "Burundi",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1219,6 +1633,12 @@
                 ]
             },
             {
+                "country": "Canada",
+                "channels": [
+                    "RDS"
+                ]
+            },
+            {
                 "country": "Chad",
                 "channels": [
                     "DStv Now"
@@ -1227,8 +1647,8 @@
             {
                 "country": "Congo",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1247,6 +1667,12 @@
                 "country": "C\u00f4te d'Ivoire",
                 "channels": [
                     "DStv Now"
+                ]
+            },
+            {
+                "country": "Denmark",
+                "channels": [
+                    "Das Erste"
                 ]
             },
             {
@@ -1292,17 +1718,23 @@
                 ]
             },
             {
+                "country": "Germany",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
                 "country": "Ghana",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Guinea",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1312,18 +1744,30 @@
                 ]
             },
             {
+                "country": "Hungary",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
-                    "BBC Sport Web",
+                    "BBC One",
                     "BBC iPlayer",
-                    "BBC One"
+                    "BBC Sport Web"
                 ]
             },
             {
                 "country": "Kenya",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1336,6 +1780,12 @@
                 "country": "Liberia",
                 "channels": [
                     "DStv Now"
+                ]
+            },
+            {
+                "country": "Luxembourg",
+                "channels": [
+                    "Das Erste"
                 ]
             },
             {
@@ -1371,8 +1821,8 @@
             {
                 "country": "Mozambique",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1384,7 +1834,8 @@
             {
                 "country": "Netherlands",
                 "channels": [
-                    "BBC One"
+                    "BBC One",
+                    "Das Erste"
                 ]
             },
             {
@@ -1396,8 +1847,8 @@
             {
                 "country": "Nigeria",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1421,15 +1872,21 @@
             {
                 "country": "Sierra Leone",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Slovakia",
                 "channels": [
-                    "JOJ \u0160port",
-                    "Nova Action"
+                    "Nova Action",
+                    "JOJ \u0160port"
+                ]
+            },
+            {
+                "country": "Slovenia",
+                "channels": [
+                    "Das Erste"
                 ]
             },
             {
@@ -1447,6 +1904,7 @@
             {
                 "country": "Spain",
                 "channels": [
+                    "DAZN Mundial",
                     "Prime Video"
                 ]
             },
@@ -1457,16 +1915,23 @@
                 ]
             },
             {
+                "country": "Sweden",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
                 "country": "Switzerland",
                 "channels": [
-                    "BBC One"
+                    "BBC One",
+                    "Das Erste"
                 ]
             },
             {
                 "country": "Tanzania, United Republic of",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1478,8 +1943,8 @@
             {
                 "country": "Uganda",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1512,6 +1977,12 @@
         "league": "FIFA World Cup, Group D",
         "venue": "SoFi Stadium",
         "tv_channels": [
+            {
+                "country": "Andorra",
+                "channels": [
+                    "DAZN Mundial"
+                ]
+            },
             {
                 "country": "Angola",
                 "channels": [
@@ -1547,10 +2018,10 @@
                 "country": "Brazil",
                 "channels": [
                     "YouTube - Caz\u00e9TV",
-                    "TV Globo",
-                    "Sportv",
                     "SBT",
-                    "Prime Video"
+                    "Prime Video",
+                    "Sportv",
+                    "TV Globo"
                 ]
             },
             {
@@ -1562,8 +2033,8 @@
             {
                 "country": "Burundi",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1587,14 +2058,20 @@
             {
                 "country": "Congo",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Congo, The Democratic Republic of the",
                 "channels": [
                     "DStv Now"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "channels": [
+                    "Sigma TV"
                 ]
             },
             {
@@ -1672,15 +2149,15 @@
             {
                 "country": "Ghana",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Guinea",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1692,16 +2169,16 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC Sport Web",
+                    "BBC One",
                     "BBC iPlayer",
-                    "BBC One"
+                    "BBC Sport Web"
                 ]
             },
             {
                 "country": "Kenya",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1749,8 +2226,8 @@
             {
                 "country": "Mozambique",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1774,8 +2251,20 @@
             {
                 "country": "Nigeria",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Canal Trece"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Sport TV5"
                 ]
             },
             {
@@ -1799,8 +2288,8 @@
             {
                 "country": "Sierra Leone",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1825,6 +2314,7 @@
             {
                 "country": "Spain",
                 "channels": [
+                    "DAZN Mundial",
                     "Prime Video"
                 ]
             },
@@ -1843,8 +2333,8 @@
             {
                 "country": "Tanzania, United Republic of",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1856,8 +2346,8 @@
             {
                 "country": "Uganda",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1871,8 +2361,8 @@
             {
                 "country": "United States",
                 "channels": [
-                    "Fox",
-                    "Prime Video"
+                    "Prime Video",
+                    "Fox"
                 ]
             },
             {
@@ -1897,6 +2387,12 @@
         "league": "FIFA World Cup, Group D",
         "venue": "BC Place",
         "tv_channels": [
+            {
+                "country": "Andorra",
+                "channels": [
+                    "DAZN Mundial"
+                ]
+            },
             {
                 "country": "Angola",
                 "channels": [
@@ -1938,8 +2434,8 @@
             {
                 "country": "Burundi",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -1963,8 +2459,8 @@
             {
                 "country": "Congo",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -2036,15 +2532,15 @@
             {
                 "country": "Ghana",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Guinea",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -2056,8 +2552,8 @@
             {
                 "country": "Kenya",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -2105,8 +2601,8 @@
             {
                 "country": "Mozambique",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -2124,8 +2620,8 @@
             {
                 "country": "Nigeria",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -2149,15 +2645,15 @@
             {
                 "country": "Sierra Leone",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Slovakia",
                 "channels": [
-                    "JOJ \u0160port",
-                    "Nova Action"
+                    "Nova Action",
+                    "JOJ \u0160port"
                 ]
             },
             {
@@ -2175,6 +2671,7 @@
             {
                 "country": "Spain",
                 "channels": [
+                    "DAZN Mundial",
                     "Prime Video"
                 ]
             },
@@ -2187,8 +2684,8 @@
             {
                 "country": "Tanzania, United Republic of",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -2200,8 +2697,8 @@
             {
                 "country": "Uganda",
                 "channels": [
-                    "Sporty TV App",
-                    "DStv Now"
+                    "DStv Now",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -2225,7 +2722,17 @@
         "league_id": 390,
         "league": "Brasileir\u00e3o S\u00e9rie B",
         "venue": "Est\u00e1dio Ant\u00f4nio Accioly",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "YouTube - SportyNet",
+                    "Disney+",
+                    "ESPN",
+                    "SportyNet"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15353062,
@@ -2270,6 +2777,15 @@
         "league_id": 11653,
         "league": "Liga de Primera",
         "venue": "Estadio Municipal Nelson Oyarz\u00fan Arenas",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16293199,
+        "kickoff": 1781290800,
+        "fixture": "CD San Antonio vs Academia de Balompi\u00e9 Boliviano",
+        "league_id": 16736,
+        "league": "Divisi\u00f3n Profesional",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -2321,6 +2837,15 @@
         "match_id": 16189846,
         "kickoff": 1781388000,
         "fixture": "GV San Jos\u00e9 vs Club FC Universitario",
+        "league_id": 16736,
+        "league": "Divisi\u00f3n Profesional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16293200,
+        "kickoff": 1781388000,
+        "fixture": "GV San Jos\u00e9 vs The Strongest",
         "league_id": 16736,
         "league": "Divisi\u00f3n Profesional",
         "venue": "TBA",
@@ -2380,28 +2905,6 @@
         ]
     },
     {
-        "match_id": 15238106,
-        "kickoff": 1781289900,
-        "fixture": "Shelbourne vs Shamrock Rovers",
-        "league_id": 192,
-        "league": "Premier Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOI TV"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "LOI TV"
-                ]
-            }
-        ]
-    },
-    {
         "match_id": 15238107,
         "kickoff": 1781289900,
         "fixture": "St. Patrick's Athletic vs Drogheda United",
@@ -2427,6 +2930,28 @@
         "match_id": 15238108,
         "kickoff": 1781289900,
         "fixture": "Waterford FC vs Sligo Rovers",
+        "league_id": 192,
+        "league": "Premier Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 15238106,
+        "kickoff": 1781290800,
+        "fixture": "Shelbourne vs Shamrock Rovers",
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
@@ -2689,9 +3214,27 @@
         "tv_channels": []
     },
     {
+        "match_id": 15275703,
+        "kickoff": 1781370000,
+        "fixture": "Ferrocarril Midland vs Atlanta",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15275701,
         "kickoff": 1781373600,
         "fixture": "Colegiales vs San Mart\u00edn de Tucum\u00e1n",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275699,
+        "kickoff": 1781375400,
+        "fixture": "Almagro vs Agropecuario Argentino",
         "league_id": 703,
         "league": "Primera B Nacional",
         "venue": "TBA",
@@ -2707,24 +3250,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15275694,
-        "kickoff": 1781375400,
-        "fixture": "Estudiantes de Buenos Aires vs All Boys",
-        "league_id": 703,
-        "league": "Primera B Nacional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15275696,
-        "kickoff": 1781375400,
-        "fixture": "Nueva Chicago vs Club Atl\u00e9tico Chacarita Juniors",
-        "league_id": 703,
-        "league": "Primera B Nacional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 15275691,
         "kickoff": 1781377200,
         "fixture": "Ciudad de Bolivar vs Deportivo Mor\u00f3n",
@@ -2734,9 +3259,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 15275703,
-        "kickoff": 1781377200,
-        "fixture": "Ferrocarril Midland vs Atlanta",
+        "match_id": 15275702,
+        "kickoff": 1781380800,
+        "fixture": "Quilmes Atl\u00e9tico Club vs Gimnasia y Tiro de Salta",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275695,
+        "kickoff": 1781391600,
+        "fixture": "Gimnasia Jujuy vs San Mart\u00edn de San Juan",
         "league_id": 703,
         "league": "Primera B Nacional",
         "venue": "TBA",
@@ -3046,7 +3580,14 @@
         "league_id": 55,
         "league": "Ykkosliiga",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15341257,
