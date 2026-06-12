@@ -50,6 +50,7 @@
                 "country": "Austria",
                 "channels": [
                     "Prime Video",
+                    "Servus TV",
                     "ZDF"
                 ]
             },
@@ -232,7 +233,8 @@
                 "country": "Colombia",
                 "channels": [
                     "DGO",
-                    "ViX"
+                    "ViX",
+                    "Win Sports"
                 ]
             },
             {
@@ -451,6 +453,7 @@
                     "Joyn",
                     "Magenta Sport",
                     "Magenta TV",
+                    "SRF zwei",
                     "ZDF",
                     "ZDF Livestream"
                 ]
@@ -544,6 +547,7 @@
             {
                 "country": "Iran, Islamic Republic of",
                 "channels": [
+                    "IRIB TV3",
                     "beIN SPORTS MAX 1"
                 ]
             },
@@ -645,6 +649,12 @@
                 ]
             },
             {
+                "country": "Liechtenstein",
+                "channels": [
+                    "RTS 2"
+                ]
+            },
+            {
                 "country": "Lithuania",
                 "channels": [
                     "TV3"
@@ -677,7 +687,9 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "RTM klik"
+                    "MyGOV App",
+                    "RTM klik",
+                    "Sukan+"
                 ]
             },
             {
@@ -958,6 +970,7 @@
                 "channels": [
                     "Canal+",
                     "DStv Now",
+                    "RTS 2",
                     "SuperSport Football Plus",
                     "SuperSport GOtv Football",
                     "SuperSport GOtv LaLiga",
@@ -968,7 +981,8 @@
             {
                 "country": "Serbia",
                 "channels": [
-                    "Arena Sport Premium 1"
+                    "Arena Sport Premium 1",
+                    "RTS 2"
                 ]
             },
             {
@@ -1082,6 +1096,7 @@
             {
                 "country": "Switzerland",
                 "channels": [
+                    "SRF zwei",
                     "ZDF"
                 ]
             },
@@ -1301,6 +1316,7 @@
                 "country": "Austria",
                 "channels": [
                     "Prime Video",
+                    "Servus TV",
                     "ZDF"
                 ]
             },
@@ -1375,6 +1391,7 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Betano",
                     "GE TV",
                     "Globoplay",
                     "NSports",
@@ -1751,7 +1768,8 @@
                     "SuperSport GOtv Football",
                     "SuperSport GOtv LaLiga",
                     "SuperSport LaLiga",
-                    "SuperSport Maximo"
+                    "SuperSport Maximo",
+                    "TV3 Ghana"
                 ]
             },
             {
@@ -1836,6 +1854,7 @@
             {
                 "country": "Iran, Islamic Republic of",
                 "channels": [
+                    "IRIB TV3",
                     "beIN SPORTS MAX 2"
                 ]
             },
@@ -1855,6 +1874,12 @@
                     "RTE 2",
                     "RTE 2 +1",
                     "RTE Player"
+                ]
+            },
+            {
+                "country": "Israel",
+                "channels": [
+                    "KAN 11"
                 ]
             },
             {
@@ -2070,7 +2095,6 @@
             {
                 "country": "Morocco",
                 "channels": [
-                    "Al Aoula",
                     "beIN SPORTS MAX 2",
                     "beIN Sports MAX 5 Arabia"
                 ]
@@ -2502,6 +2526,13 @@
                 ]
             },
             {
+                "country": "Ukraine",
+                "channels": [
+                    "MEGOGO Football 2",
+                    "Megogo"
+                ]
+            },
+            {
                 "country": "United Arab Emirates",
                 "channels": [
                     "beIN SPORTS MAX 2",
@@ -2607,6 +2638,12 @@
         "venue": "Gillette Stadium",
         "tv_channels": [
             {
+                "country": "Albania",
+                "channels": [
+                    "TV Klan"
+                ]
+            },
+            {
                 "country": "Algeria",
                 "channels": [
                     "beIN SPORTS MAX 1"
@@ -2643,7 +2680,8 @@
                 "country": "Austria",
                 "channels": [
                     "Das Erste",
-                    "Prime Video"
+                    "Prime Video",
+                    "Servus TV"
                 ]
             },
             {
@@ -2715,6 +2753,7 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Betano",
                     "Prime Video",
                     "YouTube - CazéTV"
                 ]
@@ -2722,6 +2761,7 @@
             {
                 "country": "Bulgaria",
                 "channels": [
+                    "BNT 1",
                     "Das Erste"
                 ]
             },
@@ -3028,6 +3068,12 @@
                 ]
             },
             {
+                "country": "Georgia",
+                "channels": [
+                    "Rustavi 2"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "ARD-Mediathek",
@@ -3152,6 +3198,12 @@
                 ]
             },
             {
+                "country": "Israel",
+                "channels": [
+                    "Sport 1"
+                ]
+            },
+            {
                 "country": "Italy",
                 "channels": [
                     "DAZN"
@@ -3253,6 +3305,14 @@
                     "SuperSport GOtv LaLiga",
                     "SuperSport LaLiga",
                     "SuperSport Maximo"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "channels": [
+                    "MyGOV App",
+                    "RTM klik",
+                    "Sukan+"
                 ]
             },
             {
@@ -3701,6 +3761,13 @@
                 ]
             },
             {
+                "country": "Ukraine",
+                "channels": [
+                    "MEGOGO Football 1",
+                    "Megogo"
+                ]
+            },
+            {
                 "country": "United Arab Emirates",
                 "channels": [
                     "beIN SPORTS MAX 1"
@@ -3746,6 +3813,12 @@
                 "channels": [
                     "Claro Sports",
                     "DGO"
+                ]
+            },
+            {
+                "country": "XK",
+                "channels": [
+                    "TV Klan"
                 ]
             },
             {
@@ -4699,6 +4772,13 @@
                 ]
             },
             {
+                "country": "Ukraine",
+                "channels": [
+                    "MEGOGO Football 2",
+                    "Megogo"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "channels": [
                     "ITV",
@@ -4841,6 +4921,7 @@
             {
                 "country": "Bangladesh",
                 "channels": [
+                    "Bioscope+",
                     "Somoy TV",
                     "T Sports"
                 ]
@@ -5063,6 +5144,7 @@
             {
                 "country": "Czechia",
                 "channels": [
+                    "SLO2",
                     "ČT Sport"
                 ]
             },
@@ -5312,6 +5394,12 @@
                 ]
             },
             {
+                "country": "Israel",
+                "channels": [
+                    "KAN 11"
+                ]
+            },
+            {
                 "country": "Italy",
                 "channels": [
                     "DAZN"
@@ -5475,7 +5563,8 @@
             {
                 "country": "Montenegro",
                 "channels": [
-                    "HRT 2"
+                    "HRT 2",
+                    "SLO2"
                 ]
             },
             {
@@ -5543,7 +5632,8 @@
             {
                 "country": "North Macedonia",
                 "channels": [
-                    "Arena Sport Premium 1"
+                    "Arena Sport Premium 1",
+                    "SLO2"
                 ]
             },
             {
@@ -5718,7 +5808,8 @@
                 "country": "Slovenia",
                 "channels": [
                     "Das Erste",
-                    "HRT 2"
+                    "HRT 2",
+                    "SLO2"
                 ]
             },
             {
@@ -5857,6 +5948,13 @@
                 ]
             },
             {
+                "country": "Ukraine",
+                "channels": [
+                    "MEGOGO Football 1",
+                    "Megogo"
+                ]
+            },
+            {
                 "country": "United Arab Emirates",
                 "channels": [
                     "beIN SPORTS MAX 1"
@@ -5992,6 +6090,12 @@
                 "country": "Azerbaijan",
                 "channels": [
                     "Ictimai TV"
+                ]
+            },
+            {
+                "country": "Bangladesh",
+                "channels": [
+                    "T Sports"
                 ]
             },
             {
@@ -6415,6 +6519,12 @@
                     "RTE 2",
                     "RTE 2 +1",
                     "RTE Player"
+                ]
+            },
+            {
+                "country": "Israel",
+                "channels": [
+                    "Sport 1"
                 ]
             },
             {
@@ -6867,6 +6977,7 @@
                 "channels": [
                     "FOX One",
                     "Fox Sports 1",
+                    "Peacock",
                     "Prime Video",
                     "Telemundo"
                 ]
@@ -6956,6 +7067,7 @@
                 "channels": [
                     "DGO",
                     "DIRECTV Sports",
+                    "Disney+ Premium Argentina",
                     "Telefe",
                     "TyC Sports"
                 ]
@@ -7123,7 +7235,8 @@
                 "country": "Colombia",
                 "channels": [
                     "Caracol TV",
-                    "DGO"
+                    "DGO",
+                    "Disney+ Premium Sur"
                 ]
             },
             {
@@ -7213,7 +7326,8 @@
             {
                 "country": "Ecuador",
                 "channels": [
-                    "DGO"
+                    "DGO",
+                    "Disney+ Premium Sur"
                 ]
             },
             {
@@ -7271,6 +7385,12 @@
                 "channels": [
                     "TV2",
                     "TV2 Play Denmark"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "Yle Areena"
                 ]
             },
             {
@@ -7387,6 +7507,12 @@
                 ]
             },
             {
+                "country": "Israel",
+                "channels": [
+                    "KAN 11"
+                ]
+            },
+            {
                 "country": "Italy",
                 "channels": [
                     "DAZN",
@@ -7398,6 +7524,12 @@
                 "channels": [
                     "DAZN",
                     "NHK G TV"
+                ]
+            },
+            {
+                "country": "Kazakhstan",
+                "channels": [
+                    "Qazsport"
                 ]
             },
             {
@@ -7568,6 +7700,12 @@
                 ]
             },
             {
+                "country": "New Zealand",
+                "channels": [
+                    "TVNZ+"
+                ]
+            },
+            {
                 "country": "Niger",
                 "channels": [
                     "DStv Now",
@@ -7603,6 +7741,12 @@
                     "TV 2 Direkte",
                     "TV2",
                     "TV2 Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -7857,6 +8001,13 @@
                 ]
             },
             {
+                "country": "Ukraine",
+                "channels": [
+                    "MEGOGO Football 2",
+                    "Megogo"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "channels": [
                     "ITV",
@@ -7881,7 +8032,8 @@
                 "channels": [
                     "Canal 5",
                     "DGO",
-                    "DIRECTV Sports"
+                    "DIRECTV Sports",
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -7893,7 +8045,8 @@
             {
                 "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
-                    "DGO"
+                    "DGO",
+                    "Disney+ Premium Sur"
                 ]
             },
             {
@@ -7934,6 +8087,12 @@
         "league": "FIFA World Cup, Group F",
         "venue": "Estadio BBVA",
         "tv_channels": [
+            {
+                "country": "Albania",
+                "channels": [
+                    "TV Klan"
+                ]
+            },
             {
                 "country": "Algeria",
                 "channels": [
@@ -8431,6 +8590,12 @@
                 ]
             },
             {
+                "country": "Israel",
+                "channels": [
+                    "Sport 1"
+                ]
+            },
+            {
                 "country": "Jordan",
                 "channels": [
                     "beIN SPORTS MAX 2"
@@ -8795,6 +8960,12 @@
                 ]
             },
             {
+                "country": "Slovenia",
+                "channels": [
+                    "Arena Sport Slovenia 1"
+                ]
+            },
+            {
                 "country": "Somalia",
                 "channels": [
                     "SuperSport Football Plus",
@@ -8964,6 +9135,12 @@
                 ]
             },
             {
+                "country": "XK",
+                "channels": [
+                    "TV Klan"
+                ]
+            },
+            {
                 "country": "Yemen",
                 "channels": [
                     "beIN SPORTS MAX 2"
@@ -9002,9 +9179,27 @@
         "venue": "La Rosaleda",
         "tv_channels": [
             {
+                "country": "Denmark",
+                "channels": [
+                    "TV2 Play Denmark"
+                ]
+            },
+            {
+                "country": "Faroe Islands",
+                "channels": [
+                    "TV2 Play Denmark"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "DAZN"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "LaLiga TV Hypermotion"
                 ]
             }
         ]
@@ -9330,6 +9525,12 @@
         "league": "Canadian Premier League",
         "venue": "TBA",
         "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
             {
                 "country": "United States",
                 "channels": [
@@ -10537,7 +10738,14 @@
         "league_id": 682,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Betano"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15635609,
@@ -10616,7 +10824,14 @@
         "league_id": 197,
         "league": "Virsliga",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Betano"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15472504,
@@ -10661,7 +10876,14 @@
         "league_id": 937,
         "league": "Botola Pro",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Morocco",
+                "channels": [
+                    "Arryadia"
+                ]
+            }
+        ]
     },
     {
         "match_id": 16297540,
@@ -10670,7 +10892,14 @@
         "league_id": 937,
         "league": "Botola Pro",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Morocco",
+                "channels": [
+                    "Tamazight TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 16297541,
@@ -10679,7 +10908,14 @@
         "league_id": 937,
         "league": "Botola Pro",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Morocco",
+                "channels": [
+                    "Athaqafia"
+                ]
+            }
+        ]
     },
     {
         "match_id": 16297539,
@@ -10688,7 +10924,14 @@
         "league_id": 937,
         "league": "Botola Pro",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Morocco",
+                "channels": [
+                    "Al Maghribia"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15265803,
@@ -11406,5 +11649,23 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 16315917,
+        "kickoff": 1781350200,
+        "fixture": "Côte d'Ivoire U23 vs DR Congo U20",
+        "league_id": 2084,
+        "league": "Tournoi Maurice Revello, Knockout stage",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16315920,
+        "kickoff": 1781370000,
+        "fixture": "Portugal U19 vs Tunisia U20",
+        "league_id": 2084,
+        "league": "Tournoi Maurice Revello, Knockout stage",
+        "venue": "TBA",
+        "tv_channels": []
     }
 ]

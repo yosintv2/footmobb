@@ -2551,6 +2551,7 @@
             {
                 "country": "Georgia",
                 "channels": [
+                    "Rustavi 2",
                     "Setanta Sports 1 Georgia"
                 ]
             },
@@ -2668,7 +2669,10 @@
             {
                 "country": "Iran, Islamic Republic of",
                 "channels": [
+                    "Futbol HD - FFT TJ",
                     "IRIB TV3",
+                    "Persiana Sports",
+                    "Varzish Sport",
                     "beIN SPORTS MAX 1",
                     "beIN SPORTS MAX 2"
                 ]
@@ -2761,6 +2765,12 @@
                     "beIN SPORTS MAX 1",
                     "beIN SPORTS MAX 2",
                     "beIN Sports MAX 5 Arabia"
+                ]
+            },
+            {
+                "country": "Kyrgyzstan",
+                "channels": [
+                    "KTRK Sport"
                 ]
             },
             {
@@ -2969,6 +2979,12 @@
                     "SuperSport LaLiga",
                     "SuperSport Maximo",
                     "ZAP"
+                ]
+            },
+            {
+                "country": "Myanmar",
+                "channels": [
+                    "Thukhuma World Cup"
                 ]
             },
             {
@@ -3365,6 +3381,13 @@
                 ]
             },
             {
+                "country": "Tajikistan",
+                "channels": [
+                    "Futbol HD - FFT TJ",
+                    "Varzish Sport"
+                ]
+            },
+            {
                 "country": "Tanzania, United Republic of",
                 "channels": [
                     "Azam Sports 2 HD",
@@ -3491,6 +3514,7 @@
             {
                 "country": "Uzbekistan",
                 "channels": [
+                    "Futbol HD - FFT TJ",
                     "Zoʻr TV"
                 ]
             },
@@ -6895,13 +6919,20 @@
         ]
     },
     {
-        "match_id": 16312220,
+        "match_id": 16316719,
         "kickoff": 1781262000,
-        "fixture": "Bắc Ninh FC vs PVF-Công An Nhân Dân",
+        "fixture": "PVF-Công An Nhân Dân vs Bắc Ninh FC",
         "league_id": 626,
         "league": "V-League 1, Relagation / Promotion Playoff",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Viet Nam",
+                "channels": [
+                    "FPT Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 16274595,
