@@ -7,18 +7,18 @@ from curl_cffi.requests import AsyncSession
 
 SOURCE_NAME = "YoSinTV_Ultra_Engine"
 
-# Cache channel names to reduce API requests
 channel_cache = {}
 
 
 def cleanup_old_files():
     """
-    Keep only:
+    Keep:
     Yesterday (-1)
     Today (0)
-    Next 12 days (+1 to +12)
+    Next 30 days (+1 to +30)
 
-    Total = 14 JSON files
+    Files are stored year-wise:
+    date/2026/20260615.json
     """
 
     if not os.path.exists("date"):
@@ -27,24 +27,36 @@ def cleanup_old_files():
 
     keep_files = set()
 
-    for offset in range(-1, 13):
+    for offset in range(-1, 31):
         d = datetime.now() + timedelta(days=offset)
-        keep_files.add(d.strftime("%Y%m%d") + ".json")
 
-    for file in os.listdir("date"):
-        if file.endswith(".json") and file not in keep_files:
-            try:
-                os.remove(os.path.join("date", file))
-                print(f"Deleted old file: {file}")
-            except Exception as e:
-                print(f"Failed deleting {file}: {e}")
+        keep_files.add(
+            os.path.join(
+                d.strftime("%Y"),
+                d.strftime("%Y%m%d") + ".json"
+            )
+        )
+
+    for root, dirs, files in os.walk("date"):
+        for file in files:
+
+            if not file.endswith(".json"):
+                continue
+
+            rel_path = os.path.relpath(
+                os.path.join(root, file),
+                "date"
+            )
+
+            if rel_path not in keep_files:
+                try:
+                    os.remove(os.path.join(root, file))
+                    print(f"Deleted old file: {rel_path}")
+                except Exception as e:
+                    print(f"Failed deleting {rel_path}: {e}")
 
 
 async def get_channel_name(session, channel_id):
-    """
-    Resolve channel ID into channel name.
-    Uses cache to avoid duplicate API calls.
-    """
 
     if channel_id in channel_cache:
         return channel_cache[channel_id]
@@ -75,9 +87,6 @@ async def get_channel_name(session, channel_id):
 
 
 async def get_tv_data(session, match_id):
-    """
-    Fetch country-specific TV broadcasters.
-    """
 
     tv_url = (
         f"https://api.sofascore1.com/api/v1/tv/event/"
@@ -138,9 +147,6 @@ async def get_tv_data(session, match_id):
 
 
 async def fetch_match_details(session, match_id):
-    """
-    Fetch fixture details + TV information.
-    """
 
     event_url = (
         f"https://api.sofascore1.com/api/v1/event/{match_id}"
@@ -158,15 +164,8 @@ async def fetch_match_details(session, match_id):
 
         ev = res.json().get("event", {})
 
-        home = (
-            ev.get("homeTeam", {})
-            .get("name", "TBA")
-        )
-
-        away = (
-            ev.get("awayTeam", {})
-            .get("name", "TBA")
-        )
+        home = ev.get("homeTeam", {}).get("name", "TBA")
+        away = ev.get("awayTeam", {}).get("name", "TBA")
 
         tv_info = await get_tv_data(session, match_id)
 
@@ -195,9 +194,6 @@ async def fetch_match_details(session, match_id):
 
 
 async def process_day(session, days_offset):
-    """
-    Process one day's fixtures.
-    """
 
     target_date = datetime.now() + timedelta(days=days_offset)
 
@@ -239,16 +235,21 @@ async def process_day(session, days_offset):
             if r is not None
         ]
 
-        save_path = os.path.join(
+        year_folder = target_date.strftime("%Y")
+
+        save_dir = os.path.join(
             "date",
+            year_folder
+        )
+
+        os.makedirs(save_dir, exist_ok=True)
+
+        save_path = os.path.join(
+            save_dir,
             file_name
         )
 
-        with open(
-            save_path,
-            "w",
-            encoding="utf-8"
-        ) as f:
+        with open(save_path, "w", encoding="utf-8") as f:
             json.dump(
                 final_data,
                 f,
@@ -257,7 +258,7 @@ async def process_day(session, days_offset):
             )
 
         print(
-            f"Saved {file_name} "
+            f"Saved {year_folder}/{file_name} "
             f"({len(final_data)} matches)"
         )
 
@@ -267,18 +268,15 @@ async def process_day(session, days_offset):
 
 async def main():
 
-    # Delete old files first
     cleanup_old_files()
 
     async with AsyncSession() as session:
 
-        # Yesterday through next 12 days
-        # Total = 14 files
-        for offset in range(-1, 13):
+        # Yesterday + Today + Next 30 Days
+        for offset in range(-1, 31):
 
             await process_day(session, offset)
 
-            # Small delay to reduce rate-limit risk
             await asyncio.sleep(2)
 
 
