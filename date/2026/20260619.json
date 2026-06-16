@@ -1519,6 +1519,12 @@
                 ]
             },
             {
+                "country": "Indonesia",
+                "channels": [
+                    "TVRI Sport"
+                ]
+            },
+            {
                 "country": "Iran, Islamic Republic of",
                 "channels": [
                     "IRIB TV3"
@@ -1998,6 +2004,7 @@
                 "country": "United States",
                 "channels": [
                     "FOX One",
+                    "Fox",
                     "Peacock",
                     "Prime Video",
                     "Telemundo",
@@ -6877,6 +6884,12 @@
                 ]
             },
             {
+                "country": "Ecuador",
+                "channels": [
+                    "DIRECTV Sports"
+                ]
+            },
+            {
                 "country": "Equatorial Guinea",
                 "channels": [
                     "DStv Now",
@@ -7365,7 +7378,14 @@
         "league_id": 390,
         "league": "Brasileirão Série B",
         "venue": "Ilha do Retiro",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 16208604,

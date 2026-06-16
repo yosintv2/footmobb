@@ -112,6 +112,7 @@
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
                     "Disney+ Premium Chile",
+                    "Entel TV",
                     "Tigo Sports 1",
                     "ViX"
                 ]
@@ -250,6 +251,12 @@
                     "DIRECTV Sports",
                     "Disney+ Premium Chile",
                     "ViX"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "CCTV-5 Sports"
                 ]
             },
             {
@@ -478,7 +485,8 @@
                 "country": "Germany",
                 "channels": [
                     "Magenta TV",
-                    "ORF ON"
+                    "ORF ON",
+                    "SRF zwei"
                 ]
             },
             {
@@ -565,6 +573,7 @@
             {
                 "country": "India",
                 "channels": [
+                    "Unite8 Sports 1 HD",
                     "ZEE5"
                 ]
             },
@@ -616,7 +625,8 @@
             {
                 "country": "Japan",
                 "channels": [
-                    "DAZN"
+                    "DAZN",
+                    "Fuji TV"
                 ]
             },
             {
@@ -1091,6 +1101,7 @@
             {
                 "country": "Slovenia",
                 "channels": [
+                    "Arena Sport Slovenia 1",
                     "HRT 2",
                     "SLO2"
                 ]
@@ -1163,7 +1174,8 @@
                 "country": "Switzerland",
                 "channels": [
                     "BBC One",
-                    "ORF 1"
+                    "ORF 1",
+                    "SRF zwei"
                 ]
             },
             {
@@ -1311,7 +1323,8 @@
                     "SuperSport GOtv Football",
                     "SuperSport GOtv LaLiga",
                     "SuperSport LaLiga",
-                    "SuperSport Maximo"
+                    "SuperSport Maximo",
+                    "ZNBC TV1 Zambia"
                 ]
             },
             {
@@ -1429,6 +1442,7 @@
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
+                    "Entel TV",
                     "Tigo Sports 1",
                     "ViX"
                 ]
@@ -1454,6 +1468,7 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Betano",
                     "Prime Video",
                     "YouTube - CazéTV"
                 ]
@@ -2443,6 +2458,12 @@
                 ]
             },
             {
+                "country": "Uzbekistan",
+                "channels": [
+                    "Zoʻr TV"
+                ]
+            },
+            {
                 "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "DGO",
@@ -2599,6 +2620,7 @@
                 "channels": [
                     "Claro Sports",
                     "Disney+ Premium Chile",
+                    "Entel TV",
                     "Red Uno",
                     "Tigo Sports 1",
                     "Unitel",
@@ -2644,6 +2666,7 @@
                 "channels": [
                     "Canal+",
                     "DStv Now",
+                    "RTB",
                     "SuperSport Football Plus",
                     "SuperSport GOtv Football",
                     "SuperSport GOtv LaLiga",
@@ -3126,7 +3149,8 @@
             {
                 "country": "Japan",
                 "channels": [
-                    "DAZN"
+                    "DAZN",
+                    "NHK G TV"
                 ]
             },
             {
@@ -3353,6 +3377,7 @@
                 "channels": [
                     "Claro Sports",
                     "TUDN",
+                    "Tigo Sports",
                     "ViX"
                 ]
             },
@@ -3931,6 +3956,7 @@
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
+                    "Entel TV",
                     "Tigo Sports 1",
                     "ViX"
                 ]
@@ -4982,6 +5008,12 @@
                 ]
             },
             {
+                "country": "Viet Nam",
+                "channels": [
+                    "VTV6"
+                ]
+            },
+            {
                 "country": "Yemen",
                 "channels": [
                     "beIN SPORTS MAX 2"
@@ -5208,7 +5240,9 @@
             {
                 "country": "Cameroon",
                 "channels": [
+                    "Cameroon RTV",
                     "Canal+",
+                    "Canal2",
                     "DStv Now",
                     "New World Sport App",
                     "StarTimes App",
@@ -6820,6 +6854,12 @@
                 ]
             },
             {
+                "country": "Indonesia",
+                "channels": [
+                    "TVRI Sport"
+                ]
+            },
+            {
                 "country": "Iran, Islamic Republic of",
                 "channels": [
                     "IRIB TV3"
@@ -7668,7 +7708,8 @@
             {
                 "country": "Colombia",
                 "channels": [
-                    "DGO"
+                    "DGO",
+                    "Win Sports"
                 ]
             },
             {
@@ -9642,6 +9683,8 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Canal Goat",
+                    "Disney+",
                     "ESPN",
                     "Xsports"
                 ]
@@ -9763,7 +9806,14 @@
         "league_id": 178,
         "league": "Premium Liiga",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Betano"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15432344,
@@ -9772,7 +9822,14 @@
         "league_id": 178,
         "league": "Premium Liiga",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Betano"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15432346,
@@ -9967,7 +10024,14 @@
         "league_id": 188,
         "league": "Efsta deild",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Betano"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15635644,
@@ -9985,7 +10049,14 @@
         "league_id": 197,
         "league": "Virsliga",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Betano"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15472508,
@@ -9994,7 +10065,14 @@
         "league_id": 197,
         "league": "Virsliga",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Betano"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15472510,
@@ -10113,6 +10191,12 @@
         "venue": "Finnvedsvallen",
         "tv_channels": [
             {
+                "country": "Brazil",
+                "channels": [
+                    "Betano"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "channels": [
                     "TV4 Fotball"
@@ -10127,7 +10211,14 @@
         "league_id": 46,
         "league": "Superettan",
         "venue": "Landskrona IP",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Betano"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15458416,
