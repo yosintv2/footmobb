@@ -697,6 +697,12 @@
         "venue": "BC Place",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Angola",
                 "channels": [
                     "DStv Now",
@@ -743,7 +749,11 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "GE TV",
                     "Prime Video",
+                    "Sportv",
+                    "Sportv 4K",
+                    "TV Globo",
                     "YouTube - CazéTV"
                 ]
             },
@@ -919,6 +929,12 @@
                     "SuperSport GOtv LaLiga",
                     "SuperSport LaLiga",
                     "SuperSport Maximo"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -1099,6 +1115,12 @@
                     "SuperSport GOtv LaLiga",
                     "SuperSport LaLiga",
                     "SuperSport Maximo"
+                ]
+            },
+            {
+                "country": "Monaco",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -2102,7 +2124,13 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "GE TV",
+                    "NSports",
                     "Prime Video",
+                    "SBT",
+                    "Sportv",
+                    "Sportv 4K",
+                    "TV Globo",
                     "YouTube - CazéTV"
                 ]
             },
@@ -3563,7 +3591,11 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "GE TV",
                     "Prime Video",
+                    "Sportv",
+                    "Sportv 4K",
+                    "TV Globo",
                     "YouTube - CazéTV"
                 ]
             },
@@ -3761,6 +3793,12 @@
                     "SuperSport GOtv LaLiga",
                     "SuperSport LaLiga",
                     "SuperSport Maximo"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Magenta TV"
                 ]
             },
             {
@@ -4230,7 +4268,13 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "GE TV",
+                    "NSports",
                     "Prime Video",
+                    "SBT",
+                    "Sportv",
+                    "Sportv 4K",
+                    "TV Globo",
                     "YouTube - CazéTV"
                 ]
             },
@@ -4937,6 +4981,12 @@
         "venue": "Levi's Stadium",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Angola",
                 "channels": [
                     "DStv Now",
@@ -4950,7 +5000,8 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "Prime Video"
+                    "Prime Video",
+                    "ZDF"
                 ]
             },
             {
@@ -5162,6 +5213,12 @@
                 ]
             },
             {
+                "country": "France",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Gabon",
                 "channels": [
                     "DStv Now",
@@ -5181,6 +5238,15 @@
                     "SuperSport GOtv LaLiga",
                     "SuperSport LaLiga",
                     "SuperSport Maximo"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Joyn",
+                    "Magenta TV",
+                    "ZDF",
+                    "ZDF Livestream"
                 ]
             },
             {
@@ -5224,6 +5290,12 @@
                 "country": "Iran, Islamic Republic of",
                 "channels": [
                     "IRIB TV3"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "ITV"
                 ]
             },
             {
@@ -5330,6 +5402,12 @@
                 ]
             },
             {
+                "country": "Monaco",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Mozambique",
                 "channels": [
                     "DStv Now",
@@ -5351,6 +5429,12 @@
                     "SuperSport GOtv LaLiga",
                     "SuperSport LaLiga",
                     "SuperSport Maximo"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "ZDF"
                 ]
             },
             {
@@ -5484,7 +5568,8 @@
             {
                 "country": "Spain",
                 "channels": [
-                    "Prime Video"
+                    "Prime Video",
+                    "ZDF"
                 ]
             },
             {
@@ -5496,6 +5581,12 @@
                     "SuperSport GOtv LaLiga",
                     "SuperSport LaLiga",
                     "SuperSport Maximo"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "ZDF"
                 ]
             },
             {
@@ -5533,6 +5624,12 @@
                     "SuperSport GOtv LaLiga",
                     "SuperSport LaLiga",
                     "SuperSport Maximo"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "ITV"
                 ]
             },
             {
@@ -5702,7 +5799,14 @@
         "league_id": 18641,
         "league": "MLS Next Pro",
         "venue": "PayPal Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15421037,
@@ -5711,7 +5815,14 @@
         "league_id": 18641,
         "league": "MLS Next Pro",
         "venue": "Mapfre Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15421041,
@@ -5720,7 +5831,14 @@
         "league_id": 18641,
         "league": "MLS Next Pro",
         "venue": "Belson Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15421040,
@@ -5729,7 +5847,14 @@
         "league_id": 18641,
         "league": "MLS Next Pro",
         "venue": "MSU Soccer Park at Pittser Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15421038,
@@ -5738,7 +5863,14 @@
         "league_id": 18641,
         "league": "MLS Next Pro",
         "venue": "Osceola County Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15421042,
@@ -5747,7 +5879,14 @@
         "league_id": 18641,
         "league": "MLS Next Pro",
         "venue": "St. David's Performance Center",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15421047,
@@ -5756,7 +5895,14 @@
         "league_id": 18641,
         "league": "MLS Next Pro",
         "venue": "Starfire Sports Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15943803,
