@@ -184,6 +184,24 @@
         "venue": "NRG Stadium",
         "tv_channels": [
             {
+                "country": "Austria",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Bulgaria",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
                 "country": "Burundi",
                 "channels": [
                     "Sporty TV App"
@@ -193,6 +211,18 @@
                 "country": "Congo",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Denmark",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Das Erste"
                 ]
             },
             {
@@ -208,6 +238,18 @@
                 ]
             },
             {
+                "country": "Hungary",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
                 "country": "Iran, Islamic Republic of",
                 "channels": [
                     "IRIB Varzesh"
@@ -220,9 +262,21 @@
                 ]
             },
             {
+                "country": "Luxembourg",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
                 "country": "Mozambique",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "Das Erste"
                 ]
             },
             {
@@ -244,9 +298,27 @@
                 ]
             },
             {
+                "country": "Slovenia",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
                 "country": "South Africa",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Das Erste"
                 ]
             },
             {
@@ -272,9 +344,22 @@
         "venue": "Estadio Akron",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "RTVE.es",
+                    "TVE La 1"
+                ]
+            },
+            {
                 "country": "Burundi",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Chilevision"
                 ]
             },
             {
@@ -335,6 +420,13 @@
                 "country": "South Africa",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "RTVE.es",
+                    "TVE La 1"
                 ]
             },
             {
@@ -348,6 +440,12 @@
                 "channels": [
                     "Sporty TV App"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Canal 5"
+                ]
             }
         ]
     },
@@ -360,6 +458,18 @@
         "venue": "Gillette Stadium",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "M6"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
                 "country": "Burundi",
                 "channels": [
                     "Sporty TV App"
@@ -369,6 +479,25 @@
                 "country": "Congo",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "Yle Areena"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "M6"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Magenta TV",
+                    "ZDF"
                 ]
             },
             {
@@ -390,15 +519,39 @@
                 ]
             },
             {
+                "country": "Italy",
+                "channels": [
+                    "Rai 1"
+                ]
+            },
+            {
                 "country": "Kenya",
                 "channels": [
                     "Sporty TV App"
                 ]
             },
             {
+                "country": "Malta",
+                "channels": [
+                    "Rai 1"
+                ]
+            },
+            {
+                "country": "Monaco",
+                "channels": [
+                    "M6"
+                ]
+            },
+            {
                 "country": "Mozambique",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "ZDF"
                 ]
             },
             {
@@ -414,6 +567,12 @@
                 ]
             },
             {
+                "country": "San Marino",
+                "channels": [
+                    "Rai 1"
+                ]
+            },
+            {
                 "country": "Sierra Leone",
                 "channels": [
                     "Sporty TV App"
@@ -423,6 +582,18 @@
                 "country": "South Africa",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "ZDF"
                 ]
             },
             {
@@ -1611,24 +1782,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 16340380,
-        "kickoff": 1782586800,
-        "fixture": "América-RN vs Fluminense-PI",
-        "league_id": 10326,
-        "league": "Brasileirão Série D, Knockout Stage",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 16340356,
-        "kickoff": 1782586800,
-        "fixture": "Capital CF vs AA Aparecidense",
-        "league_id": 10326,
-        "league": "Brasileirão Série D, Knockout Stage",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 16340357,
         "kickoff": 1782586800,
         "fixture": "Piauí EC vs Maguary",
@@ -1665,6 +1818,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 16340356,
+        "kickoff": 1782590400,
+        "fixture": "Capital CF vs AA Aparecidense",
+        "league_id": 10326,
+        "league": "Brasileirão Série D, Knockout Stage",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 16340359,
         "kickoff": 1782590400,
         "fixture": "Sergipe vs ASA",
@@ -1686,6 +1848,15 @@
         "match_id": 16340355,
         "kickoff": 1782590400,
         "fixture": "Águia de Marabá FC vs Parnahyba SC",
+        "league_id": 10326,
+        "league": "Brasileirão Série D, Knockout Stage",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16340380,
+        "kickoff": 1782594000,
+        "fixture": "América-RN vs Fluminense-PI",
         "league_id": 10326,
         "league": "Brasileirão Série D, Knockout Stage",
         "venue": "TBA",
