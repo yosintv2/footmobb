@@ -40,6 +40,8 @@
             {
                 "country": "Iran, Islamic Republic of",
                 "channels": [
+                    "Anten",
+                    "Aparat Sport",
                     "IRIB TV3"
                 ]
             },
@@ -403,6 +405,12 @@
                 ]
             },
             {
+                "country": "Argentina",
+                "channels": [
+                    "DIRECTV Sports"
+                ]
+            },
+            {
                 "country": "Burundi",
                 "channels": [
                     "Sporty TV App"
@@ -509,6 +517,7 @@
             {
                 "country": "Uruguay",
                 "channels": [
+                    "Antel TV",
                     "Canal 5"
                 ]
             },
@@ -603,7 +612,8 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "Rai 1"
+                    "Rai 1",
+                    "RaiPlay"
                 ]
             },
             {
@@ -652,7 +662,8 @@
             {
                 "country": "San Marino",
                 "channels": [
-                    "Rai 1"
+                    "Rai 1",
+                    "RaiPlay"
                 ]
             },
             {
@@ -802,6 +813,19 @@
         "venue": "Arrowhead Stadium",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "ORF 1",
+                    "ZDF"
+                ]
+            },
+            {
                 "country": "Burundi",
                 "channels": [
                     "Sporty TV App"
@@ -811,6 +835,20 @@
                 "country": "Congo",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Fußball.TV1",
+                    "Magenta TV",
+                    "ZDF"
                 ]
             },
             {
@@ -832,15 +870,34 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "BBC Two"
+                ]
+            },
+            {
                 "country": "Kenya",
                 "channels": [
                     "Sporty TV App"
                 ]
             },
             {
+                "country": "Monaco",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Mozambique",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "BBC Two",
+                    "ZDF"
                 ]
             },
             {
@@ -868,6 +925,19 @@
                 ]
             },
             {
+                "country": "Spain",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "ORF 1",
+                    "ZDF"
+                ]
+            },
+            {
                 "country": "Tanzania, United Republic of",
                 "channels": [
                     "Sporty TV App"
@@ -877,6 +947,12 @@
                 "country": "Uganda",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC Two"
                 ]
             }
         ]
@@ -889,6 +965,12 @@
         "league": "FIFA World Cup, Group J",
         "venue": "AT&T Stadium",
         "tv_channels": [
+            {
+                "country": "Andorra",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
             {
                 "country": "Argentina",
                 "channels": [
@@ -904,9 +986,28 @@
                 ]
             },
             {
+                "country": "Chile",
+                "channels": [
+                    "Paramount+"
+                ]
+            },
+            {
                 "country": "Congo",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Magenta TV",
+                    "ZDF Livestream"
                 ]
             },
             {
@@ -928,15 +1029,33 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
                 "country": "Kenya",
                 "channels": [
                     "Sporty TV App"
                 ]
             },
             {
+                "country": "Monaco",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Mozambique",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "BBC One"
                 ]
             },
             {
@@ -964,6 +1083,12 @@
                 ]
             },
             {
+                "country": "Switzerland",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
                 "country": "Tanzania, United Republic of",
                 "channels": [
                     "Sporty TV App"
@@ -973,6 +1098,12 @@
                 "country": "Uganda",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC One"
                 ]
             }
         ]
@@ -2311,15 +2442,6 @@
         "match_id": 15635622,
         "kickoff": 1782572400,
         "fixture": "Caspiy Aktau vs Atyrau",
-        "league_id": 682,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15635626,
-        "kickoff": 1782640800,
-        "fixture": "Irtysh Pavlodar vs FC Kaysar",
         "league_id": 682,
         "league": "Premier League",
         "venue": "TBA",

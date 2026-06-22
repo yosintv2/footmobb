@@ -766,7 +766,14 @@
         "league_id": 258,
         "league": "U19 European Championship, Group A",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "DAZN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 16029659,
@@ -860,7 +867,7 @@
     },
     {
         "match_id": 15635626,
-        "kickoff": 1782640800,
+        "kickoff": 1782648000,
         "fixture": "Irtysh Pavlodar vs FC Kaysar",
         "league_id": 682,
         "league": "Premier League",
