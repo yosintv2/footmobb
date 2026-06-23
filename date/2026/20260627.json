@@ -166,6 +166,12 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
                 "country": "Kenya",
                 "channels": [
                     "Sporty TV App"
@@ -175,6 +181,12 @@
                 "country": "Mozambique",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "BBC One"
                 ]
             },
             {
@@ -214,6 +226,12 @@
                 ]
             },
             {
+                "country": "Switzerland",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
                 "country": "Tanzania, United Republic of",
                 "channels": [
                     "Sporty TV App"
@@ -223,6 +241,12 @@
                 "country": "Uganda",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC One"
                 ]
             }
         ]
@@ -642,7 +666,8 @@
             {
                 "country": "Croatia",
                 "channels": [
-                    "HRT 2"
+                    "HRT 2",
+                    "HRTi"
                 ]
             },
             {
@@ -660,7 +685,8 @@
             {
                 "country": "Ecuador",
                 "channels": [
-                    "DGO"
+                    "DGO",
+                    "DIRECTV Sports"
                 ]
             },
             {
@@ -718,6 +744,12 @@
                 ]
             },
             {
+                "country": "India",
+                "channels": [
+                    "ZEE5"
+                ]
+            },
+            {
                 "country": "Indonesia",
                 "channels": [
                     "MAXstream TV",
@@ -754,6 +786,12 @@
                 "country": "Kenya",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Kyrgyzstan",
+                "channels": [
+                    "KTRK Sport"
                 ]
             },
             {
@@ -899,6 +937,7 @@
             {
                 "country": "Spain",
                 "channels": [
+                    "DAZN",
                     "ZDF"
                 ]
             },
@@ -958,6 +997,7 @@
                 "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "DGO",
+                    "DIRECTV Sports Venezuela",
                     "TELEVEN"
                 ]
             },
@@ -1358,6 +1398,12 @@
                 "country": "Congo",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "CDN Deportes"
                 ]
             },
             {
@@ -1841,7 +1887,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC Two"
+                    "BBC Two",
+                    "BBC iPlayer"
                 ]
             },
             {
@@ -1901,7 +1948,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC Two"
+                    "BBC Two",
+                    "BBC iPlayer"
                 ]
             }
         ]
@@ -2516,6 +2564,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15617681,
+        "kickoff": 1782586800,
+        "fixture": "Floresta vs Barra FC",
+        "league_id": 1281,
+        "league": "Brasileirão Série C",
+        "venue": "Estádio Domingão",
+        "tv_channels": []
+    },
+    {
         "match_id": 15617672,
         "kickoff": 1782590400,
         "fixture": "Paysandu SC vs Santa Cruz",
@@ -2531,15 +2588,6 @@
         "league_id": 1281,
         "league": "Brasileirão Série C",
         "venue": "Estádio Etelvino Mendonça",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15617681,
-        "kickoff": 1782597600,
-        "fixture": "Floresta vs Barra FC",
-        "league_id": 1281,
-        "league": "Brasileirão Série C",
-        "venue": "Estádio Domingão",
         "tv_channels": []
     },
     {
