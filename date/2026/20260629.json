@@ -2,7 +2,7 @@
     {
         "match_id": 12813000,
         "kickoff": 1782673200,
-        "fixture": "2A vs 2B",
+        "fixture": "2A vs Canada",
         "league_id": 16,
         "league": "FIFA World Cup, Knockout",
         "venue": "SoFi Stadium",
@@ -17,6 +17,12 @@
                 "country": "Congo",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Magenta TV"
                 ]
             },
             {
@@ -84,7 +90,7 @@
     {
         "match_id": 12813012,
         "kickoff": 1782752400,
-        "fixture": "1C vs 2F",
+        "fixture": "Brazil vs 2F",
         "league_id": 16,
         "league": "FIFA World Cup, Knockout",
         "venue": "NRG Stadium",
@@ -248,7 +254,7 @@
     {
         "match_id": 12812998,
         "kickoff": 1782781200,
-        "fixture": "1F vs 2C",
+        "fixture": "1F vs Morocco",
         "league_id": 16,
         "league": "FIFA World Cup, Knockout",
         "venue": "Estadio BBVA",
@@ -834,6 +840,13 @@
                 ]
             },
             {
+                "country": "Germany",
+                "channels": [
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "BBC iPlayer",
@@ -866,6 +879,7 @@
                 "country": "Germany",
                 "channels": [
                     "DAZN",
+                    "RTL+",
                     "Sportdigital FUSSBALL",
                     "Sportdigital+"
                 ]
@@ -888,7 +902,15 @@
         "league_id": 258,
         "league": "U19 European Championship, Group B",
         "venue": "Nantporth Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 16078326,
