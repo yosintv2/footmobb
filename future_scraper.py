@@ -5,22 +5,14 @@ import pycountry
 from datetime import datetime, timedelta
 from curl_cffi.requests import AsyncSession
 
-SOURCE_NAME = "YoSinTV_Ultra_Engine"
+FM_BASE = "https://www.fotmob.com/api/data"
 
-channel_cache = {}
+ALL_COUNTRY_CODES = [c.alpha_2 for c in pycountry.countries]
+TV_BATCH_SIZE = 100
+MATCH_CONCURRENCY = 3
 
 
 def cleanup_old_files():
-    """
-    Keep:
-    Yesterday (-1)
-    Today (0)
-    Next 30 days (+1 to +30)
-
-    Files are stored year-wise:
-    date/2026/20260615.json
-    """
-
     if not os.path.exists("date"):
         os.makedirs("date")
         return
@@ -39,7 +31,6 @@ def cleanup_old_files():
 
     for root, dirs, files in os.walk("date"):
         for file in files:
-
             if not file.endswith(".json"):
                 continue
 
@@ -56,227 +47,173 @@ def cleanup_old_files():
                     print(f"Failed deleting {rel_path}: {e}")
 
 
-async def get_channel_name(session, channel_id):
-
-    if channel_id in channel_cache:
-        return channel_cache[channel_id]
-
-    url = f"https://api.sofascore1.com/api/v1/tv/channel/{channel_id}/schedule"
-
+async def fetch_json(session, url, timeout=15):
     try:
-        res = await session.get(
-            url,
-            impersonate="chrome120",
-            timeout=5
-        )
-
-        if res.status_code == 200:
-            name = (
-                res.json()
-                .get("channel", {})
-                .get("name", "Unknown Channel")
-            )
-
-            channel_cache[channel_id] = name
-            return name
-
+        r = await session.get(url, impersonate="chrome120", timeout=timeout)
+        if r.status_code == 200:
+            return r.json()
     except Exception:
         pass
+    return None
 
-    return "Unknown Channel"
 
-
-async def get_tv_data(session, match_id):
-
-    tv_url = (
-        f"https://api.sofascore1.com/api/v1/tv/event/"
-        f"{match_id}/country-channels"
+async def get_fotmob_schedule(session, date_str):
+    url = (
+        f"{FM_BASE}/matches"
+        f"?date={date_str}"
+        f"&timezone=Asia%2FTokyo"
+        f"&ccode3=JPN"
+        f"&includeNextDayLateNight=true"
     )
 
-    broadcasters = []
-
-    try:
-        res = await session.get(
-            tv_url,
-            impersonate="chrome120",
-            timeout=10
-        )
-
-        if res.status_code != 200:
-            return []
-
-        country_channels = res.json().get("countryChannels", {})
-
-        for country_code, channel_ids in country_channels.items():
-
-            try:
-                country = pycountry.countries.get(
-                    alpha_2=country_code
-                ).name
-            except Exception:
-                country = country_code
-
-            tasks = [
-                get_channel_name(session, cid)
-                for cid in channel_ids
-            ]
-
-            names = await asyncio.gather(*tasks)
-
-            clean_names = sorted(
-                list(
-                    set(
-                        n for n in names
-                        if n != "Unknown Channel"
-                    )
-                )
-            )
-
-            broadcasters.append({
-                "country": country,
-                "channels": clean_names if clean_names else ["TBA"]
-            })
-
-        return sorted(
-            broadcasters,
-            key=lambda x: x["country"]
-        )
-
-    except Exception:
+    data = await fetch_json(session, url)
+    if not data:
         return []
 
+    matches = []
+    for league in data.get("leagues", []):
+        league_name = league.get("name", "Unknown")
+        league_id = league.get("id", 0)
 
-async def fetch_match_details(session, match_id):
+        for m in league.get("matches", []):
+            utc_str = m.get("status", {}).get("utcTime") or ""
+            time_ts = m.get("timeTS")
 
-    event_url = (
-        f"https://api.sofascore1.com/api/v1/event/{match_id}"
-    )
+            timestamp = None
+            if utc_str:
+                try:
+                    dt = datetime.fromisoformat(utc_str.replace("Z", "+00:00"))
+                    timestamp = int(dt.timestamp())
+                except Exception:
+                    pass
+
+            if timestamp is None and time_ts:
+                timestamp = int(time_ts / 1000)
+
+            matches.append({
+                "match_id": m["id"],
+                "kickoff": timestamp,
+                "home_name": m["home"]["name"],
+                "home_id": m["home"]["id"],
+                "away_name": m["away"]["name"],
+                "away_id": m["away"]["id"],
+                "league": league_name,
+                "league_id": league_id,
+            })
+
+    return matches
+
+
+async def get_fotmob_venue(session, match_id):
+    url = f"{FM_BASE}/matchDetails?matchId={match_id}"
+    data = await fetch_json(session, url)
+    if not data:
+        return "TBA"
+
+    ib = (data.get("content") or {}).get("matchFacts", {}).get("infoBox", {})
+    stadium = ib.get("Stadium", {}) if ib else {}
+    return stadium.get("name", "TBA") if stadium else "TBA"
+
+
+async def fetch_tv_for_country(session, match_id, country_code):
+    url = f"{FM_BASE}/tvlisting?matchId={match_id}&countryCode={country_code}"
+    data = await fetch_json(session, url, timeout=5)
+    if not data:
+        return None
+
+    raw = data.get("name", "")
+    if not raw:
+        return None
 
     try:
-        res = await session.get(
-            event_url,
-            impersonate="chrome120",
-            timeout=10
-        )
-
-        if res.status_code != 200:
-            return None
-
-        ev = res.json().get("event", {})
-
-        home = ev.get("homeTeam", {}).get("name", "TBA")
-        away = ev.get("awayTeam", {}).get("name", "TBA")
-
-        tv_info = await get_tv_data(session, match_id)
-
-        return {
-            "match_id": ev.get("id"),
-            "kickoff": ev.get("startTimestamp"),
-            "fixture": f"{home} vs {away}",
-            "league_id": (
-                ev.get("tournament", {})
-                .get("uniqueTournament", {})
-                .get("id", 0)
-            ),
-            "league": (
-                ev.get("tournament", {})
-                .get("name", "Unknown")
-            ),
-            "venue": (
-                ev.get("venue", {})
-                .get("name", "TBA")
-            ),
-            "tv_channels": tv_info
-        }
-
+        country_name = pycountry.countries.get(alpha_2=country_code).name
     except Exception:
-        return None
+        country_name = country_code
+
+    channels = [c.strip() for c in raw.split(" / ") if c.strip()]
+    return {"country": country_name, "channels": sorted(set(channels))}
+
+
+async def get_tv_channels(session, match_id):
+    results = []
+
+    for i in range(0, len(ALL_COUNTRY_CODES), TV_BATCH_SIZE):
+        batch = ALL_COUNTRY_CODES[i:i + TV_BATCH_SIZE]
+        tasks = [fetch_tv_for_country(session, match_id, cc) for cc in batch]
+        batch_results = await asyncio.gather(*tasks)
+
+        for r in batch_results:
+            if r:
+                results.append(r)
+
+    return sorted(results, key=lambda x: x["country"])
+
+
+async def process_one_match(session, m, index, total):
+    match_id = m["match_id"]
+    print(f"  [{index}/{total}] Match {match_id}: {m['home_name']} vs {m['away_name']}")
+
+    venue_task = get_fotmob_venue(session, match_id)
+    tv_task = get_tv_channels(session, match_id)
+
+    venue, tv_channels = await asyncio.gather(venue_task, tv_task)
+
+    return {
+        "match_id": match_id,
+        "kickoff": m["kickoff"],
+        "fixture": f"{m['home_name']} vs {m['away_name']}",
+        "league_id": m["league_id"],
+        "league": m["league"],
+        "venue": venue,
+        "tv_channels": tv_channels,
+    }
 
 
 async def process_day(session, days_offset):
-
     target_date = datetime.now() + timedelta(days=days_offset)
-
     date_query = target_date.strftime("%Y-%m-%d")
-    file_name = target_date.strftime("%Y%m%d") + ".json"
-
-    schedule_url = (
-        f"https://api.sofascore1.com/api/v1/sport/"
-        f"football/scheduled-events/{date_query}"
-    )
+    date_compact = target_date.strftime("%Y%m%d")
+    file_name = date_compact + ".json"
 
     print(f"Processing {date_query}")
 
-    try:
-        resp = await session.get(
-            schedule_url,
-            impersonate="chrome120",
-            timeout=30
-        )
+    matches = await get_fotmob_schedule(session, date_compact)
+    if not matches:
+        print(f"No matches found: {date_query}")
+        return
 
-        if resp.status_code != 200:
-            print(f"Failed schedule fetch: {date_query}")
-            return
+    total = len(matches)
+    print(f"Found {total} matches via Fotmob")
 
-        events = resp.json().get("events", [])
+    final_data = []
 
-        if not events:
-            print(f"No events found: {date_query}")
-
+    for i in range(0, total, MATCH_CONCURRENCY):
+        batch = matches[i:i + MATCH_CONCURRENCY]
         tasks = [
-            fetch_match_details(session, event["id"])
-            for event in events
+            process_one_match(session, m, i + idx + 1, total)
+            for idx, m in enumerate(batch)
         ]
-
         results = await asyncio.gather(*tasks)
+        final_data.extend(results)
+        await asyncio.sleep(1)
 
-        final_data = [
-            r for r in results
-            if r is not None
-        ]
+    year_folder = target_date.strftime("%Y")
+    save_dir = os.path.join("date", year_folder)
+    os.makedirs(save_dir, exist_ok=True)
 
-        year_folder = target_date.strftime("%Y")
+    save_path = os.path.join(save_dir, file_name)
+    with open(save_path, "w", encoding="utf-8") as f:
+        json.dump(final_data, f, indent=4, ensure_ascii=False)
 
-        save_dir = os.path.join(
-            "date",
-            year_folder
-        )
-
-        os.makedirs(save_dir, exist_ok=True)
-
-        save_path = os.path.join(
-            save_dir,
-            file_name
-        )
-
-        with open(save_path, "w", encoding="utf-8") as f:
-            json.dump(
-                final_data,
-                f,
-                indent=4,
-                ensure_ascii=False
-            )
-
-        print(
-            f"Saved {year_folder}/{file_name} "
-            f"({len(final_data)} matches)"
-        )
-
-    except Exception as e:
-        print(f"Error processing {date_query}: {e}")
+    print(f"Saved {year_folder}/{file_name} ({len(final_data)} matches)")
 
 
 async def main():
-
     cleanup_old_files()
 
     async with AsyncSession() as session:
-
-        # Yesterday + Today + Next 30 Days
         for offset in range(-1, 31):
-
             await process_day(session, offset)
-
             await asyncio.sleep(2)
 
 

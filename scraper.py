@@ -1,66 +1,84 @@
 import os
 import json
 from datetime import datetime, timedelta
-from curl_cffi import requests
+from curl_cffi.requests import Session
 
-def get_tomorrow_date():
-    # Gets the date for 1 day from now
-    tomorrow = datetime.now() + timedelta(days=1)
-    return tomorrow.strftime("%Y-%m-%d")
+FM_BASE = "https://www.fotmob.com/api/data"
 
-def fetch_sofascore(url):
+
+def fetch_json(url):
     try:
-        # impersonate="chrome120" makes the TLS fingerprint look like a real browser
-        r = requests.get(url, impersonate="chrome120", timeout=30)
+        r = Session().get(url, impersonate="chrome120", timeout=30)
         if r.status_code == 200:
             return r.json()
         print(f"[-] Failed with status {r.status_code} at {url}")
-        return None
     except Exception as e:
         print(f"[-] Request error: {e}")
-        return None
+    return None
+
 
 def run():
-    date_str = get_tomorrow_date()
-    file_name = f"{date_str.replace('-', '')}.json"
+    tomorrow = datetime.now() + timedelta(days=1)
+    date_query = tomorrow.strftime("%Y%m%d")
+    file_name = f"{date_query}.json"
     folder = "date"
-    
+
     if not os.path.exists(folder):
         os.makedirs(folder)
 
-    print(f"🚀 Scraping fixtures for: {date_str} (Stealth Mode)")
-    
-    # Try the main API endpoint
-    api_url = f"https://api.sofascore.com/api/v1/sport/football/scheduled-events/{date_str}"
-    data = fetch_sofascore(api_url)
+    print(f"Scraping fixtures for: {tomorrow.strftime('%Y-%m-%d')} (Fotmob)")
 
-    # Fallback to inverse
-    if not data or not data.get("events"):
-        print("[-] Primary feed blocked/empty, trying inverse...")
-        api_url = f"https://api.sofascore.com/api/v1/sport/football/scheduled-events/{date_str}/inverse"
-        data = fetch_sofascore(api_url)
+    url = (
+        f"{FM_BASE}/matches"
+        f"?date={date_query}"
+        f"&timezone=Asia%2FTokyo"
+        f"&ccode3=JPN"
+        f"&includeNextDayLateNight=true"
+    )
 
-    if not data or not data.get("events"):
-        print("❌ CRITICAL: IP is still blocked. SofaScore has flagged this GitHub Runner.")
+    data = fetch_json(url)
+    if not data:
+        print("[-] Fotmob API returned no data")
         return
 
-    events = data["events"]
     results = []
 
-    print(f"Found {len(events)} matches. Extracting data...")
-    for ev in events:
-        results.append({
-            "match_id": ev.get("id"),
-            "kickoff": ev.get("startTimestamp"),
-            "fixture": f"{ev['homeTeam']['name']} vs {ev['awayTeam']['name']}",
-            "league": ev['tournament']['name'],
-            "league_id": ev.get('tournament', {}).get('uniqueTournament', {}).get('id', 0)
-        })
+    for league in data.get("leagues", []):
+        league_name = league.get("name", "Unknown")
+        league_id = league.get("id", 0)
+
+        for m in league.get("matches", []):
+            utc_str = m.get("status", {}).get("utcTime") or ""
+            time_ts = m.get("timeTS")
+
+            timestamp = None
+            if utc_str:
+                try:
+                    dt = datetime.fromisoformat(utc_str.replace("Z", "+00:00"))
+                    timestamp = int(dt.timestamp())
+                except Exception:
+                    pass
+
+            if timestamp is None and time_ts:
+                timestamp = int(time_ts / 1000)
+
+            results.append({
+                "match_id": m["id"],
+                "kickoff": timestamp,
+                "fixture": f"{m['home']['name']} vs {m['away']['name']}",
+                "league": league_name,
+                "league_id": league_id,
+            })
+
+    if not results:
+        print("[-] No matches found")
+        return
 
     with open(f"{folder}/{file_name}", "w", encoding="utf-8") as f:
         json.dump(results, f, indent=4)
-    
-    print(f"✅ SUCCESS! File created: {folder}/{file_name}")
+
+    print(f"Saved {folder}/{file_name} ({len(results)} matches)")
+
 
 if __name__ == "__main__":
     run()
