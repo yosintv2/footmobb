@@ -481,7 +481,8 @@
                 "country": "Norway",
                 "channels": [
                     "TV 2 Direkte",
-                    "TV 2 Play (NO)"
+                    "TV 2 Play (NO)",
+                    "VG TV"
                 ]
             },
             {
@@ -2469,8 +2470,6 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "NRK TV",
-                    "NRK1",
                     "TV 2 Direkte",
                     "TV 2 Play (NO)"
                 ]
@@ -3472,17 +3471,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5781578,
-        "kickoff": 1782749100,
-        "fixture": "Al-Qadsia vs Kuwait SC",
-        "league_id": 529,
-        "league": "Premier League Championship Group",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5781577,
-        "kickoff": 1782760500,
+        "kickoff": 1782755100,
         "fixture": "Al-Arabi vs Al Fahaheel",
         "league_id": 529,
         "league": "Premier League Championship Group",
@@ -3490,8 +3480,17 @@
         "tv_channels": []
     },
     {
+        "match_id": 5781578,
+        "kickoff": 1782755100,
+        "fixture": "Al-Qadsia vs Kuwait SC",
+        "league_id": 529,
+        "league": "Premier League Championship Group",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5781579,
-        "kickoff": 1782760500,
+        "kickoff": 1782755100,
         "fixture": "Kazma vs Al-Salmiyah",
         "league_id": 529,
         "league": "Premier League Championship Group",

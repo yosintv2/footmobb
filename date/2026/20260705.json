@@ -764,10 +764,8 @@
             {
                 "country": "United States",
                 "channels": [
-                    "CBS",
                     "ESPN Select",
-                    "ESPN Unlimited",
-                    "Paramount+ (US)"
+                    "ESPN Unlimited"
                 ]
             }
         ]
@@ -853,7 +851,6 @@
                 "channels": [
                     "ESPN Select",
                     "ESPN Unlimited",
-                    "FOX",
                     "Fubo Sports"
                 ]
             }
@@ -1346,7 +1343,7 @@
     {
         "match_id": 4653846,
         "kickoff": 1783281600,
-        "fixture": "Brazil/Japan vs Ivory Coast/Norway",
+        "fixture": "Brazil vs Ivory Coast/Norway",
         "league_id": 77,
         "league": "World Cup",
         "venue": "New York New Jersey Stadium",
@@ -6765,14 +6762,7 @@
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio Jocay",
-        "tv_channels": [
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "Zapping Sports + Plus"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 1000009002,
@@ -7543,6 +7533,15 @@
         "league_id": 9091,
         "league": "Cup Grp. H",
         "venue": "Estadio Bicentenario de Chinquihue",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5860500,
+        "kickoff": 1783270800,
+        "fixture": "Danubio vs Juventud de las Piedras",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Intermedio Grp. B",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
