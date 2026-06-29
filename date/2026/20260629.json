@@ -112,16 +112,6 @@
                 ]
             },
             {
-                "country": "Canada",
-                "channels": [
-                    "CTV",
-                    "RDS",
-                    "TSN1",
-                    "TSN3",
-                    "TSN4"
-                ]
-            },
-            {
                 "country": "Chile",
                 "channels": [
                     "Amazon Prime Video",
@@ -199,20 +189,6 @@
                 ]
             },
             {
-                "country": "Finland",
-                "channels": [
-                    "Yle Areena",
-                    "Yle TV2"
-                ]
-            },
-            {
-                "country": "France",
-                "channels": [
-                    "M6",
-                    "beIN Sports 1 (FR)"
-                ]
-            },
-            {
                 "country": "Georgia",
                 "channels": [
                     "Rustavi 2",
@@ -223,10 +199,7 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "ARD-Mediathek",
-                    "Das Erste",
-                    "MagentaTV",
-                    "Sportschau.de"
+                    "MagentaTV"
                 ]
             },
             {
@@ -287,13 +260,6 @@
                 ]
             },
             {
-                "country": "India",
-                "channels": [
-                    "Unite8 Sports 1",
-                    "Unite8 Sports 2"
-                ]
-            },
-            {
                 "country": "Indonesia",
                 "channels": [
                     "Fola Play",
@@ -316,13 +282,6 @@
                     "KAN 11",
                     "KAN 11 HD",
                     "Sport 1"
-                ]
-            },
-            {
-                "country": "Italy",
-                "channels": [
-                    "DAZN Italia",
-                    "Rai 1"
                 ]
             },
             {
@@ -393,7 +352,8 @@
                     "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
-                    "TVCG 1"
+                    "TVCG 1",
+                    "TVCG 2"
                 ]
             },
             {
@@ -424,12 +384,6 @@
                 "country": "Myanmar",
                 "channels": [
                     "TV360 by Mytel"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "channels": [
-                    "NPO 1"
                 ]
             },
             {
@@ -465,13 +419,6 @@
                 ]
             },
             {
-                "country": "Norway",
-                "channels": [
-                    "NRK TV",
-                    "NRK1"
-                ]
-            },
-            {
                 "country": "Pakistan",
                 "channels": [
                     "PTV Sports",
@@ -481,6 +428,7 @@
             {
                 "country": "Panama",
                 "channels": [
+                    "FOX",
                     "Tigo Sports",
                     "Tigo Sports App"
                 ]
@@ -588,13 +536,6 @@
                 ]
             },
             {
-                "country": "Sweden",
-                "channels": [
-                    "TV4",
-                    "TV4 Play Sport"
-                ]
-            },
-            {
                 "country": "Switzerland",
                 "channels": [
                     "Das Erste",
@@ -655,14 +596,7 @@
             {
                 "country": "United States",
                 "channels": [
-                    "FOX",
-                    "FOX 4K",
-                    "FOX One",
                     "FOX Sports",
-                    "FOX Sports 4K",
-                    "Fubo Sports",
-                    "Peacock ES",
-                    "Telemundo",
                     "Telemundo 4K"
                 ]
             },
@@ -1176,6 +1110,7 @@
             {
                 "country": "Panama",
                 "channels": [
+                    "FOX",
                     "Tigo Sports",
                     "Tigo Sports App"
                 ]
@@ -1356,10 +1291,13 @@
                 "country": "Uruguay",
                 "channels": [
                     "AUF.TV",
+                    "Antel TV",
+                    "Canal 5",
                     "DAZN",
                     "DGO",
                     "DIRECTV 4K",
                     "DSports",
+                    "Disney+ Premium",
                     "Paramount+"
                 ]
             },
@@ -1420,7 +1358,8 @@
                 "country": "Armenia",
                 "channels": [
                     "FAST TV",
-                    "Fast Sports"
+                    "Fast Sports",
+                    "FastTV"
                 ]
             },
             {
@@ -1725,6 +1664,7 @@
                 "country": "Lao People's Democratic Republic",
                 "channels": [
                     "Go3",
+                    "Go3 Extra Sports Latvia",
                     "TV6 Latvia"
                 ]
             },
@@ -3829,15 +3769,7 @@
         "league_id": 168,
         "league": "Superettan",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Sweden",
-                "channels": [
-                    "TV4 Play Sport",
-                    "TV4 Play Sport Fotboll"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5344655,
@@ -3857,24 +3789,11 @@
                 ]
             },
             {
-                "country": "Germany",
-                "channels": [
-                    "Sportdigital FUSSBALL",
-                    "Sportdigital+"
-                ]
-            },
-            {
                 "country": "Ireland",
                 "channels": [
                     "BBC iPlayer",
                     "S4C Online",
                     "UEFA TV"
-                ]
-            },
-            {
-                "country": "Norway",
-                "channels": [
-                    "VG TV"
                 ]
             },
             {
@@ -3921,24 +3840,9 @@
                 ]
             },
             {
-                "country": "Germany",
-                "channels": [
-                    "DAZN Deutschland",
-                    "RTL+",
-                    "Sportdigital FUSSBALL",
-                    "Sportdigital+"
-                ]
-            },
-            {
                 "country": "Ireland",
                 "channels": [
                     "UEFA TV"
-                ]
-            },
-            {
-                "country": "Norway",
-                "channels": [
-                    "VG TV"
                 ]
             },
             {
@@ -5464,172 +5368,6 @@
         ]
     },
     {
-        "match_id": 1000007620,
-        "kickoff": 1782687600,
-        "fixture": "Orlando City B vs Columbus Crew 2",
-        "league_id": 10282,
-        "league": "MLS Next Pro",
-        "venue": "Osceola Heritage Park",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Australia",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Bolivia, Plurinational State of",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Brazil",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Chile",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Panama",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Peru",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Venezuela, Bolivarian Republic of",
-                "channels": [
-                    "OneFootball"
-                ]
-            }
-        ]
-    },
-    {
         "match_id": 1000007621,
         "kickoff": 1782687600,
         "fixture": "St. Louis City 2 vs Austin FC II",
@@ -5802,6 +5540,172 @@
         "league_id": 10282,
         "league": "MLS Next Pro",
         "venue": "National Sports Center",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 1000007620,
+        "kickoff": 1782694680,
+        "fixture": "Orlando City B vs Columbus Crew 2",
+        "league_id": 10282,
+        "league": "MLS Next Pro",
+        "venue": "Osceola Heritage Park",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -6145,19 +6049,11 @@
         "venue": "ATCO Field",
         "tv_channels": [
             {
-                "country": "Canada",
-                "channels": [
-                    "OneSoccer",
-                    "TVA Sports"
-                ]
-            },
-            {
                 "country": "United States",
                 "channels": [
                     "FOX One",
                     "FOX Sports",
-                    "FOX Sports 2",
-                    "Fubo Sports"
+                    "FOX Sports 2"
                 ]
             }
         ]

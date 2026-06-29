@@ -35,6 +35,13 @@
         "venue": "Dallas Stadium",
         "tv_channels": [
             {
+                "country": "Finland",
+                "channels": [
+                    "MTV Urheilu 1",
+                    "MTV3"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "MagentaTV"
@@ -54,11 +61,27 @@
                 ]
             },
             {
+                "country": "Norway",
+                "channels": [
+                    "NRK TV",
+                    "NRK1"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
+                    "FOX",
+                    "FOX 4K",
                     "FOX One",
                     "FOX Sports",
                     "FOX Sports 4K",
+                    "Fubo Sports",
                     "Peacock ES",
                     "Telemundo"
                 ]
@@ -152,10 +175,22 @@
         "venue": "BC Place Vancouver",
         "tv_channels": [
             {
+                "country": "Germany",
+                "channels": [
+                    "MagentaTV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "RTÉ Player",
                     "RTÉ2"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -177,7 +212,21 @@
         "league_id": 67,
         "league": "Allsvenskan",
         "venue": "Grimsta IP",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Play Sport Fotboll",
+                    "TV4 Sportkanalen"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5107518,
@@ -186,7 +235,21 @@
         "league_id": 67,
         "league": "Allsvenskan",
         "venue": "Nordic Wellness Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Fotboll",
+                    "TV4 Play Sport Fotboll"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5225677,
