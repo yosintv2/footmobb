@@ -90,6 +90,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5863648,
+        "kickoff": 1783764000,
+        "fixture": "CSKA vs Orenburg",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5737305,
         "kickoff": 1783764000,
         "fixture": "Viborg vs Notts County",
@@ -140,7 +149,7 @@
         "fixture": "Cove Rangers vs St. Johnstone",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Balmoral Stadium",
         "tv_channels": []
     },
     {
@@ -158,7 +167,7 @@
         "fixture": "Panathinaikos vs Grasshopper",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Stadio Apóstolos Nikolaidis",
         "tv_channels": []
     },
     {
@@ -537,7 +546,21 @@
         "league_id": 77,
         "league": "World Cup",
         "venue": "Los Angeles Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "RTÉ Player",
+                    "RTÉ2"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 4653852,
@@ -1065,6 +1088,15 @@
         "match_id": 1000016603,
         "kickoff": 1783728000,
         "fixture": "XV de Piracicaba vs Cianorte",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016620,
+        "kickoff": 1783728000,
+        "fixture": "ASA vs Ivinhema",
         "league_id": 9464,
         "league": "Serie D",
         "venue": "TBA",

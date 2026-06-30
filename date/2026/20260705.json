@@ -187,7 +187,14 @@
         "league_id": 10307,
         "league": "FAI Women's Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5820944,
@@ -196,7 +203,14 @@
         "league_id": 10307,
         "league": "FAI Women's Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5820945,
@@ -205,7 +219,14 @@
         "league_id": 10307,
         "league": "FAI Women's Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5820946,
@@ -214,7 +235,14 @@
         "league_id": 10307,
         "league": "FAI Women's Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5820947,
@@ -223,7 +251,14 @@
         "league_id": 10307,
         "league": "FAI Women's Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5820948,
@@ -464,7 +499,8 @@
                 "channels": [
                     "HBO MAX",
                     "NWSL+",
-                    "TNT Sports 2"
+                    "TNT Sports 2",
+                    "TNT Sports 3"
                 ]
             },
             {
@@ -876,7 +912,7 @@
     {
         "match_id": 4653843,
         "kickoff": 1783184400,
-        "fixture": "Canada vs Netherlands/Morocco",
+        "fixture": "Canada vs Morocco",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Houston Stadium",
@@ -899,11 +935,35 @@
                 ]
             },
             {
+                "country": "Argentina",
+                "channels": [
+                    "Amazon Prime Video",
+                    "Claro 4K",
+                    "DGO",
+                    "DIRECTV 4K",
+                    "DSports",
+                    "Paramount+",
+                    "TeleCentro 4K"
+                ]
+            },
+            {
                 "country": "Armenia",
                 "channels": [
                     "FAST TV",
                     "Fast Sports",
                     "FastTV"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "SBS Viceland"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "Servus TV"
                 ]
             },
             {
@@ -931,6 +991,22 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Entel Gol",
+                    "Tigo Sports",
+                    "Tigo Sports App"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "CazeTV",
+                    "CazéTV YouTube",
+                    "Disney+ Premium"
+                ]
+            },
+            {
                 "country": "Bulgaria",
                 "channels": [
                     "BNT 1"
@@ -939,7 +1015,22 @@
             {
                 "country": "Canada",
                 "channels": [
-                    "RDS"
+                    "CTV",
+                    "RDS",
+                    "TSN1",
+                    "TSN3",
+                    "TSN4"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DGO",
+                    "DIRECTV 4K",
+                    "DSports",
+                    "Paramount+"
                 ]
             },
             {
@@ -947,6 +1038,23 @@
                 "channels": [
                     "CCTV-5",
                     "Migu"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DGO",
+                    "DIRECTV 4K",
+                    "DSports",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "FOX+"
                 ]
             },
             {
@@ -961,6 +1069,22 @@
                 "country": "Cyprus",
                 "channels": [
                     "Sigma TV"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DIRECTV 4K",
+                    "DSports",
+                    "Paramount+"
                 ]
             },
             {
@@ -1013,6 +1137,20 @@
                 ]
             },
             {
+                "country": "Guatemala",
+                "channels": [
+                    "Tigo Sports",
+                    "Tigo Sports App"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "Tigo Sports",
+                    "Tigo Sports App"
+                ]
+            },
+            {
                 "country": "Hong Kong",
                 "channels": [
                     "Now Sports",
@@ -1048,6 +1186,8 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "BBC One",
+                    "ITV",
                     "RTÉ Player",
                     "RTÉ2"
                 ]
@@ -1063,6 +1203,12 @@
                 "country": "Italy",
                 "channels": [
                     "DAZN Italia"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -1110,6 +1256,13 @@
                 ]
             },
             {
+                "country": "Mexico",
+                "channels": [
+                    "Pase Mundial 2026",
+                    "TUDN"
+                ]
+            },
+            {
                 "country": "Mongolia",
                 "channels": [
                     "Arena 1 Premium",
@@ -1151,17 +1304,17 @@
                 ]
             },
             {
+                "country": "Nicaragua",
+                "channels": [
+                    "Tigo Sports",
+                    "Tigo Sports App"
+                ]
+            },
+            {
                 "country": "North Macedonia",
                 "channels": [
                     "Arena 1 Premium",
                     "Arena Cloud"
-                ]
-            },
-            {
-                "country": "Norway",
-                "channels": [
-                    "NRK TV",
-                    "NRK1"
                 ]
             },
             {
@@ -1172,10 +1325,48 @@
                 ]
             },
             {
+                "country": "Panama",
+                "channels": [
+                    "Tigo Sports",
+                    "Tigo Sports App"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Canal Trece",
+                    "GEN",
+                    "Unicanal"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DIRECTV 4K",
+                    "DSports",
+                    "Paramount+"
+                ]
+            },
+            {
                 "country": "Philippines",
                 "channels": [
                     "Aleph Arena",
                     "Pilipinas Live"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "TVP Polonia",
+                    "TVP Sport"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Sport TV 5"
                 ]
             },
             {
@@ -1215,6 +1406,12 @@
                 ]
             },
             {
+                "country": "Slovakia",
+                "channels": [
+                    "Kanál bude upresnený"
+                ]
+            },
+            {
                 "country": "Slovenia",
                 "channels": [
                     "Arena Sport 1 Slovenia",
@@ -1222,9 +1419,27 @@
                 ]
             },
             {
+                "country": "Spain",
+                "channels": [
+                    "BarTV Mundial",
+                    "DAZN",
+                    "DAZN Mundial"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "channels": [
-                    "TV4"
+                    "TV4",
+                    "TV4 Play Sport"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "M6 Suisse",
+                    "RTS 2",
+                    "SRF zwei",
+                    "Servus TV"
                 ]
             },
             {
@@ -1267,6 +1482,25 @@
                     "Fubo Sports",
                     "Peacock ES",
                     "Telemundo"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "AUF.TV",
+                    "DAZN",
+                    "DGO",
+                    "DIRECTV 4K",
+                    "DSports",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "DAZN",
+                    "DSports",
+                    "Paramount+"
                 ]
             }
         ]
@@ -1335,6 +1569,16 @@
                 ]
             },
             {
+                "country": "Canada",
+                "channels": [
+                    "CTV",
+                    "RDS",
+                    "TSN1",
+                    "TSN3",
+                    "TSN4"
+                ]
+            },
+            {
                 "country": "China",
                 "channels": [
                     "CCTV-5",
@@ -1368,6 +1612,12 @@
                 "channels": [
                     "MTV Urheilu 1",
                     "MTV3"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "M6"
                 ]
             },
             {
@@ -1715,6 +1965,16 @@
                 ]
             },
             {
+                "country": "Canada",
+                "channels": [
+                    "CTV",
+                    "RDS",
+                    "TSN1",
+                    "TSN3",
+                    "TSN4"
+                ]
+            },
+            {
                 "country": "China",
                 "channels": [
                     "CCTV-5",
@@ -1931,7 +2191,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV 2 Play (NO)"
+                    "NRK TV",
+                    "NRK1"
                 ]
             },
             {
@@ -6240,6 +6501,12 @@
                 "channels": [
                     "Migu"
                 ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "GOL"
+                ]
             }
         ]
     },
@@ -7401,15 +7668,6 @@
         "league_id": 248,
         "league": "Premium liiga",
         "venue": "Tamme staadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000009001,
-        "kickoff": 1783209600,
-        "fixture": "Delfin vs Emelec",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "Estadio Jocay",
         "tv_channels": []
     },
     {

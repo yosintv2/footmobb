@@ -241,7 +241,8 @@
                 "country": "United Kingdom",
                 "channels": [
                     "BBC iPlayer",
-                    "S4C Clic"
+                    "S4C Clic",
+                    "Youtube UK"
                 ]
             }
         ]
@@ -457,6 +458,7 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Amazon Prime Video",
                     "CazeTV",
                     "CazéTV YouTube",
                     "Disney+ Premium"
@@ -1101,6 +1103,7 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Amazon Prime Video",
                     "CazeTV",
                     "CazéTV YouTube",
                     "Disney+ Premium",
@@ -2579,6 +2582,13 @@
                 ]
             },
             {
+                "country": "India",
+                "channels": [
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 2"
+                ]
+            },
+            {
                 "country": "Indonesia",
                 "channels": [
                     "Fola Play",
@@ -3042,6 +3052,28 @@
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio Rodrigo Paz Delgado",
+        "tv_channels": [
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Zapping Sports + Plus"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 1000009001,
+        "kickoff": 1782950400,
+        "fixture": "Delfin vs Emelec",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Jocay",
         "tv_channels": []
     },
     {
