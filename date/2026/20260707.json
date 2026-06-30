@@ -97,6 +97,13 @@
         "venue": "Seattle Stadium",
         "tv_channels": [
             {
+                "country": "Finland",
+                "channels": [
+                    "MTV Urheilu 1",
+                    "MTV3"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "MagentaTV"
@@ -116,11 +123,27 @@
                 ]
             },
             {
+                "country": "Norway",
+                "channels": [
+                    "NRK TV",
+                    "NRK1"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
+                    "FOX",
+                    "FOX 4K",
                     "FOX One",
                     "FOX Sports",
                     "FOX Sports 4K",
+                    "Fubo Sports",
                     "Peacock ES",
                     "Telemundo"
                 ]
@@ -136,6 +159,13 @@
         "venue": "Atlanta Stadium",
         "tv_channels": [
             {
+                "country": "Finland",
+                "channels": [
+                    "Yle Areena",
+                    "Yle TV2"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "MagentaTV"
@@ -155,11 +185,26 @@
                 ]
             },
             {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
+                    "FOX",
+                    "FOX 4K",
                     "FOX One",
                     "FOX Sports",
                     "FOX Sports 4K",
+                    "Fubo Sports",
                     "Peacock ES",
                     "Telemundo"
                 ]
@@ -175,6 +220,13 @@
         "venue": "BC Place Vancouver",
         "tv_channels": [
             {
+                "country": "Finland",
+                "channels": [
+                    "Yle Areena",
+                    "Yle TV2"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "MagentaTV"
@@ -194,11 +246,29 @@
                 ]
             },
             {
+                "country": "Norway",
+                "channels": [
+                    "NRK TV",
+                    "NRK1",
+                    "SVT1"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "SVT Play",
+                    "SVT1"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
+                    "FOX",
+                    "FOX 4K",
                     "FOX One",
                     "FOX Sports",
                     "FOX Sports 4K",
+                    "Fubo Sports",
                     "Peacock ES",
                     "Telemundo"
                 ]
@@ -260,97 +330,6 @@
         "venue": "HS Orku völlurinn",
         "tv_channels": [
             {
-                "country": "Australia",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5190589,
-        "kickoff": 1783375200,
-        "fixture": "Botafogo SP vs Avai FC",
-        "league_id": 8814,
-        "league": "Serie B",
-        "venue": "Arena NicNet",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5190598,
-        "kickoff": 1783375200,
-        "fixture": "Vila Nova vs Sao Bernardo",
-        "league_id": 8814,
-        "league": "Serie B",
-        "venue": "Estádio Onésio Brasileiro Alvarenga",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000009463,
-        "kickoff": 1783375200,
-        "fixture": "Brusque vs Figueirense",
-        "league_id": 8971,
-        "league": "Serie C",
-        "venue": "Arena Simon",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5162026,
-        "kickoff": 1783353600,
-        "fixture": "SK Super Nova vs Ogre United",
-        "league_id": 226,
-        "league": "Virsliga",
-        "venue": "RFS Jāņa Skredeļa sporta komplekss Dabīgais segum",
-        "tv_channels": [
-            {
                 "country": "Argentina",
                 "channels": [
                     "OneFootball PPV"
@@ -369,7 +348,61 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Brazil",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ireland",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -381,7 +414,31 @@
                 ]
             },
             {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Paraguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -418,6 +475,224 @@
             },
             {
                 "country": "Uruguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5190589,
+        "kickoff": 1783375200,
+        "fixture": "Botafogo SP vs Avai FC",
+        "league_id": 8814,
+        "league": "Serie B",
+        "venue": "Arena NicNet",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5190598,
+        "kickoff": 1783375200,
+        "fixture": "Vila Nova vs Sao Bernardo",
+        "league_id": 8814,
+        "league": "Serie B",
+        "venue": "Estádio Onésio Brasileiro Alvarenga",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+ Premium",
+                    "SportyNet",
+                    "Xsports"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 1000009463,
+        "kickoff": 1783375200,
+        "fixture": "Brusque vs Figueirense",
+        "league_id": 8971,
+        "league": "Serie C",
+        "venue": "Arena Simon",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Canal do Benja",
+                    "SportyNet",
+                    "TMC"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5162026,
+        "kickoff": 1783353600,
+        "fixture": "SK Super Nova vs Ogre United",
+        "league_id": 226,
+        "league": "Virsliga",
+        "venue": "RFS Jāņa Skredeļa sporta komplekss Dabīgais segum",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "OneFootball PPV"
                 ]
