@@ -375,7 +375,21 @@
         "league_id": 180,
         "league": "League Cup Grp. B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161556,
@@ -699,7 +713,21 @@
         "league_id": 77,
         "league": "World Cup",
         "venue": "Miami Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "RTÉ Player",
+                    "RTÉ2"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 4653854,
@@ -1446,15 +1474,6 @@
         "league_id": 10282,
         "league": "MLS Next Pro",
         "venue": "Truist Point Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000008066,
-        "kickoff": 1783890000,
-        "fixture": "Connecticut United vs Toronto FC II",
-        "league_id": 10282,
-        "league": "MLS Next Pro",
-        "venue": "Reese Stadium",
         "tv_channels": []
     },
     {

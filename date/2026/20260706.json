@@ -414,6 +414,7 @@
             {
                 "country": "Austria",
                 "channels": [
+                    "OneFootball PPV",
                     "Sportdigital Fussball 2",
                     "Sportdigital+ App",
                     "Sportdigital.de"
@@ -438,6 +439,13 @@
                 "channels": [
                     "VG TV"
                 ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV",
+                    "Sportdigital Fussball 2"
+                ]
             }
         ]
     },
@@ -452,6 +460,7 @@
             {
                 "country": "Austria",
                 "channels": [
+                    "OneFootball PPV",
                     "Sportdigital Fussball",
                     "Sportdigital+ App",
                     "Sportdigital.de"
@@ -480,6 +489,7 @@
                 "country": "Switzerland",
                 "channels": [
                     "Blue Sport",
+                    "OneFootball PPV",
                     "Sportdigital Fussball",
                     "Sunrise TV"
                 ]
@@ -563,7 +573,8 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "ORF 1"
+                    "ORF 1",
+                    "ORF ON App"
                 ]
             },
             {
@@ -801,7 +812,9 @@
             {
                 "country": "Japan",
                 "channels": [
-                    "確認予定"
+                    "DAZN",
+                    "NHK",
+                    "NHK BS Premium 4K"
                 ]
             },
             {
@@ -893,12 +906,6 @@
                 ]
             },
             {
-                "country": "Netherlands",
-                "channels": [
-                    "NPO 1"
-                ]
-            },
-            {
                 "country": "New Zealand",
                 "channels": [
                     "TVNZ 1",
@@ -931,7 +938,6 @@
                 "channels": [
                     "NRK TV",
                     "NRK1",
-                    "TV 2 Direkte",
                     "TV 2 Play (NO)"
                 ]
             },
@@ -1062,7 +1068,13 @@
             {
                 "country": "Switzerland",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "ORF 1",
+                    "Play SRF",
+                    "RSI La 2",
+                    "RTS 2",
+                    "Rai 1",
+                    "SRF Sport",
+                    "SRF zwei"
                 ]
             },
             {
@@ -1131,11 +1143,95 @@
     {
         "match_id": 4653847,
         "kickoff": 1783296000,
-        "fixture": "Mexico/Ecuador vs England/DR Congo",
+        "fixture": "Mexico vs England/DR Congo",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Mexico City Stadium",
         "tv_channels": [
+            {
+                "country": "Albania",
+                "channels": [
+                    "Klani IM",
+                    "SuperSport Digitalb",
+                    "TV Klan"
+                ]
+            },
+            {
+                "country": "Andorra",
+                "channels": [
+                    "DAZN Spain",
+                    "M6",
+                    "TVE La 1",
+                    "beIN Sports 1"
+                ]
+            },
+            {
+                "country": "Armenia",
+                "channels": [
+                    "FAST TV",
+                    "Fast Sports",
+                    "FastTV"
+                ]
+            },
+            {
+                "country": "Azerbaijan",
+                "channels": [
+                    "Ictimai TV",
+                    "TV NET"
+                ]
+            },
+            {
+                "country": "Bangladesh",
+                "channels": [
+                    "Bioscope+",
+                    "T Sports",
+                    "Toffee"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "channels": [
+                    "La Une (RTBF)",
+                    "RTBF Auvio",
+                    "Sporza",
+                    "VRT 1"
+                ]
+            },
+            {
+                "country": "Bulgaria",
+                "channels": [
+                    "BNT 1"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "CCTV-5",
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "channels": [
+                    "HRT 2",
+                    "HRTi",
+                    "MAXtv"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "channels": [
+                    "Sigma TV"
+                ]
+            },
+            {
+                "country": "Estonia",
+                "channels": [
+                    "ETV 1",
+                    "ETV+",
+                    "Go3"
+                ]
+            },
             {
                 "country": "Finland",
                 "channels": [
@@ -1144,9 +1240,57 @@
                 ]
             },
             {
+                "country": "Georgia",
+                "channels": [
+                    "Rustavi 2",
+                    "Setanta Sports Georgia"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "MagentaTV"
+                ]
+            },
+            {
+                "country": "Ghana",
+                "channels": [
+                    "StarTimes",
+                    "SuperSport"
+                ]
+            },
+            {
+                "country": "Greece",
+                "channels": [
+                    "ERT 1",
+                    "ERT FLIX"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "channels": [
+                    "Now Sports",
+                    "ViuTV6"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "channels": [
+                    "M4 Sport"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "channels": [
+                    "RUV 2"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "channels": [
+                    "Fola Play",
+                    "TVRI",
+                    "Vidio"
                 ]
             },
             {
@@ -1157,9 +1301,113 @@
                 ]
             },
             {
+                "country": "Israel",
+                "channels": [
+                    "KAN 11",
+                    "Sport 1"
+                ]
+            },
+            {
+                "country": "Korea, Republic of",
+                "channels": [
+                    "JTBC",
+                    "KBS2 Korea"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3",
+                    "Go3 Extra Sports Latvia",
+                    "TV6 Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3",
+                    "Go3 Extra Sports Lithuania",
+                    "TV3 Lithuania"
+                ]
+            },
+            {
+                "country": "Macao",
+                "channels": [
+                    "We Sport Moldova"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "channels": [
+                    "Sukan+",
+                    "TV Okey",
+                    "Unifi TV"
+                ]
+            },
+            {
+                "country": "Malta",
+                "channels": [
+                    "PBS",
+                    "TVM (TVMSport+)"
+                ]
+            },
+            {
+                "country": "Mongolia",
+                "channels": [
+                    "Arena 1 Premium",
+                    "Arena Cloud",
+                    "TVCG 1"
+                ]
+            },
+            {
                 "country": "Montenegro",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports English",
+                    "beIN Sports English 2",
+                    "beIN Sports HD 2",
+                    "beIN Sports HD 3",
+                    "beIN Sports MAX 1 Arabia",
+                    "beIN Sports MAX 2 Arabia",
+                    "beIN Sports MAX 5 Arabia",
+                    "beIN Sports MAX 6 Arabia"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "channels": [
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports MAX 1 Arabia",
+                    "beIN Sports MAX 2 Arabia",
+                    "beIN Sports MAX 5 Arabia",
+                    "beIN Sports MAX 6 Arabia"
+                ]
+            },
+            {
+                "country": "Myanmar",
+                "channels": [
+                    "TV360 by Mytel"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "channels": [
+                    "TVNZ 1",
+                    "TVNZ+"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "channels": [
+                    "SuperSport Football Plus Nigeria",
+                    "SuperSport Laliga Nigeria"
+                ]
+            },
+            {
+                "country": "North Macedonia",
+                "channels": [
+                    "Arena 1 Premium",
+                    "Arena Cloud"
                 ]
             },
             {
@@ -1170,10 +1418,104 @@
                 ]
             },
             {
+                "country": "Pakistan",
+                "channels": [
+                    "PTV Sports",
+                    "tapmad"
+                ]
+            },
+            {
+                "country": "Philippines",
+                "channels": [
+                    "Aleph Arena",
+                    "Pilipinas Live"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Antena 1",
+                    "Antena Play"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "channels": [
+                    "Match Premier",
+                    "Match TV"
+                ]
+            },
+            {
+                "country": "Saint Barthélemy",
+                "channels": [
+                    "Sport TV Belarus"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "channels": [
+                    "Arena 1 Premium",
+                    "Arena Cloud",
+                    "RTS 1"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "channels": [
+                    "Channel 5",
+                    "Singtel TV GO",
+                    "meWATCH"
+                ]
+            },
+            {
+                "country": "Slovenia",
+                "channels": [
+                    "Arena Sport 1 Slovenia",
+                    "TV Slovenija 2"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "channels": [
+                    "SuperSport Laliga",
+                    "SuperSport Premier League Nigeria",
+                    "SuperSport Variety 3"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "channels": [
                     "SVT Play",
                     "SVT1"
+                ]
+            },
+            {
+                "country": "Tanzania, United Republic of",
+                "channels": [
+                    "Azam Sports",
+                    "SuperSport"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "channels": [
+                    "JAS",
+                    "MONOMAX"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "channels": [
+                    "Digiturk",
+                    "TRT 1",
+                    "tabii"
+                ]
+            },
+            {
+                "country": "Ukraine",
+                "channels": [
+                    "MEGOGO Football 1",
+                    "Megogo"
                 ]
             },
             {
@@ -1223,13 +1565,6 @@
                 "country": "Montenegro",
                 "channels": [
                     "beIN SPORTS CONNECT"
-                ]
-            },
-            {
-                "country": "Norway",
-                "channels": [
-                    "NRK TV",
-                    "NRK1"
                 ]
             },
             {

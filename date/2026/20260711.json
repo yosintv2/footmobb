@@ -312,7 +312,21 @@
         "league_id": 180,
         "league": "League Cup Grp. B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762589,
@@ -321,7 +335,15 @@
         "league_id": 180,
         "league": "League Cup Grp. C",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762590,
@@ -330,7 +352,15 @@
         "league_id": 180,
         "league": "League Cup Grp. C",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762747,
@@ -348,7 +378,15 @@
         "league_id": 180,
         "league": "League Cup Grp. D",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763204,
@@ -393,7 +431,15 @@
         "league_id": 180,
         "league": "League Cup Grp. G",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763424,
@@ -569,7 +615,21 @@
         "league_id": 77,
         "league": "World Cup",
         "venue": "Miami Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "RTÉ Player",
+                    "RTÉ2"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5164002,
@@ -803,7 +863,14 @@
         "league_id": 126,
         "league": "Premier Division",
         "venue": "Oriel Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5100933,
@@ -1035,7 +1102,7 @@
         "fixture": "Manauara vs Goiatuba SC",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Estádio Ismael Benigno",
         "tv_channels": []
     },
     {
@@ -1044,7 +1111,7 @@
         "fixture": "Ferroviario vs Imperatriz",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Estádio Municipal Presidente Getúlio Vargas",
         "tv_channels": []
     },
     {
@@ -1053,7 +1120,7 @@
         "fixture": "Capital FC vs Nacional AM",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Estádio Juscelino Kubitschek",
         "tv_channels": []
     },
     {
@@ -1062,7 +1129,7 @@
         "fixture": "Treze vs CRAC",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Estádio Governador Ernani Sátyro",
         "tv_channels": []
     },
     {
@@ -1071,7 +1138,7 @@
         "fixture": "Portuguesa RJ vs EC Sao Jose",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Estádio Luso-Brasileiro",
         "tv_channels": []
     },
     {
@@ -1080,7 +1147,7 @@
         "fixture": "Uberlandia vs Serra Branca",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Estádio Municipal João Havelange",
         "tv_channels": []
     },
     {
@@ -1089,7 +1156,7 @@
         "fixture": "Portuguesa vs Marcilio Dias",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Estádio Dr. Oswaldo Teixeira Duarte",
         "tv_channels": []
     },
     {
@@ -1098,7 +1165,7 @@
         "fixture": "XV de Piracicaba vs Cianorte",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Estádio Barão de Serra Negra",
         "tv_channels": []
     },
     {
@@ -1107,7 +1174,7 @@
         "fixture": "ASA vs Ivinhema",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Estádio Municipal Coaracy da Mata Fonseca",
         "tv_channels": []
     },
     {
@@ -1125,7 +1192,7 @@
         "fixture": "America RN vs Trem DC",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Arena das Dunas",
         "tv_channels": []
     },
     {
@@ -1134,7 +1201,7 @@
         "fixture": "Iguatu vs Maguary",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Estádio Municipal João Elmo Moreno Cavalcante",
         "tv_channels": []
     },
     {
@@ -1143,7 +1210,7 @@
         "fixture": "CS Alagoano vs Betim EC",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Estádio Rei Pelé",
         "tv_channels": []
     },
     {
@@ -1152,7 +1219,7 @@
         "fixture": "Sao Luiz vs Velo Clube",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Estádio 19 de Outubro",
         "tv_channels": []
     },
     {
@@ -1161,7 +1228,7 @@
         "fixture": "Guapore vs Luverdense",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Estádio Municipal José Ângelo Cassol",
         "tv_channels": []
     },
     {
@@ -1170,7 +1237,7 @@
         "fixture": "ABC vs Aguia de Maraba",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Arena das Dunas",
         "tv_channels": []
     },
     {

@@ -1,5 +1,137 @@
 [
     {
+        "match_id": 5866566,
+        "kickoff": 1782844200,
+        "fixture": "Alloa Athletic vs Livingston",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Indodrill Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5860645,
+        "kickoff": 1782845100,
+        "fixture": "Forfar Athletic vs St. Johnstone",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "The Parkgrove Stadium at Station Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5823109,
+        "kickoff": 1782846000,
+        "fixture": "Shamrock Rovers vs Hibernian",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Tallaght Stadium",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5866765,
+        "kickoff": 1782914400,
+        "fixture": "Zenit vs Dynamo Makhachkala",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Stadion SDYuShOR Smena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5767130,
+        "kickoff": 1782831600,
+        "fixture": "VPS vs FC Inter Turku",
+        "league_id": 143,
+        "league": "Cup",
+        "venue": "Lemonsoft stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5767129,
+        "kickoff": 1782921600,
+        "fixture": "HJK vs Ilves",
+        "league_id": 143,
+        "league": "Cup",
+        "venue": "Bolt Arena",
+        "tv_channels": [
+            {
+                "country": "Armenia",
+                "channels": [
+                    "FastTV"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3 Extra Sports Lithuania"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Antena Play"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5496030,
+        "kickoff": 1782865800,
+        "fixture": "Universidad Catolica vs Everton CD",
+        "league_id": 9091,
+        "league": "Cup Grp. B",
+        "venue": "Claro Arena",
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "HBO MAX",
+                    "TNT Sports Premium"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5496085,
+        "kickoff": 1782856800,
+        "fixture": "Audax Italiano vs Palestino",
+        "league_id": 9091,
+        "league": "Cup Grp. G",
+        "venue": "Estadio Bicentenario Municipal de La Florida",
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "HBO MAX",
+                    "TNT Sports Premium"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 4653712,
         "kickoff": 1782838800,
         "fixture": "Ivory Coast vs Norway",
@@ -399,6 +531,8 @@
             {
                 "country": "Nicaragua",
                 "channels": [
+                    "Canal 10",
+                    "FOX",
                     "Tigo Sports",
                     "Tigo Sports App"
                 ]
@@ -1230,6 +1364,7 @@
                 "country": "Albania",
                 "channels": [
                     "Klani IM",
+                    "Super Sport 2 HD",
                     "SuperSport Digitalb",
                     "TV Klan"
                 ]
@@ -1296,8 +1431,11 @@
                 "country": "Belgium",
                 "channels": [
                     "La Une (RTBF)",
+                    "Proximus",
                     "RTBF Auvio",
+                    "RTBF Auvio Direct",
                     "Sporza",
+                    "Tipik",
                     "VRT 1"
                 ]
             },
@@ -1307,6 +1445,14 @@
                     "Entel Gol",
                     "Tigo Sports",
                     "Tigo Sports App"
+                ]
+            },
+            {
+                "country": "Bosnia and Herzegovina",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 1",
+                    "Moja TV"
                 ]
             },
             {
@@ -1323,7 +1469,10 @@
             {
                 "country": "Bulgaria",
                 "channels": [
-                    "BNT 1"
+                    "BNT 1",
+                    "BNT 3",
+                    "BNT News App",
+                    "bnt.bg"
                 ]
             },
             {
@@ -1418,7 +1567,8 @@
                 "channels": [
                     "ETV 1",
                     "ETV+",
-                    "Go3"
+                    "Go3",
+                    "Go3 Extra Sports Estonia"
                 ]
             },
             {
@@ -1438,6 +1588,7 @@
                 "country": "Georgia",
                 "channels": [
                     "Rustavi 2",
+                    "Setanta Sports",
                     "Setanta Sports Georgia"
                 ]
             },
@@ -1457,7 +1608,9 @@
             {
                 "country": "Greece",
                 "channels": [
+                    "ERT",
                     "ERT 1",
+                    "ERT 1 HD",
                     "ERT FLIX"
                 ]
             },
@@ -1473,6 +1626,9 @@
             {
                 "country": "Honduras",
                 "channels": [
+                    "Canal 5 El Líder",
+                    "DTVC+",
+                    "FOX",
                     "Tigo Sports",
                     "Tigo Sports App"
                 ]
@@ -1487,12 +1643,14 @@
             {
                 "country": "Hungary",
                 "channels": [
-                    "M4 Sport"
+                    "M4 Sport",
+                    "M4 Sports"
                 ]
             },
             {
                 "country": "Iceland",
                 "channels": [
+                    "RUV",
                     "RUV 2"
                 ]
             },
@@ -1525,6 +1683,7 @@
                 "country": "Israel",
                 "channels": [
                     "KAN 11",
+                    "KAN 11 HD",
                     "Sport 1"
                 ]
             },
@@ -1561,6 +1720,7 @@
                 "country": "Liechtenstein",
                 "channels": [
                     "Go3",
+                    "Go3 Extra Sports Estonia",
                     "Go3 Extra Sports Lithuania",
                     "TV3 Lithuania"
                 ]
@@ -1601,6 +1761,7 @@
             {
                 "country": "Mongolia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
                     "TVCG 1"
@@ -1610,7 +1771,9 @@
                 "country": "Montenegro",
                 "channels": [
                     "beIN SPORTS CONNECT",
+                    "beIN Sports MAX 1",
                     "beIN Sports MAX 1 Arabia",
+                    "beIN Sports MAX 1 HD",
                     "beIN Sports MAX 2 Arabia",
                     "beIN Sports MAX 5 Arabia",
                     "beIN Sports MAX 6 Arabia"
@@ -1620,7 +1783,9 @@
                 "country": "Morocco",
                 "channels": [
                     "beIN SPORTS CONNECT",
+                    "beIN Sports MAX 1",
                     "beIN Sports MAX 1 Arabia",
+                    "beIN Sports MAX 1 HD",
                     "beIN Sports MAX 2 Arabia",
                     "beIN Sports MAX 5 Arabia",
                     "beIN Sports MAX 6 Arabia"
@@ -1655,6 +1820,7 @@
             {
                 "country": "North Macedonia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud"
                 ]
@@ -1725,6 +1891,7 @@
                 "country": "Romania",
                 "channels": [
                     "Antena 1",
+                    "Antena 1 HD",
                     "Antena Play"
                 ]
             },
@@ -1744,6 +1911,7 @@
             {
                 "country": "Serbia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
                     "RTS 1"
@@ -1816,6 +1984,7 @@
                 "country": "Türkiye",
                 "channels": [
                     "Digiturk",
+                    "Digiturk Play",
                     "TRT 1",
                     "tabii"
                 ]
@@ -1884,6 +2053,7 @@
                 "country": "Albania",
                 "channels": [
                     "Klani IM",
+                    "Super Sport 2 HD",
                     "SuperSport Digitalb",
                     "TV Klan"
                 ]
@@ -1926,7 +2096,8 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "ORF 1"
+                    "ORF 1",
+                    "ORF ON App"
                 ]
             },
             {
@@ -1948,8 +2119,11 @@
                 "country": "Belgium",
                 "channels": [
                     "La Une (RTBF)",
+                    "Proximus",
                     "RTBF Auvio",
+                    "RTBF Auvio Direct",
                     "Sporza",
+                    "Tipik",
                     "VRT 1"
                 ]
             },
@@ -1964,6 +2138,14 @@
                 ]
             },
             {
+                "country": "Bosnia and Herzegovina",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 1",
+                    "Moja TV"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
                     "Amazon Prime Video",
@@ -1975,7 +2157,10 @@
             {
                 "country": "Bulgaria",
                 "channels": [
-                    "BNT 1"
+                    "BNT 1",
+                    "BNT 3",
+                    "BNT News App",
+                    "bnt.bg"
                 ]
             },
             {
@@ -2001,6 +2186,7 @@
             {
                 "country": "China",
                 "channels": [
+                    "CCTV Sports VIP",
                     "CCTV-5",
                     "Migu"
                 ]
@@ -2031,6 +2217,7 @@
                 "channels": [
                     "HRT 2",
                     "HRTi",
+                    "MAX To Go",
                     "MAXtv"
                 ]
             },
@@ -2062,7 +2249,8 @@
                 "channels": [
                     "ETV 1",
                     "ETV+",
-                    "Go3"
+                    "Go3",
+                    "Go3 Extra Sports Estonia"
                 ]
             },
             {
@@ -2084,6 +2272,7 @@
                 "country": "Georgia",
                 "channels": [
                     "Rustavi 2",
+                    "Setanta Sports",
                     "Setanta Sports Georgia"
                 ]
             },
@@ -2108,6 +2297,8 @@
                 "country": "Greece",
                 "channels": [
                     "ERT 1",
+                    "ERT 2",
+                    "ERT 2 HD",
                     "ERT FLIX"
                 ]
             },
@@ -2123,6 +2314,9 @@
             {
                 "country": "Honduras",
                 "channels": [
+                    "DTVC+",
+                    "FOX",
+                    "Telecadena 7 y 4",
                     "Tigo Sports",
                     "Tigo Sports App"
                 ]
@@ -2137,12 +2331,14 @@
             {
                 "country": "Hungary",
                 "channels": [
-                    "M4 Sport"
+                    "M4 Sport",
+                    "M4 Sports"
                 ]
             },
             {
                 "country": "Iceland",
                 "channels": [
+                    "RUV",
                     "RUV 2"
                 ]
             },
@@ -2176,6 +2372,7 @@
                 "country": "Israel",
                 "channels": [
                     "KAN 11",
+                    "KAN 11 HD",
                     "Sport 1"
                 ]
             },
@@ -2211,6 +2408,7 @@
                 "country": "Liechtenstein",
                 "channels": [
                     "Go3",
+                    "Go3 Extra Sports Estonia",
                     "Go3 Extra Sports Lithuania",
                     "TV3 Lithuania"
                 ]
@@ -2245,6 +2443,7 @@
             {
                 "country": "Mongolia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
                     "TVCG 1"
@@ -2254,7 +2453,9 @@
                 "country": "Montenegro",
                 "channels": [
                     "beIN SPORTS CONNECT",
+                    "beIN Sports MAX 1",
                     "beIN Sports MAX 1 Arabia",
+                    "beIN Sports MAX 1 HD",
                     "beIN Sports MAX 2 Arabia",
                     "beIN Sports MAX 5 Arabia",
                     "beIN Sports MAX 6 Arabia"
@@ -2264,7 +2465,9 @@
                 "country": "Morocco",
                 "channels": [
                     "beIN SPORTS CONNECT",
+                    "beIN Sports MAX 1",
                     "beIN Sports MAX 1 Arabia",
+                    "beIN Sports MAX 1 HD",
                     "beIN Sports MAX 2 Arabia",
                     "beIN Sports MAX 5 Arabia",
                     "beIN Sports MAX 6 Arabia"
@@ -2299,6 +2502,7 @@
             {
                 "country": "North Macedonia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud"
                 ]
@@ -2353,7 +2557,8 @@
             {
                 "country": "Poland",
                 "channels": [
-                    "TVP Sport"
+                    "TVP Sport",
+                    "TVP2"
                 ]
             },
             {
@@ -2366,6 +2571,7 @@
                 "country": "Romania",
                 "channels": [
                     "Antena 1",
+                    "Antena 1 HD",
                     "Antena Play"
                 ]
             },
@@ -2385,6 +2591,7 @@
             {
                 "country": "Serbia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
                     "RTS 1"
@@ -2437,6 +2644,8 @@
             {
                 "country": "Switzerland",
                 "channels": [
+                    "Das Erste",
+                    "M6 Suisse",
                     "ORF 1",
                     "Play SRF",
                     "RSI La 2",
@@ -2463,6 +2672,7 @@
                 "country": "Türkiye",
                 "channels": [
                     "Digiturk",
+                    "Digiturk Play",
                     "TRT 1",
                     "tabii"
                 ]
@@ -2531,6 +2741,7 @@
                 "country": "Albania",
                 "channels": [
                     "Klani IM",
+                    "Super Sport 2 HD",
                     "SuperSport Digitalb",
                     "TV Klan"
                 ]
@@ -2573,7 +2784,8 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "ORF 1"
+                    "ORF 1",
+                    "ORF ON App"
                 ]
             },
             {
@@ -2595,8 +2807,11 @@
                 "country": "Belgium",
                 "channels": [
                     "La Une (RTBF)",
+                    "Proximus",
                     "RTBF Auvio",
+                    "RTBF Auvio Direct",
                     "Sporza",
+                    "Tipik",
                     "VRT 1"
                 ]
             },
@@ -2606,6 +2821,14 @@
                     "Entel Gol",
                     "Tigo Sports",
                     "Tigo Sports App"
+                ]
+            },
+            {
+                "country": "Bosnia and Herzegovina",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 1",
+                    "Moja TV"
                 ]
             },
             {
@@ -2625,7 +2848,10 @@
             {
                 "country": "Bulgaria",
                 "channels": [
-                    "BNT 1"
+                    "BNT 1",
+                    "BNT 3",
+                    "BNT News App",
+                    "bnt.bg"
                 ]
             },
             {
@@ -2633,6 +2859,7 @@
                 "channels": [
                     "CTV",
                     "RDS",
+                    "TSN+",
                     "TSN1",
                     "TSN3",
                     "TSN4"
@@ -2655,6 +2882,7 @@
             {
                 "country": "China",
                 "channels": [
+                    "CCTV Sports VIP",
                     "CCTV-5",
                     "Migu"
                 ]
@@ -2684,6 +2912,7 @@
                 "channels": [
                     "HRT 2",
                     "HRTi",
+                    "MAX To Go",
                     "MAXtv"
                 ]
             },
@@ -2714,7 +2943,8 @@
                 "channels": [
                     "ETV 1",
                     "ETV+",
-                    "Go3"
+                    "Go3",
+                    "Go3 Extra Sports Estonia"
                 ]
             },
             {
@@ -2736,6 +2966,7 @@
                 "country": "Georgia",
                 "channels": [
                     "Rustavi 2",
+                    "Setanta Sports",
                     "Setanta Sports Georgia"
                 ]
             },
@@ -2760,6 +2991,8 @@
                 "country": "Greece",
                 "channels": [
                     "ERT 1",
+                    "ERT 2",
+                    "ERT 2 HD",
                     "ERT FLIX"
                 ]
             },
@@ -2793,6 +3026,7 @@
             {
                 "country": "Iceland",
                 "channels": [
+                    "RUV",
                     "RUV 2"
                 ]
             },
@@ -2826,6 +3060,7 @@
                 "country": "Israel",
                 "channels": [
                     "KAN 11",
+                    "KAN 11 HD",
                     "Sport 1"
                 ]
             },
@@ -2863,6 +3098,7 @@
                 "country": "Liechtenstein",
                 "channels": [
                     "Go3",
+                    "Go3 Extra Sports Estonia",
                     "Go3 Extra Sports Lithuania",
                     "TV3 Lithuania"
                 ]
@@ -2897,6 +3133,7 @@
             {
                 "country": "Mongolia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
                     "TVCG 1"
@@ -2909,7 +3146,8 @@
                     "beIN Sports MAX 1 Arabia",
                     "beIN Sports MAX 2 Arabia",
                     "beIN Sports MAX 5 Arabia",
-                    "beIN Sports MAX 6 Arabia"
+                    "beIN Sports MAX 6 Arabia",
+                    "beIN Sports Max 2"
                 ]
             },
             {
@@ -2919,7 +3157,8 @@
                     "beIN Sports MAX 1 Arabia",
                     "beIN Sports MAX 2 Arabia",
                     "beIN Sports MAX 5 Arabia",
-                    "beIN Sports MAX 6 Arabia"
+                    "beIN Sports MAX 6 Arabia",
+                    "beIN Sports Max 2"
                 ]
             },
             {
@@ -2951,6 +3190,7 @@
             {
                 "country": "North Macedonia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud"
                 ]
@@ -3010,12 +3250,15 @@
                 "country": "Poland",
                 "channels": [
                     "TVP Polonia",
-                    "TVP Sport"
+                    "TVP Sport",
+                    "TVP1 HD"
                 ]
             },
             {
                 "country": "Portugal",
                 "channels": [
+                    "RTP1",
+                    "Sport TV 1",
                     "Sport TV 5"
                 ]
             },
@@ -3023,6 +3266,7 @@
                 "country": "Romania",
                 "channels": [
                     "Antena 1",
+                    "Antena 1 HD",
                     "Antena Play"
                 ]
             },
@@ -3042,6 +3286,7 @@
             {
                 "country": "Serbia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
                     "RTS 1"
@@ -3089,6 +3334,8 @@
             {
                 "country": "Switzerland",
                 "channels": [
+                    "Das Erste",
+                    "M6 Suisse",
                     "ORF 1",
                     "Play SRF",
                     "RSI La 2",
@@ -3116,6 +3363,7 @@
                 "country": "Türkiye",
                 "channels": [
                     "Digiturk",
+                    "Digiturk Play",
                     "TRT 1",
                     "tabii"
                 ]
@@ -3167,138 +3415,6 @@
                     "Paramount+",
                     "Televen",
                     "Televen Max"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5866566,
-        "kickoff": 1782844200,
-        "fixture": "Alloa Athletic vs Livingston",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "Indodrill Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5860645,
-        "kickoff": 1782845100,
-        "fixture": "Forfar Athletic vs St. Johnstone",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "The Parkgrove Stadium at Station Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5823109,
-        "kickoff": 1782846000,
-        "fixture": "Shamrock Rovers vs Hibernian",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "Tallaght Stadium",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5866765,
-        "kickoff": 1782914400,
-        "fixture": "Zenit vs Dynamo Makhachkala",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "Stadion SDYuShOR Smena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5767130,
-        "kickoff": 1782831600,
-        "fixture": "VPS vs FC Inter Turku",
-        "league_id": 143,
-        "league": "Cup",
-        "venue": "Lemonsoft stadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5767129,
-        "kickoff": 1782921600,
-        "fixture": "HJK vs Ilves",
-        "league_id": 143,
-        "league": "Cup",
-        "venue": "Bolt Arena",
-        "tv_channels": [
-            {
-                "country": "Armenia",
-                "channels": [
-                    "FastTV"
-                ]
-            },
-            {
-                "country": "China",
-                "channels": [
-                    "Migu"
-                ]
-            },
-            {
-                "country": "Finland",
-                "channels": [
-                    "Ruutu+ Urheilu"
-                ]
-            },
-            {
-                "country": "Lao People's Democratic Republic",
-                "channels": [
-                    "Go3 Extra Sports Latvia"
-                ]
-            },
-            {
-                "country": "Liechtenstein",
-                "channels": [
-                    "Go3 Extra Sports Lithuania"
-                ]
-            },
-            {
-                "country": "Romania",
-                "channels": [
-                    "Antena Play"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5496030,
-        "kickoff": 1782865800,
-        "fixture": "Universidad Catolica vs Everton CD",
-        "league_id": 9091,
-        "league": "Cup Grp. B",
-        "venue": "Claro Arena",
-        "tv_channels": [
-            {
-                "country": "Chile",
-                "channels": [
-                    "HBO MAX",
-                    "TNT Sports Premium"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5496085,
-        "kickoff": 1782856800,
-        "fixture": "Audax Italiano vs Palestino",
-        "league_id": 9091,
-        "league": "Cup Grp. G",
-        "venue": "Estadio Bicentenario Municipal de La Florida",
-        "tv_channels": [
-            {
-                "country": "Chile",
-                "channels": [
-                    "HBO MAX",
-                    "TNT Sports Premium"
                 ]
             }
         ]
@@ -3857,6 +3973,23 @@
         "league": "2. Deild",
         "venue": "TBA",
         "tv_channels": []
+    },
+    {
+        "match_id": 5496077,
+        "kickoff": 1782932400,
+        "fixture": "Universidad de Concepcion vs Ñublense",
+        "league_id": 9091,
+        "league": "Cup Grp. F",
+        "venue": "Estadio Municipal Federico Schwager",
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "HBO MAX",
+                    "TNT Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5127873,

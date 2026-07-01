@@ -216,6 +216,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5869711,
+        "kickoff": 1783166400,
+        "fixture": "Linfield vs Kilmarnock",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Clearer Twist National Stadium at Windsor Park",
+        "tv_channels": []
+    },
+    {
         "match_id": 5766933,
         "kickoff": 1783170000,
         "fixture": "Austria Wien vs Debrecen",
@@ -239,7 +248,7 @@
         "fixture": "CSKA vs Arsenal",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "VTB UTB Novogorsk-Dynamo",
         "tv_channels": []
     },
     {
@@ -822,6 +831,7 @@
             {
                 "country": "Austria",
                 "channels": [
+                    "OneFootball PPV",
                     "Sportdigital Fussball 2",
                     "Sportdigital+ App",
                     "Sportdigital.de"
@@ -846,6 +856,13 @@
                 "country": "Norway",
                 "channels": [
                     "VG TV"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV",
+                    "Sportdigital Fussball 2"
                 ]
             },
             {
@@ -877,10 +894,17 @@
                 "channels": [
                     "DAZN",
                     "DFB TV",
+                    "OneFootball PPV",
                     "RTL Sport YouTube",
                     "Sportdigital Fussball",
                     "Sportdigital+ App",
                     "Sportdigital.de"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "L'Équipe live"
                 ]
             },
             {
@@ -923,6 +947,7 @@
                     "Blue Sport",
                     "DAZN",
                     "DFB TV",
+                    "OneFootball PPV",
                     "Sportdigital Fussball",
                     "Sunrise TV",
                     "TDP"
@@ -1027,7 +1052,8 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "ORF 1"
+                    "ORF 1",
+                    "ORF ON App"
                 ]
             },
             {
@@ -1216,6 +1242,7 @@
             {
                 "country": "Honduras",
                 "channels": [
+                    "FOX",
                     "Tigo Sports",
                     "Tigo Sports App"
                 ]
@@ -1282,7 +1309,9 @@
             {
                 "country": "Japan",
                 "channels": [
-                    "DAZN"
+                    "DAZN",
+                    "NHK",
+                    "NHK BS Premium 4K"
                 ]
             },
             {
@@ -1447,7 +1476,8 @@
             {
                 "country": "Poland",
                 "channels": [
-                    "TVP Sport"
+                    "TVP Sport",
+                    "TVP2"
                 ]
             },
             {
@@ -1526,13 +1556,15 @@
             {
                 "country": "Switzerland",
                 "channels": [
+                    "M6 Suisse",
                     "ORF 1",
                     "Play SRF",
                     "RSI La 2",
                     "RTS 2",
                     "Rai 1",
                     "SRF Sport",
-                    "SRF zwei"
+                    "SRF zwei",
+                    "ZDF"
                 ]
             },
             {
@@ -1775,6 +1807,7 @@
             {
                 "country": "Costa Rica",
                 "channels": [
+                    "Azteca Deportes Network",
                     "FOX+"
                 ]
             },
@@ -1795,6 +1828,7 @@
             {
                 "country": "Dominican Republic",
                 "channels": [
+                    "Azteca Deportes Network",
                     "CDN Deportes"
                 ]
             },
@@ -1862,6 +1896,7 @@
             {
                 "country": "Guatemala",
                 "channels": [
+                    "Azteca Deportes Network",
                     "Tigo Sports",
                     "Tigo Sports App"
                 ]
@@ -1869,6 +1904,8 @@
             {
                 "country": "Honduras",
                 "channels": [
+                    "Azteca Deportes Network",
+                    "FOX",
                     "Tigo Sports",
                     "Tigo Sports App"
                 ]
@@ -1934,7 +1971,8 @@
             {
                 "country": "Japan",
                 "channels": [
-                    "DAZN"
+                    "DAZN",
+                    "NTV"
                 ]
             },
             {
@@ -2042,6 +2080,7 @@
             {
                 "country": "Nicaragua",
                 "channels": [
+                    "Azteca Deportes Network",
                     "Tigo Sports",
                     "Tigo Sports App"
                 ]
@@ -2071,6 +2110,7 @@
             {
                 "country": "Panama",
                 "channels": [
+                    "Azteca Deportes Network",
                     "FOX",
                     "RPC TV",
                     "TVMAX",
@@ -2110,12 +2150,14 @@
                 "country": "Poland",
                 "channels": [
                     "TVP Polonia",
-                    "TVP Sport"
+                    "TVP Sport",
+                    "TVP1 HD"
                 ]
             },
             {
                 "country": "Portugal",
                 "channels": [
+                    "Sport TV 1",
                     "Sport TV 5"
                 ]
             },
@@ -2333,7 +2375,8 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "ORF 1"
+                    "ORF 1",
+                    "ORF ON App"
                 ]
             },
             {
@@ -2533,6 +2576,7 @@
             {
                 "country": "Honduras",
                 "channels": [
+                    "FOX",
                     "Tigo Sports",
                     "Tigo Sports App"
                 ]
@@ -2766,7 +2810,8 @@
             {
                 "country": "Poland",
                 "channels": [
-                    "TVP Sport"
+                    "TVP Sport",
+                    "TVP2"
                 ]
             },
             {
@@ -2851,7 +2896,8 @@
                     "RSI La 2",
                     "RTS 2",
                     "SRF Sport",
-                    "SRF zwei"
+                    "SRF zwei",
+                    "ZDF"
                 ]
             },
             {
@@ -2983,7 +3029,9 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "Servus TV"
+                    "Servus TV",
+                    "Servus TV Livestream",
+                    "ServusTV On"
                 ]
             },
             {
@@ -3230,7 +3278,9 @@
             {
                 "country": "Japan",
                 "channels": [
-                    "DAZN"
+                    "DAZN",
+                    "NHK",
+                    "NHK BS Premium 4K"
                 ]
             },
             {
@@ -3395,7 +3445,8 @@
                 "country": "Poland",
                 "channels": [
                     "TVP Polonia",
-                    "TVP Sport"
+                    "TVP Sport",
+                    "TVP1 HD"
                 ]
             },
             {
@@ -3472,9 +3523,13 @@
                 "country": "Switzerland",
                 "channels": [
                     "M6 Suisse",
+                    "Play SRF",
+                    "RSI La 2",
                     "RTS 2",
+                    "SRF Sport",
                     "SRF zwei",
-                    "Servus TV"
+                    "Servus TV",
+                    "ZDF"
                 ]
             },
             {
@@ -3594,7 +3649,9 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "Servus TV"
+                    "Servus TV",
+                    "Servus TV Livestream",
+                    "ServusTV On"
                 ]
             },
             {
@@ -3833,7 +3890,8 @@
             {
                 "country": "Japan",
                 "channels": [
-                    "確認予定"
+                    "DAZN",
+                    "NTV"
                 ]
             },
             {
@@ -3918,12 +3976,6 @@
                 "country": "Myanmar",
                 "channels": [
                     "TV360 by Mytel"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "channels": [
-                    "NPO 1"
                 ]
             },
             {
@@ -4074,7 +4126,13 @@
             {
                 "country": "Switzerland",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Play SRF",
+                    "RSI La 2",
+                    "RTS 2",
+                    "Rai 1",
+                    "SRF Sport",
+                    "SRF zwei",
+                    "Servus TV"
                 ]
             },
             {
@@ -5847,150 +5905,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000016588,
-        "kickoff": 1783123200,
-        "fixture": "Goiatuba SC vs Manauara",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016590,
-        "kickoff": 1783123200,
-        "fixture": "Imperatriz vs Ferroviario",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016592,
-        "kickoff": 1783123200,
-        "fixture": "Nacional AM vs Capital FC",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016594,
-        "kickoff": 1783123200,
-        "fixture": "CRAC vs Treze",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016596,
-        "kickoff": 1783123200,
-        "fixture": "EC Sao Jose vs Portuguesa RJ",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016598,
-        "kickoff": 1783123200,
-        "fixture": "Serra Branca vs Uberlandia",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016600,
-        "kickoff": 1783123200,
-        "fixture": "Marcilio Dias vs Portuguesa",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016602,
-        "kickoff": 1783123200,
-        "fixture": "Cianorte vs XV de Piracicaba",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016619,
-        "kickoff": 1783123200,
-        "fixture": "Ivinhema vs ASA",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016604,
-        "kickoff": 1783123200,
-        "fixture": "Porto Velho EC vs Gama",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016544,
-        "kickoff": 1783123200,
-        "fixture": "Trem DC vs America RN",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016546,
-        "kickoff": 1783123200,
-        "fixture": "Maguary vs Iguatu",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016548,
-        "kickoff": 1783123200,
-        "fixture": "Betim EC vs CS Alagoano",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016550,
-        "kickoff": 1783123200,
-        "fixture": "Velo Clube vs Sao Luiz",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016606,
-        "kickoff": 1783123200,
-        "fixture": "Luverdense vs Guapore",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016586,
-        "kickoff": 1783123200,
-        "fixture": "Aguia de Maraba vs ABC",
-        "league_id": 9464,
-        "league": "Serie D",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5109445,
         "kickoff": 1783121400,
         "fixture": "FC Naples vs Portland Hearts of Pine",
@@ -6529,6 +6443,42 @@
         "league_id": 9091,
         "league": "Cup Grp. G",
         "venue": "Estadio Municipal Luis Navarro Avilés",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5829252,
+        "kickoff": 1783184400,
+        "fixture": "Rentistas vs Paysandu",
+        "league_id": 9122,
+        "league": "Segunda Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5829253,
+        "kickoff": 1783195200,
+        "fixture": "Plaza Colonia vs La Luz",
+        "league_id": 9122,
+        "league": "Segunda Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5827445,
+        "kickoff": 1783177200,
+        "fixture": "Politehnica UTM vs FC Sheriff",
+        "league_id": 231,
+        "league": "Super Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5827446,
+        "kickoff": 1783184400,
+        "fixture": "CS Petrocub vs FC Milsami Orhei",
+        "league_id": 231,
+        "league": "Super Liga",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -8932,44 +8882,8 @@
         ]
     },
     {
-        "match_id": 5829252,
-        "kickoff": 1783184400,
-        "fixture": "Rentistas vs Paysandu",
-        "league_id": 9122,
-        "league": "Segunda Division",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5829253,
-        "kickoff": 1783195200,
-        "fixture": "Plaza Colonia vs La Luz",
-        "league_id": 9122,
-        "league": "Segunda Division",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5827445,
-        "kickoff": 1783177200,
-        "fixture": "Politehnica UTM vs FC Sheriff",
-        "league_id": 231,
-        "league": "Super Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5827446,
-        "kickoff": 1783184400,
-        "fixture": "CS Petrocub vs FC Milsami Orhei",
-        "league_id": 231,
-        "league": "Super Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000009184,
-        "kickoff": 1783188000,
+        "kickoff": 1783193400,
         "fixture": "Montreal Roses FC vs Vancouver Rise FC",
         "league_id": 10872,
         "league": "Northern Super League",
@@ -8978,7 +8892,7 @@
     },
     {
         "match_id": 1000008672,
-        "kickoff": 1783191600,
+        "kickoff": 1783195200,
         "fixture": "Atlético Ottawa vs Cavalry FC",
         "league_id": 9986,
         "league": "Premier League",
@@ -9058,5 +8972,122 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 1000016590,
+        "kickoff": 1783191600,
+        "fixture": "Imperatriz vs Ferroviario",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Frei Epifânio D'Abadia",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016592,
+        "kickoff": 1783191600,
+        "fixture": "Nacional AM vs Capital FC",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Ismael Benigno",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016594,
+        "kickoff": 1783191600,
+        "fixture": "CRAC vs Treze",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Genervino Evangelista da Fonseca",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016596,
+        "kickoff": 1783191600,
+        "fixture": "EC Sao Jose vs Portuguesa RJ",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Francisco Novelletto Neto",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016602,
+        "kickoff": 1783191600,
+        "fixture": "Cianorte vs XV de Piracicaba",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Municipal Olímpico Albino Turbay",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016604,
+        "kickoff": 1783191600,
+        "fixture": "Porto Velho EC vs Gama",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Municipal José de Abreu Bianco",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016544,
+        "kickoff": 1783191600,
+        "fixture": "Trem DC vs America RN",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Augusto Antunes",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016546,
+        "kickoff": 1783191600,
+        "fixture": "Maguary vs Iguatu",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Adelmar da Costa Carvalho",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016598,
+        "kickoff": 1783193400,
+        "fixture": "Serra Branca vs Uberlandia",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Governador Ernani Sátyro",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016548,
+        "kickoff": 1783195200,
+        "fixture": "Betim EC vs CS Alagoano",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Raimundo Sampaio",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016586,
+        "kickoff": 1783195200,
+        "fixture": "Aguia de Maraba vs ABC",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Municipal Zinho de Oliveira",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016600,
+        "kickoff": 1783198800,
+        "fixture": "Marcilio Dias vs Portuguesa",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Doutor Hercílio Luz",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016606,
+        "kickoff": 1783198800,
+        "fixture": "Luverdense vs Guapore",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Municipal Passo Das Emas",
+        "tv_channels": []
     }
 ]
