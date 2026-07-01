@@ -575,12 +575,12 @@
         throw new Error('Failed to load cricket data — check GitHub Actions workflow');
     }
 
-    // Infer live/post/pre from start time + match duration
-    function inferStatus(startISO, durationDays) {
+    // Infer live/post/pre from start time + match duration (duration is in hours)
+    function inferStatus(startISO, durationHours) {
         if (!startISO) return 'pre';
         const now = Date.now();
         const start = new Date(startISO).getTime();
-        const end = start + (durationDays || 1) * 24 * 3600 * 1000;
+        const end = start + (durationHours || 5) * 3600 * 1000;
         if (now >= start && now <= end) return 'in';
         if (now > end) return 'post';
         return 'pre';
@@ -597,7 +597,7 @@
                 team2_logo:    m.team2_logo   || '',
                 league:        m.league       || 'Cricket',
                 start:         m.start        || '',
-                duration:      m.duration     || 1,
+                duration:      m.duration     || 5,
                 details_url:   m.details_url  || '',
                 streaming_url: m.streaming_url|| '',
                 event_id:      String(m.event_id ?? ''),

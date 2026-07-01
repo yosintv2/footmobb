@@ -133,7 +133,12 @@ def transform_match(item):
     )
 
     event_fmt = (item.get("event_format") or item.get("match_type") or item.get("mtp") or "").lower()
-    duration = 5 if "test" in event_fmt else 1
+    if "test" in event_fmt:
+        duration = 10   # hours
+    elif "odi" in event_fmt or "one_day" in event_fmt or "one day" in event_fmt:
+        duration = 8    # hours
+    else:
+        duration = 5    # hours (T20 / unknown)
 
     event_id = item.get("match_id") or item.get("mid") or item.get("event_id") or item.get("id")
     try:
