@@ -37,6 +37,9 @@ HEADERS = {
     "Origin": "https://sports.ndtv.com",
 }
 
+# Only keep completed matches within this window
+COMPLETED_WINDOW_DAYS = 7
+
 
 def fetch_gamestate(gs_value):
     params = {**PARAMS, "gamestate": gs_value}
@@ -49,108 +52,71 @@ def fetch_gamestate(gs_value):
     return r.json()
 
 
-def pick(obj, *keys, default=None):
-    for k in keys:
-        if not isinstance(obj, dict):
-            continue
-        if "." in k:
-            parts = k.split(".", 1)
-            sub = obj.get(parts[0])
-            if isinstance(sub, dict):
-                v = sub.get(parts[1])
-                if v is not None and v != "":
-                    return v
-        elif k in obj:
-            v = obj[k]
-            if v is not None and v != "":
-                return v
-    return default
-
-
 def team_slug(name):
-    """Lowercase, hyphens for spaces — used in URLs."""
+    """Lowercase with hyphens — used in logo/detail/stream URLs."""
     if not name:
         return "unknown"
     slug = re.sub(r"[^\w\s-]", "", name.strip().lower())
-    slug = re.sub(r"\s+", "-", slug)
-    return slug
+    return re.sub(r"\s+", "-", slug)
 
 
 def logo_url(name):
     return f"https://aimages.willow.tv/teamLogos/{team_slug(name)}.png"
 
 
-def detect_duration(league="", match_type=""):
-    text = (league + " " + match_type).lower()
-    if "test" in text:
-        return 5
-    return 1
-
-
 def parse_start_utc(s):
-    """Convert NDTV IST string ('YYYY-MM-DD HH:mm:ss') to UTC ISO 8601."""
+    """
+    Convert NDTV date strings to UTC ISO 8601.
+    Handles: 'YYYY-MM-DDTHH:MM+05:30', 'YYYY-MM-DDTHH:MM:SS+05:30', 'YYYY-MM-DD HH:MM:SS'
+    """
     if not s:
         return None
     try:
-        dt_str = str(s).strip().replace(" ", "T")
-        if "+" not in dt_str and "Z" not in dt_str:
-            dt_str += "+05:30"
-        m = re.match(r"(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2})\+(\d{2}):(\d{2})", dt_str)
+        s = str(s).strip()
+        # ISO with offset: 2026-07-02T13:30+05:30 or ...T13:30:00+05:30
+        m = re.match(r"(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(?::\d{2})?)\+(\d{2}):(\d{2})", s)
         if m:
-            naive = datetime.strptime(m.group(1), "%Y-%m-%dT%H:%M:%S")
+            fmt = "%Y-%m-%dT%H:%M:%S" if s.count(":") >= 3 else "%Y-%m-%dT%H:%M"
+            naive = datetime.strptime(m.group(1), fmt)
             offset = timedelta(hours=int(m.group(2)), minutes=int(m.group(3)))
-            utc_dt = naive - offset
-            return utc_dt.strftime("%Y-%m-%dT%H:%MZ")
+            return (naive - offset).strftime("%Y-%m-%dT%H:%MZ")
+        # Space-separated IST: 2026-07-02 08:00:00
+        m2 = re.match(r"(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2}(?::\d{2})?)", s)
+        if m2:
+            fmt = "%Y-%m-%dT%H:%M:%S" if ":" in m2.group(2)[3:] else "%Y-%m-%dT%H:%M"
+            naive = datetime.strptime(f"{m2.group(1)}T{m2.group(2)}", fmt)
+            return (naive - timedelta(hours=5, minutes=30)).strftime("%Y-%m-%dT%H:%MZ")
     except Exception:
         pass
     return str(s)
 
 
-def find_match_array(node, depth=0):
-    """Recursively find the first array of match-like dicts."""
-    if depth > 6:
-        return None
-    if isinstance(node, list) and node and isinstance(node[0], dict):
-        keys = set(node[0].keys())
-        team_keys = {"t1", "t2", "team1", "team2", "home", "away",
-                     "t1nm", "t2nm", "team_1", "team_2", "home_team", "away_team"}
-        if keys & team_keys:
-            return node
-    if isinstance(node, dict):
-        for v in node.values():
-            r = find_match_array(v, depth + 1)
-            if r is not None:
-                return r
-    if isinstance(node, list):
-        for item in node:
-            r = find_match_array(item, depth + 1)
-            if r is not None:
-                return r
-    return None
-
-
 def transform_match(item):
-    team1 = pick(item,
-                 "t1nm", "team1_name", "home_team_name", "team1", "home",
-                 "t1.name", "team_1.name", "t1.nm", "team_1.nm")
-    team2 = pick(item,
-                 "t2nm", "team2_name", "away_team_name", "team2", "away",
-                 "t2.name", "team_2.name", "t2.nm", "team_2.nm")
+    # NDTV puts teams in a 'participants' array
+    participants = item.get("participants") or []
+    team1 = participants[0].get("name") if len(participants) > 0 else None
+    team2 = participants[1].get("name") if len(participants) > 1 else None
 
-    team1_logo = pick(item, "t1img", "team1_logo", "home_logo", "t1.img", "team_1.logo") or logo_url(team1)
-    team2_logo = pick(item, "t2img", "team2_logo", "away_logo", "t2.img", "team_2.logo") or logo_url(team2)
+    # Fallback for unknown response shapes
+    if not team1:
+        team1 = item.get("t1nm") or item.get("team1_name") or item.get("home_team")
+    if not team2:
+        team2 = item.get("t2nm") or item.get("team2_name") or item.get("away_team")
 
-    league = pick(item, "srnm", "series_name", "league", "tournament",
-                  "competition", "league_name", "tournament_name", "series")
+    team1_logo = item.get("t1img") or item.get("team1_logo") or logo_url(team1)
+    team2_logo = item.get("t2img") or item.get("team2_logo") or logo_url(team2)
 
-    raw_start = pick(item, "ms", "match_start", "start_time", "start",
-                     "date", "match_date", "start_date", "datetime")
-    start = parse_start_utc(raw_start)
+    league = (item.get("series_name") or item.get("tour_name") or
+              item.get("srnm") or item.get("tournament") or "Cricket")
 
-    match_type = pick(item, "mtp", "match_type", "format", "title", "match_title") or ""
-    duration = detect_duration(league or "", match_type)
+    start = parse_start_utc(
+        item.get("start_date") or item.get("ms") or item.get("match_start") or item.get("date")
+    )
 
-    event_id = pick(item, "mid", "match_id", "event_id", "id", "gid")
+    event_fmt = (item.get("event_format") or item.get("match_type") or item.get("mtp") or "").lower()
+    duration = 5 if "test" in event_fmt else 1
+
+    event_id = item.get("match_id") or item.get("mid") or item.get("event_id") or item.get("id")
     try:
         event_id = int(event_id) if event_id is not None else None
     except (ValueError, TypeError):
@@ -163,7 +129,7 @@ def transform_match(item):
         "team2": team2 or "TBD",
         "team1_logo": team1_logo,
         "team2_logo": team2_logo,
-        "league": league or "Cricket",
+        "league": league,
         "start": start,
         "duration": duration,
         "details_url": f"https://web.getemoji.online/?yosintv={slug}",
@@ -173,44 +139,54 @@ def transform_match(item):
     }
 
 
-def extract_matches(data):
-    matches = []
+def extract_matches(data, label=""):
+    """Extract raw match list from a single-gamestate NDTV response."""
+    if isinstance(data, dict) and "matches" in data:
+        return data["matches"] or []
     if isinstance(data, list):
-        items = data
-    else:
-        items = find_match_array(data) or []
-    for item in items:
-        try:
-            matches.append(transform_match(item))
-        except Exception as e:
-            print(f"  Warning: skipping item — {e}", file=sys.stderr)
-    return matches
+        return data
+    return []
 
 
 def main():
     out_dir = os.path.dirname(os.path.abspath(__file__))
     os.makedirs(out_dir, exist_ok=True)
 
+    cutoff = datetime.now(timezone.utc) - timedelta(days=COMPLETED_WINDOW_DAYS)
     all_matches = []
     seen_ids = set()
 
     for label, gs in GAMESTATES.items():
         try:
             data = fetch_gamestate(gs)
-            size = len(json.dumps(data))
-            top_keys = list(data.keys()) if isinstance(data, dict) else type(data).__name__
-            print(f"  [{label}] {size} chars — top keys: {top_keys}")
+            raw = extract_matches(data, label)
+            print(f"  [{label}] {len(raw)} raw matches")
 
-            matches = extract_matches(data)
-            print(f"  [{label}] → {len(matches)} matches extracted")
+            for item in raw:
+                try:
+                    m = transform_match(item)
 
-            for m in matches:
-                eid = m.get("event_id")
-                if eid is not None and eid in seen_ids:
-                    continue
-                if eid is not None:
-                    seen_ids.add(eid)
-                all_matches.append(m)
+                    # For completed matches, skip anything older than the window
+                    if label == "completed" and m["start"]:
+                        try:
+                            match_dt = datetime.strptime(m["start"], "%Y-%m-%dT%H:%MZ").replace(tzinfo=timezone.utc)
+                            if match_dt < cutoff:
+                                continue
+                        except Exception:
+                            pass
+
+                    eid = m["event_id"]
+                    if eid is not None and eid in seen_ids:
+                        continue
+                    if eid is not None:
+                        seen_ids.add(eid)
+                    all_matches.append(m)
+
+                except Exception as e:
+                    print(f"  Warning: skipping item — {e}", file=sys.stderr)
+
+            kept = sum(1 for m in all_matches if True)
+            print(f"  [{label}] → kept (running total: {len(all_matches)})")
 
         except Exception as e:
             print(f"  [{label}] FAILED: {e}", file=sys.stderr)
