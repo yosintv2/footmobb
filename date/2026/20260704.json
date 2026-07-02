@@ -676,6 +676,12 @@
                 ]
             },
             {
+                "country": "Brazil",
+                "channels": [
+                    "Xsports"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "NWSL+"
@@ -834,15 +840,6 @@
         "match_id": 5204166,
         "kickoff": 1783170000,
         "fixture": "FC Kyzylzhar Petropavlovsk vs FC Yelimay",
-        "league_id": 225,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5204154,
-        "kickoff": 1783170000,
-        "fixture": "Kairat Almaty vs Okzhetpes Kokshetau",
         "league_id": 225,
         "league": "Premier League",
         "venue": "TBA",
@@ -1117,8 +1114,17 @@
                 ]
             },
             {
+                "country": "Bosnia and Herzegovina",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 1",
+                    "Moja TV"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
+                    "Amazon Prime Video",
                     "CazeTV",
                     "CazéTV YouTube",
                     "Disney+ Premium",
@@ -1129,7 +1135,10 @@
             {
                 "country": "Bulgaria",
                 "channels": [
-                    "BNT 1"
+                    "BNT 1",
+                    "BNT 3",
+                    "BNT News App",
+                    "bnt.bg"
                 ]
             },
             {
@@ -1154,6 +1163,7 @@
             {
                 "country": "China",
                 "channels": [
+                    "CCTV Sports VIP",
                     "CCTV-5",
                     "Migu"
                 ]
@@ -1255,6 +1265,8 @@
                 "country": "Greece",
                 "channels": [
                     "ERT 1",
+                    "ERT 2",
+                    "ERT 2 HD",
                     "ERT FLIX"
                 ]
             },
@@ -1324,6 +1336,7 @@
                 "country": "Israel",
                 "channels": [
                     "KAN 11",
+                    "KAN 11 HD",
                     "Sport 1"
                 ]
             },
@@ -1518,6 +1531,7 @@
                 "country": "Romania",
                 "channels": [
                     "Antena 1",
+                    "Antena 1 HD",
                     "Antena Play"
                 ]
             },
@@ -1770,6 +1784,7 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Amazon Prime Video",
                     "CazeTV",
                     "CazéTV YouTube",
                     "Disney+ Premium",
@@ -1993,7 +2008,8 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "DAZN Italia"
+                    "DAZN Italia",
+                    "Rai 1"
                 ]
             },
             {
@@ -2445,6 +2461,7 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Amazon Prime Video",
                     "CazeTV",
                     "CazéTV YouTube",
                     "Disney+ Premium"
@@ -3289,7 +3306,8 @@
                     "BBC One",
                     "ITV",
                     "RTÉ Player",
-                    "RTÉ2"
+                    "RTÉ2",
+                    "RTÉ2 +1"
                 ]
             },
             {
@@ -3659,7 +3677,9 @@
                     "DIRECTV 4K",
                     "DSports",
                     "Paramount+",
-                    "TeleCentro 4K"
+                    "TeleCentro 4K",
+                    "TyC Sports",
+                    "TyC Sports Play"
                 ]
             },
             {
@@ -3762,11 +3782,15 @@
                 "country": "Colombia",
                 "channels": [
                     "Amazon Prime Video",
+                    "Canal RCN App",
+                    "Caracol TV",
                     "DAZN",
                     "DGO",
                     "DIRECTV 4K",
                     "DSports",
-                    "Paramount+"
+                    "Paramount+",
+                    "RCN TV",
+                    "ditu"
                 ]
             },
             {
@@ -3899,9 +3923,11 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "BBC One",
+                    "ITV",
                     "RTÉ Player",
                     "RTÉ2",
-                    "To be confirmed"
+                    "RTÉ2 +1"
                 ]
             },
             {
@@ -4213,7 +4239,8 @@
                     "FOX Sports 4K",
                     "Fubo Sports",
                     "Peacock ES",
-                    "Telemundo"
+                    "Telemundo",
+                    "Telemundo 4K"
                 ]
             },
             {
@@ -5941,6 +5968,24 @@
         "league_id": 248,
         "league": "Premium liiga",
         "venue": "Paide kunstmuruväljak",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009006,
+        "kickoff": 1783123200,
+        "fixture": "Independiente del Valle vs Manta",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Banco Guayaquil",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009008,
+        "kickoff": 1783191600,
+        "fixture": "Libertad vs Leones del Norte",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Federativo Reina del Cisne",
         "tv_channels": []
     },
     {

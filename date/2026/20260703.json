@@ -1,7 +1,7 @@
 [
     {
         "match_id": 5856873,
-        "kickoff": 1783008000,
+        "kickoff": 1783004400,
         "fixture": "Niroye Zamini vs Pars Jonoubi",
         "league_id": 9372,
         "league": "Azadegan League",
@@ -10,7 +10,7 @@
     },
     {
         "match_id": 5856874,
-        "kickoff": 1783008900,
+        "kickoff": 1783004400,
         "fixture": "Saipa vs Shahrdari Nowshahr",
         "league_id": 9372,
         "league": "Azadegan League",
@@ -425,6 +425,7 @@
                 "country": "Canada",
                 "channels": [
                     "RDS",
+                    "TSN+",
                     "TSN1",
                     "TSN3",
                     "TSN4"
@@ -587,12 +588,14 @@
             {
                 "country": "Hungary",
                 "channels": [
-                    "M4 Sport"
+                    "M4 Sport",
+                    "M4 Sports"
                 ]
             },
             {
                 "country": "Iceland",
                 "channels": [
+                    "RUV",
                     "RUV 2"
                 ]
             },
@@ -703,6 +706,7 @@
             {
                 "country": "Mongolia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
                     "TVCG 1"
@@ -758,6 +762,7 @@
             {
                 "country": "North Macedonia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud"
                 ]
@@ -831,6 +836,7 @@
                 "country": "Romania",
                 "channels": [
                     "Antena 1",
+                    "Antena 1 HD",
                     "Antena Play"
                 ]
             },
@@ -850,6 +856,7 @@
             {
                 "country": "Serbia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
                     "RTS 1"
@@ -931,6 +938,7 @@
                 "country": "Türkiye",
                 "channels": [
                     "Digiturk",
+                    "Digiturk Play",
                     "TRT 1",
                     "tabii"
                 ]
@@ -1088,6 +1096,14 @@
                 ]
             },
             {
+                "country": "Bosnia and Herzegovina",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 1",
+                    "Moja TV"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
                     "Amazon Prime Video",
@@ -1099,7 +1115,10 @@
             {
                 "country": "Bulgaria",
                 "channels": [
-                    "BNT 1"
+                    "BNT 1",
+                    "BNT 3",
+                    "BNT News App",
+                    "bnt.bg"
                 ]
             },
             {
@@ -1107,6 +1126,7 @@
                 "channels": [
                     "CTV",
                     "RDS",
+                    "TSN+",
                     "TSN1",
                     "TSN3",
                     "TSN4"
@@ -1233,6 +1253,8 @@
                 "country": "Greece",
                 "channels": [
                     "ERT 1",
+                    "ERT 2",
+                    "ERT 2 HD",
                     "ERT FLIX"
                 ]
             },
@@ -1246,6 +1268,8 @@
             {
                 "country": "Honduras",
                 "channels": [
+                    "Canal 5 El Líder",
+                    "DTVC+",
                     "Tigo Sports",
                     "Tigo Sports App"
                 ]
@@ -1298,6 +1322,7 @@
                 "country": "Israel",
                 "channels": [
                     "KAN 11",
+                    "KAN 11 HD",
                     "Sport 1"
                 ]
             },
@@ -1496,6 +1521,7 @@
                 "country": "Romania",
                 "channels": [
                     "Antena 1",
+                    "Antena 1 HD",
                     "Antena Play"
                 ]
             },
@@ -1705,9 +1731,20 @@
                 ]
             },
             {
+                "country": "Bosnia and Herzegovina",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 1",
+                    "Moja TV"
+                ]
+            },
+            {
                 "country": "Bulgaria",
                 "channels": [
-                    "BNT 1"
+                    "BNT 1",
+                    "BNT 3",
+                    "BNT News App",
+                    "bnt.bg"
                 ]
             },
             {
@@ -1715,6 +1752,7 @@
                 "channels": [
                     "CTV",
                     "RDS",
+                    "TSN+",
                     "TSN1",
                     "TSN3",
                     "TSN4"
@@ -1788,7 +1826,9 @@
             {
                 "country": "Greece",
                 "channels": [
+                    "ERT",
                     "ERT 1",
+                    "ERT 1 HD",
                     "ERT FLIX"
                 ]
             },
@@ -1838,6 +1878,7 @@
                 "country": "Israel",
                 "channels": [
                     "KAN 11",
+                    "KAN 11 HD",
                     "Sport 1"
                 ]
             },
@@ -1970,6 +2011,7 @@
                 "country": "Romania",
                 "channels": [
                     "Antena 1",
+                    "Antena 1 HD",
                     "Antena Play"
                 ]
             },
@@ -2163,8 +2205,17 @@
                 ]
             },
             {
+                "country": "Bosnia and Herzegovina",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 1",
+                    "Moja TV"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
+                    "Amazon Prime Video",
                     "CazeTV",
                     "CazéTV YouTube",
                     "Disney+ Premium",
@@ -2175,7 +2226,10 @@
             {
                 "country": "Bulgaria",
                 "channels": [
-                    "BNT 1"
+                    "BNT 1",
+                    "BNT 3",
+                    "BNT News App",
+                    "bnt.bg"
                 ]
             },
             {
@@ -2301,6 +2355,8 @@
                 "country": "Greece",
                 "channels": [
                     "ERT 1",
+                    "ERT 2",
+                    "ERT 2 HD",
                     "ERT FLIX"
                 ]
             },
@@ -2370,6 +2426,7 @@
                 "country": "Israel",
                 "channels": [
                     "KAN 11",
+                    "KAN 11 HD",
                     "Sport 1"
                 ]
             },
@@ -2564,6 +2621,7 @@
                 "country": "Romania",
                 "channels": [
                     "Antena 1",
+                    "Antena 1 HD",
                     "Antena Play"
                 ]
             },

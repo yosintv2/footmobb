@@ -1,5 +1,363 @@
 [
     {
+        "match_id": 5225925,
+        "kickoff": 1782933300,
+        "fixture": "Haukar vs Kari",
+        "league_id": 10226,
+        "league": "2. Deild",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5872439,
+        "kickoff": 1783000800,
+        "fixture": "Spartak vs Spartak Kostroma",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5872440,
+        "kickoff": 1783004400,
+        "fixture": "Beşiktaş vs Gyirmot",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Futbalový štadión X-BIONIC",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5767129,
+        "kickoff": 1782921600,
+        "fixture": "HJK vs Ilves",
+        "league_id": 143,
+        "league": "Cup",
+        "venue": "Bolt Arena",
+        "tv_channels": [
+            {
+                "country": "Armenia",
+                "channels": [
+                    "FastTV"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3 Extra Sports Lithuania"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Antena Play"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5497966,
+        "kickoff": 1782943200,
+        "fixture": "Deportes Limache vs Coquimbo Unido",
+        "league_id": 9091,
+        "league": "Cup Grp. A",
+        "venue": "Estadio Municipal Lucio Fariña Fernández",
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "HBO MAX",
+                    "TNT Sports Premium"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5496038,
+        "kickoff": 1782943200,
+        "fixture": "Cobresal vs La Serena",
+        "league_id": 9091,
+        "league": "Cup Grp. C",
+        "venue": "Estadio El Cobre Codelco Salvador",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5496054,
+        "kickoff": 1782952200,
+        "fixture": "Universidad de Chile vs Union La Calera",
+        "league_id": 9091,
+        "league": "Cup Grp. D",
+        "venue": "Estadio Nacional Julio Martínez Prádanos",
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "HBO MAX",
+                    "TNT Sports Premium"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5496077,
+        "kickoff": 1782932400,
+        "fixture": "Universidad de Concepcion vs Ñublense",
+        "league_id": 9091,
+        "league": "Cup Grp. F",
+        "venue": "Estadio Municipal Federico Schwager",
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "HBO MAX",
+                    "TNT Sports"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5127873,
+        "kickoff": 1782925200,
+        "fixture": "Eskilsminne IF vs Kristianstad FC",
+        "league_id": 169,
+        "league": "Ettan Soedra",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5204154,
+        "kickoff": 1783000800,
+        "fixture": "Kairat Almaty vs Okzhetpes Kokshetau",
+        "league_id": 225,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5344657,
+        "kickoff": 1782925200,
+        "fixture": "Denmark U19 vs Spain U19",
+        "league_id": 287,
+        "league": "EURO U19 Grp. A",
+        "venue": "Central Park",
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball PPV",
+                    "Sportdigital Fussball",
+                    "Sportdigital+ App",
+                    "Sportdigital.de"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "UEFA TV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Canal 11"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "RTVE Play",
+                    "Teledeporte"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Blue Sport",
+                    "OneFootball PPV",
+                    "Sportdigital Fussball",
+                    "Sunrise TV",
+                    "TDP"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5344658,
+        "kickoff": 1782932400,
+        "fixture": "Wales U19 vs Germany U19",
+        "league_id": 287,
+        "league": "EURO U19 Grp. A",
+        "venue": "STōK Cae Ras",
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "DAZN",
+                    "DFB TV",
+                    "OneFootball PPV",
+                    "RTL Sport YouTube",
+                    "Sportdigital Fussball",
+                    "Sportdigital+ App",
+                    "Sportdigital.de"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC iPlayer",
+                    "S4C Online",
+                    "UEFA TV"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Blue Sport",
+                    "DAZN",
+                    "OneFootball PPV",
+                    "Sportdigital Fussball",
+                    "Sunrise TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC iPlayer",
+                    "S4C Clic"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5344663,
+        "kickoff": 1782997200,
+        "fixture": "Croatia U19 vs Italy U19",
+        "league_id": 287,
+        "league": "EURO U19 Grp. B",
+        "venue": "The Oval",
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball PPV",
+                    "Sportdigital Fussball",
+                    "Sportdigital+ App",
+                    "Sportdigital.de"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "la chaine L'Équipe"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "UEFA TV"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "TOD",
+                    "beIN Sports English 2"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "channels": [
+                    "TOD",
+                    "beIN Sports English 2"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Canal 11"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Blue Sport",
+                    "OneFootball PPV",
+                    "Sportdigital Fussball",
+                    "Sunrise TV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5344664,
+        "kickoff": 1783011600,
+        "fixture": "Serbia U19 vs Ukraine U19",
+        "league_id": 287,
+        "league": "EURO U19 Grp. B",
+        "venue": "Nantporth Stadium",
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball PPV",
+                    "Sportdigital Fussball",
+                    "Sportdigital+ App",
+                    "Sportdigital.de"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "UEFA TV"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV",
+                    "Sportdigital Fussball"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 4653714,
         "kickoff": 1782921600,
         "fixture": "England vs DR Congo",
@@ -2021,6 +2379,7 @@
                 "country": "Canada",
                 "channels": [
                     "RDS",
+                    "TSN+",
                     "TSN1",
                     "TSN3",
                     "TSN4"
@@ -2183,12 +2542,14 @@
             {
                 "country": "Hungary",
                 "channels": [
-                    "M4 Sport"
+                    "M4 Sport",
+                    "M4 Sports"
                 ]
             },
             {
                 "country": "Iceland",
                 "channels": [
+                    "RUV",
                     "RUV 2"
                 ]
             },
@@ -2299,6 +2660,7 @@
             {
                 "country": "Mongolia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
                     "TVCG 1"
@@ -2354,6 +2716,7 @@
             {
                 "country": "North Macedonia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud"
                 ]
@@ -2427,6 +2790,7 @@
                 "country": "Romania",
                 "channels": [
                     "Antena 1",
+                    "Antena 1 HD",
                     "Antena Play"
                 ]
             },
@@ -2446,6 +2810,7 @@
             {
                 "country": "Serbia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
                     "RTS 1"
@@ -2527,6 +2892,7 @@
                 "country": "Türkiye",
                 "channels": [
                     "Digiturk",
+                    "Digiturk Play",
                     "TRT 1",
                     "tabii"
                 ]
@@ -2587,142 +2953,6 @@
         ]
     },
     {
-        "match_id": 5225925,
-        "kickoff": 1782933300,
-        "fixture": "Haukar vs Kari",
-        "league_id": 10226,
-        "league": "2. Deild",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5872439,
-        "kickoff": 1783000800,
-        "fixture": "Spartak vs Spartak Kostroma",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5872440,
-        "kickoff": 1783004400,
-        "fixture": "Beşiktaş vs Gyirmot",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "Futbalový štadión X-BIONIC",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5767129,
-        "kickoff": 1782921600,
-        "fixture": "HJK vs Ilves",
-        "league_id": 143,
-        "league": "Cup",
-        "venue": "Bolt Arena",
-        "tv_channels": [
-            {
-                "country": "Armenia",
-                "channels": [
-                    "FastTV"
-                ]
-            },
-            {
-                "country": "China",
-                "channels": [
-                    "Migu"
-                ]
-            },
-            {
-                "country": "Lao People's Democratic Republic",
-                "channels": [
-                    "Go3 Extra Sports Latvia"
-                ]
-            },
-            {
-                "country": "Liechtenstein",
-                "channels": [
-                    "Go3 Extra Sports Lithuania"
-                ]
-            },
-            {
-                "country": "Romania",
-                "channels": [
-                    "Antena Play"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5497966,
-        "kickoff": 1782943200,
-        "fixture": "Deportes Limache vs Coquimbo Unido",
-        "league_id": 9091,
-        "league": "Cup Grp. A",
-        "venue": "Estadio Municipal Lucio Fariña Fernández",
-        "tv_channels": [
-            {
-                "country": "Chile",
-                "channels": [
-                    "HBO MAX",
-                    "TNT Sports Premium"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5496038,
-        "kickoff": 1782943200,
-        "fixture": "Cobresal vs La Serena",
-        "league_id": 9091,
-        "league": "Cup Grp. C",
-        "venue": "Estadio El Cobre Codelco Salvador",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5496054,
-        "kickoff": 1782952200,
-        "fixture": "Universidad de Chile vs Union La Calera",
-        "league_id": 9091,
-        "league": "Cup Grp. D",
-        "venue": "Estadio Nacional Julio Martínez Prádanos",
-        "tv_channels": [
-            {
-                "country": "Chile",
-                "channels": [
-                    "HBO MAX",
-                    "TNT Sports Premium"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5496077,
-        "kickoff": 1782932400,
-        "fixture": "Universidad de Concepcion vs Ñublense",
-        "league_id": 9091,
-        "league": "Cup Grp. F",
-        "venue": "Estadio Municipal Federico Schwager",
-        "tv_channels": [
-            {
-                "country": "Chile",
-                "channels": [
-                    "HBO MAX",
-                    "TNT Sports"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5127873,
-        "kickoff": 1782925200,
-        "fixture": "Eskilsminne IF vs Kristianstad FC",
-        "league_id": 169,
-        "league": "Ettan Soedra",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5215458,
         "kickoff": 1782927000,
         "fixture": "Slavia Mozyr vs Maxline Vitebsk",
@@ -2748,219 +2978,6 @@
         "league": "Premier League",
         "venue": "FC Minsk Stadium",
         "tv_channels": []
-    },
-    {
-        "match_id": 5344657,
-        "kickoff": 1782925200,
-        "fixture": "Denmark U19 vs Spain U19",
-        "league_id": 287,
-        "league": "EURO U19 Grp. A",
-        "venue": "Central Park",
-        "tv_channels": [
-            {
-                "country": "Austria",
-                "channels": [
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "UEFA TV"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "Canal 11"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "RTVE Play",
-                    "Teledeporte"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "Blue Sport",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sunrise TV",
-                    "TDP"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5344658,
-        "kickoff": 1782932400,
-        "fixture": "Wales U19 vs Germany U19",
-        "league_id": 287,
-        "league": "EURO U19 Grp. A",
-        "venue": "STōK Cae Ras",
-        "tv_channels": [
-            {
-                "country": "Austria",
-                "channels": [
-                    "DAZN",
-                    "DFB TV",
-                    "OneFootball PPV",
-                    "RTL Sport YouTube",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "BBC iPlayer",
-                    "S4C Online",
-                    "UEFA TV"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "Blue Sport",
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sunrise TV"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "BBC iPlayer",
-                    "S4C Clic"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5344663,
-        "kickoff": 1782997200,
-        "fixture": "Croatia U19 vs Italy U19",
-        "league_id": 287,
-        "league": "EURO U19 Grp. B",
-        "venue": "The Oval",
-        "tv_channels": [
-            {
-                "country": "Austria",
-                "channels": [
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "France",
-                "channels": [
-                    "la chaine L'Équipe"
-                ]
-            },
-            {
-                "country": "Germany",
-                "channels": [
-                    "Sportdigital FUSSBALL",
-                    "Sportdigital+"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "UEFA TV"
-                ]
-            },
-            {
-                "country": "Montenegro",
-                "channels": [
-                    "TOD",
-                    "beIN Sports English 2"
-                ]
-            },
-            {
-                "country": "Morocco",
-                "channels": [
-                    "TOD",
-                    "beIN Sports English 2"
-                ]
-            },
-            {
-                "country": "Norway",
-                "channels": [
-                    "VG TV"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "Canal 11"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "Blue Sport",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sunrise TV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5344664,
-        "kickoff": 1783011600,
-        "fixture": "Serbia U19 vs Ukraine U19",
-        "league_id": 287,
-        "league": "EURO U19 Grp. B",
-        "venue": "Nantporth Stadium",
-        "tv_channels": [
-            {
-                "country": "Austria",
-                "channels": [
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Germany",
-                "channels": [
-                    "Sportdigital FUSSBALL",
-                    "Sportdigital+"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "UEFA TV"
-                ]
-            },
-            {
-                "country": "Norway",
-                "channels": [
-                    "VG TV"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "OneFootball PPV",
-                    "Sportdigital Fussball"
-                ]
-            }
-        ]
     },
     {
         "match_id": 1000008670,
@@ -3233,7 +3250,7 @@
     },
     {
         "match_id": 5856873,
-        "kickoff": 1783008000,
+        "kickoff": 1783004400,
         "fixture": "Niroye Zamini vs Pars Jonoubi",
         "league_id": 9372,
         "league": "Azadegan League",
@@ -3242,7 +3259,7 @@
     },
     {
         "match_id": 5856874,
-        "kickoff": 1783008900,
+        "kickoff": 1783004400,
         "fixture": "Saipa vs Shahrdari Nowshahr",
         "league_id": 9372,
         "league": "Azadegan League",

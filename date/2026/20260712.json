@@ -203,7 +203,7 @@
         "fixture": "Deportes Copiapo vs Everton CD",
         "league_id": 9091,
         "league": "Cup Grp. B",
-        "venue": "TBA",
+        "venue": "Estadio Luis Valenzuela Hermosilla",
         "tv_channels": []
     },
     {
@@ -212,7 +212,7 @@
         "fixture": "San Luis vs Universidad Catolica",
         "league_id": 9091,
         "league": "Cup Grp. B",
-        "venue": "TBA",
+        "venue": "Estadio Municipal Lucio Fariña Fernández",
         "tv_channels": []
     },
     {
@@ -221,7 +221,7 @@
         "fixture": "Magallanes vs Audax Italiano",
         "league_id": 9091,
         "league": "Cup Grp. G",
-        "venue": "TBA",
+        "venue": "Estadio Municipal Luis Navarro Avilés",
         "tv_channels": []
     },
     {
@@ -230,7 +230,7 @@
         "fixture": "Palestino vs Deportes Santa Cruz",
         "league_id": 9091,
         "league": "Cup Grp. G",
-        "venue": "TBA",
+        "venue": "Estadio Municipal de La Cisterna",
         "tv_channels": []
     },
     {
@@ -677,7 +677,15 @@
         "league_id": 10654,
         "league": "USL Cup Grp. 5",
         "venue": "Centreville Bank Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5201619,
@@ -1576,62 +1584,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000009009,
-        "kickoff": 1783814400,
-        "fixture": "Emelec vs Barcelona SC",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "Estadio George Capwell Banco del Austro",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000009010,
-        "kickoff": 1783814400,
-        "fixture": "Leones del Norte vs Universidad Catolica",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "Estadio Olímpico de Ibarra",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000009011,
-        "kickoff": 1783814400,
-        "fixture": "Deportivo Cuenca vs Aucas",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "Estadio Alejandro Serrano Aguilar Banco del Austro",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000009012,
-        "kickoff": 1783814400,
-        "fixture": "Mushuc Runa vs Independiente del Valle",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "Estadio Mushuc Runa Cooperativa de Ahorro y Crédito",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000009013,
-        "kickoff": 1783814400,
-        "fixture": "Tecnico Universitario vs CSD Macara",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "Estadio Bellavista Universidad Indoamérica",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000009014,
-        "kickoff": 1783814400,
-        "fixture": "Guayaquil City vs Delfin",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "Estadio Christian Benítez Betancourt",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000009015,
-        "kickoff": 1783814400,
+        "kickoff": 1783789200,
         "fixture": "Manta vs Orense",
         "league_id": 246,
         "league": "Serie A",
@@ -1639,12 +1593,39 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000009012,
+        "kickoff": 1783797000,
+        "fixture": "Mushuc Runa vs Independiente del Valle",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Mushuc Runa Cooperativa de Ahorro y Crédito",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009014,
+        "kickoff": 1783810800,
+        "fixture": "Guayaquil City vs Delfin",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Christian Benítez Betancourt",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000009016,
-        "kickoff": 1783814400,
+        "kickoff": 1783875600,
         "fixture": "LDU de Quito vs Libertad",
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio Rodrigo Paz Delgado",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009011,
+        "kickoff": 1783883700,
+        "fixture": "Deportivo Cuenca vs Aucas",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Alejandro Serrano Aguilar Banco del Austro",
         "tv_channels": []
     },
     {
@@ -1743,7 +1724,7 @@
         "fixture": "Antofagasta vs Cobresal",
         "league_id": 9091,
         "league": "Cup Grp. C",
-        "venue": "TBA",
+        "venue": "Estadio Municipal Rolando Cortés Dubo",
         "tv_channels": []
     },
     {
@@ -1752,7 +1733,7 @@
         "fixture": "Cobreloa vs La Serena",
         "league_id": 9091,
         "league": "Cup Grp. C",
-        "venue": "TBA",
+        "venue": "Estadio Zorros del Desierto",
         "tv_channels": []
     },
     {
@@ -1978,6 +1959,132 @@
         "league_id": 11697,
         "league": "Copa de la Liga",
         "venue": "Estadio Municipal Francisco Sánchez Rumoroso",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016551,
+        "kickoff": 1783881000,
+        "fixture": "Sao Luiz vs Velo Clube",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio 19 de Outubro",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016589,
+        "kickoff": 1783882800,
+        "fixture": "Manauara vs Goiatuba SC",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Ismael Benigno",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016597,
+        "kickoff": 1783882800,
+        "fixture": "Portuguesa RJ vs EC Sao Jose",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Luso-Brasileiro",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016599,
+        "kickoff": 1783882800,
+        "fixture": "Uberlandia vs Serra Branca",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Municipal João Havelange",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016601,
+        "kickoff": 1783882800,
+        "fixture": "Portuguesa vs Marcilio Dias",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Dr. Oswaldo Teixeira Duarte",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016605,
+        "kickoff": 1783882800,
+        "fixture": "Gama vs Porto Velho EC",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016547,
+        "kickoff": 1783882800,
+        "fixture": "Iguatu vs Maguary",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Municipal João Elmo Moreno Cavalcante",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016587,
+        "kickoff": 1783882800,
+        "fixture": "ABC vs Aguia de Maraba",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Arena das Dunas",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016591,
+        "kickoff": 1783886400,
+        "fixture": "Ferroviario vs Imperatriz",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Municipal Presidente Getúlio Vargas",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016593,
+        "kickoff": 1783886400,
+        "fixture": "Capital FC vs Nacional AM",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Juscelino Kubitschek",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016595,
+        "kickoff": 1783886400,
+        "fixture": "Treze vs CRAC",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Governador Ernani Sátyro",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016603,
+        "kickoff": 1783886400,
+        "fixture": "XV de Piracicaba vs Cianorte",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Barão de Serra Negra",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016620,
+        "kickoff": 1783886400,
+        "fixture": "ASA vs Ivinhema",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Municipal Coaracy da Mata Fonseca",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016607,
+        "kickoff": 1783890000,
+        "fixture": "Guapore vs Luverdense",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "Estádio Municipal José Ângelo Cassol",
         "tv_channels": []
     }
 ]

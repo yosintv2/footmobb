@@ -118,7 +118,7 @@
         "fixture": "Universidad de Concepcion vs Rangers",
         "league_id": 9091,
         "league": "Cup Grp. F",
-        "venue": "Estadio Municipal Alcaldesa Ester Roa Rebolledo",
+        "venue": "Estadio Municipal Federico Schwager",
         "tv_channels": []
     },
     {
@@ -571,7 +571,9 @@
                     "DIRECTV 4K",
                     "DSports",
                     "Paramount+",
-                    "TeleCentro 4K"
+                    "TeleCentro 4K",
+                    "TyC Sports",
+                    "TyC Sports Play"
                 ]
             },
             {
@@ -673,11 +675,15 @@
                 "country": "Colombia",
                 "channels": [
                     "Amazon Prime Video",
+                    "Canal RCN App",
+                    "Caracol TV",
                     "DAZN",
                     "DGO",
                     "DIRECTV 4K",
                     "DSports",
-                    "Paramount+"
+                    "Paramount+",
+                    "RCN TV",
+                    "ditu"
                 ]
             },
             {
@@ -815,9 +821,11 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "BBC One",
+                    "ITV",
                     "RTÉ Player",
                     "RTÉ2",
-                    "To be confirmed"
+                    "RTÉ2 +1"
                 ]
             },
             {
@@ -1441,8 +1449,10 @@
                 "channels": [
                     "BBC One",
                     "BBC Sport",
+                    "ITV",
                     "RTÉ Player",
-                    "RTÉ2"
+                    "RTÉ2",
+                    "RTÉ2 +1"
                 ]
             },
             {
@@ -1761,7 +1771,8 @@
                     "FOX Sports 4K",
                     "Fubo Sports",
                     "Peacock ES",
-                    "Telemundo"
+                    "Telemundo",
+                    "Telemundo 4K"
                 ]
             },
             {
@@ -4268,12 +4279,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000008065,
-        "kickoff": 1783285200,
-        "fixture": "Connecticut United vs Carolina Core FC",
+        "match_id": 1000007631,
+        "kickoff": 1783263600,
+        "fixture": "New England Revolution II vs Philadelphia Union II",
         "league_id": 10282,
         "league": "MLS Next Pro",
-        "venue": "Reese Stadium",
+        "venue": "Beirne Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000007627,
+        "kickoff": 1783288800,
+        "fixture": "FC Cincinnati 2 vs Red Bull New York  II",
+        "league_id": 10282,
+        "league": "MLS Next Pro",
+        "venue": "Northern Kentucky University Stadium",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -4434,12 +4454,12 @@
         ]
     },
     {
-        "match_id": 1000007627,
+        "match_id": 1000008065,
         "kickoff": 1783288800,
-        "fixture": "FC Cincinnati 2 vs Red Bull New York  II",
+        "fixture": "Connecticut United vs Carolina Core FC",
         "league_id": 10282,
         "league": "MLS Next Pro",
-        "venue": "Northern Kentucky University Stadium",
+        "venue": "Reese Stadium",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -4930,15 +4950,6 @@
                 ]
             }
         ]
-    },
-    {
-        "match_id": 1000007631,
-        "kickoff": 1783292400,
-        "fixture": "New England Revolution II vs Philadelphia Union II",
-        "league_id": 10282,
-        "league": "MLS Next Pro",
-        "venue": "Beirne Stadium",
-        "tv_channels": []
     },
     {
         "match_id": 1000007632,
@@ -5683,8 +5694,26 @@
         "tv_channels": []
     },
     {
-        "match_id": 5190596,
+        "match_id": 1000009003,
+        "kickoff": 1783274400,
+        "fixture": "CSD Macara vs LDU de Quito",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Bellavista Universidad Indoamérica",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009001,
         "kickoff": 1783288800,
+        "fixture": "Delfin vs Emelec",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Jocay",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5190596,
+        "kickoff": 1783294200,
         "fixture": "Nautico vs Juventude",
         "league_id": 8814,
         "league": "Serie B",
