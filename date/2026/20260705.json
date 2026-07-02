@@ -897,7 +897,8 @@
             {
                 "country": "United States",
                 "channels": [
-                    "Arizona's Family Sports"
+                    "Arizona's Family Sports",
+                    "CBS Sports Golazo Network"
                 ]
             }
         ]
@@ -1168,7 +1169,8 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "MagentaTV"
+                    "MagentaTV",
+                    "ZDF Livestream"
                 ]
             },
             {
@@ -1959,6 +1961,12 @@
                 ]
             },
             {
+                "country": "Netherlands",
+                "channels": [
+                    "NPO 1"
+                ]
+            },
+            {
                 "country": "New Zealand",
                 "channels": [
                     "TVNZ 1",
@@ -2093,7 +2101,10 @@
                 "channels": [
                     "BarTV Mundial",
                     "DAZN",
-                    "DAZN Mundial"
+                    "DAZN Mundial",
+                    "La 1 TVE",
+                    "La 2 Cat",
+                    "RTVE Play"
                 ]
             },
             {
@@ -2440,6 +2451,12 @@
                 ]
             },
             {
+                "country": "India",
+                "channels": [
+                    "Unite8 Sports 2"
+                ]
+            },
+            {
                 "country": "Indonesia",
                 "channels": [
                     "Fola Play",
@@ -2562,6 +2579,12 @@
                 "country": "Myanmar",
                 "channels": [
                     "TV360 by Mytel"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "NPO 1"
                 ]
             },
             {
@@ -2714,7 +2737,10 @@
                 "channels": [
                     "BarTV Mundial",
                     "DAZN",
-                    "DAZN Mundial"
+                    "DAZN Mundial",
+                    "La 1 TVE",
+                    "La 2 Cat",
+                    "RTVE Play"
                 ]
             },
             {
@@ -4604,7 +4630,7 @@
     },
     {
         "match_id": 5105191,
-        "kickoff": 1783271700,
+        "kickoff": 1783260000,
         "fixture": "Odd vs FK Haugesund",
         "league_id": 203,
         "league": "1. Divisjon",
@@ -4613,8 +4639,7 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV 2 Play (NO)",
-                    "TV 2 Sport 1"
+                    "TV 2 Play (NO)"
                 ]
             }
         ]
@@ -8841,6 +8866,13 @@
                 "channels": [
                     "OneSoccer"
                 ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Sports 2",
+                    "Fubo Sports"
+                ]
             }
         ]
     },
@@ -8856,6 +8888,12 @@
                 "country": "Canada",
                 "channels": [
                     "OneSoccer"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fubo Sports"
                 ]
             }
         ]
@@ -8919,21 +8957,8 @@
         "fixture": "Aucas vs Guayaquil City",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "Zapping Sports + Plus"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "Zapping Internacional"
-                ]
-            }
-        ]
+        "venue": "Estadio Cooprogreso Gonzalo Pozo Ripalda",
+        "tv_channels": []
     },
     {
         "match_id": 1000009003,
@@ -8941,21 +8966,8 @@
         "fixture": "CSD Macara vs LDU de Quito",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "Zapping Sports + Plus"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "Zapping Internacional"
-                ]
-            }
-        ]
+        "venue": "Estadio Bellavista Universidad Indoamérica",
+        "tv_channels": []
     },
     {
         "match_id": 1000009004,
@@ -8963,21 +8975,8 @@
         "fixture": "Orense vs Tecnico Universitario",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "Zapping Sports + Plus"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "Zapping Internacional"
-                ]
-            }
-        ]
+        "venue": "Estadio 9 de Mayo Banco de Machala",
+        "tv_channels": []
     },
     {
         "match_id": 1000009005,
@@ -8985,21 +8984,8 @@
         "fixture": "Universidad Catolica vs Mushuc Runa",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "Zapping Sports + Plus"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "Zapping Internacional"
-                ]
-            }
-        ]
+        "venue": "Estadio Olímpico Atahualpa",
+        "tv_channels": []
     },
     {
         "match_id": 1000009006,
@@ -9007,21 +8993,8 @@
         "fixture": "Independiente del Valle vs Manta",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "Zapping Sports + Plus"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "Zapping Internacional"
-                ]
-            }
-        ]
+        "venue": "Estadio Banco Guayaquil",
+        "tv_channels": []
     },
     {
         "match_id": 1000009007,
@@ -9029,7 +9002,7 @@
         "fixture": "Barcelona SC vs Deportivo Cuenca",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio Monumental Banco Pichincha",
         "tv_channels": [
             {
                 "country": "Ecuador",
@@ -9051,21 +9024,8 @@
         "fixture": "Libertad vs Leones del Norte",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "Zapping Sports + Plus"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "Zapping Internacional"
-                ]
-            }
-        ]
+        "venue": "Estadio Federativo Reina del Cisne",
+        "tv_channels": []
     },
     {
         "match_id": 5190590,
@@ -9765,6 +9725,15 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 5874458,
+        "kickoff": 1783266300,
+        "fixture": "FA Siauliai vs Zalgiris Vilnius",
+        "league_id": 228,
+        "league": "A Lyga",
+        "venue": "TBA",
+        "tv_channels": []
     },
     {
         "match_id": 5496040,

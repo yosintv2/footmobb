@@ -321,7 +321,16 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "Heart Health Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "NESN Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000011237,
@@ -348,7 +357,14 @@
         "league_id": 9837,
         "league": "Canadian Championship",
         "venue": "The Stadium at Langley Events Centre",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000011230,
@@ -357,7 +373,15 @@
         "league_id": 9837,
         "league": "Canadian Championship",
         "venue": "Swangard Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Sports 2",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000013920,
@@ -393,7 +417,14 @@
         "league_id": 8814,
         "league": "Serie B",
         "venue": "Estádio Moisés Lucarelli",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109453,
@@ -501,6 +532,13 @@
         "venue": "Boston Stadium",
         "tv_channels": [
             {
+                "country": "Finland",
+                "channels": [
+                    "Yle Areena",
+                    "Yle TV2"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "MagentaTV"
@@ -520,9 +558,27 @@
                 ]
             },
             {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Ej fastställd (SE)"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
-                    "FOX Sports"
+                    "FOX",
+                    "FOX One",
+                    "FOX Sports",
+                    "FOX Sports 4K",
+                    "Fubo Sports",
+                    "Peacock ES",
+                    "Telemundo"
                 ]
             }
         ]

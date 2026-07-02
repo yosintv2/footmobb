@@ -610,10 +610,22 @@
         "venue": "Los Angeles Stadium",
         "tv_channels": [
             {
+                "country": "Germany",
+                "channels": [
+                    "MagentaTV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "RTÉ Player",
                     "RTÉ2"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -627,7 +639,7 @@
     {
         "match_id": 4653852,
         "kickoff": 1783803600,
-        "fixture": "Brazil/Norway vs Winner EF 4",
+        "fixture": "Brazil/Norway vs Mexico/England",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Miami Stadium",
@@ -1266,6 +1278,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5874487,
+        "kickoff": 1783785600,
+        "fixture": "FK Kauno Zalgiris vs FK Panevezys",
+        "league_id": 228,
+        "league": "A Lyga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5856882,
         "kickoff": 1783785600,
         "fixture": "Ario Islamshahr vs Shenavarsazi Qeshm",
@@ -1343,6 +1364,24 @@
         "fixture": "Shahrdari Nowshahr vs Niroye Zamini",
         "league_id": 9372,
         "league": "Azadegan League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5874852,
+        "kickoff": 1783796400,
+        "fixture": "Magallanes vs Audax Italiano",
+        "league_id": 9091,
+        "league": "Cup Grp. G",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5874853,
+        "kickoff": 1783796400,
+        "fixture": "Palestino vs Deportes Santa Cruz",
+        "league_id": 9091,
+        "league": "Cup Grp. G",
         "venue": "TBA",
         "tv_channels": []
     },
