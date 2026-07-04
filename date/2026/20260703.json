@@ -935,14 +935,7 @@
         "league_id": 120,
         "league": "Super League",
         "venue": "Yuxi Plateau Sports Center Stadium",
-        "tv_channels": [
-            {
-                "country": "China",
-                "channels": [
-                    "Migu"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5344664,
@@ -1264,44 +1257,13 @@
         "tv_channels": []
     },
     {
-        "match_id": 5136383,
-        "kickoff": 1783101600,
-        "fixture": "NSI Runavik vs Klaksvik",
-        "league_id": 250,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Armenia",
-                "channels": [
-                    "FastTV"
-                ]
-            },
-            {
-                "country": "China",
-                "channels": [
-                    "Migu"
-                ]
-            },
-            {
-                "country": "Lao People's Democratic Republic",
-                "channels": [
-                    "Go3 Extra Sports Latvia"
-                ]
-            },
-            {
-                "country": "Liechtenstein",
-                "channels": [
-                    "Go3 Extra Sports Lithuania"
-                ]
-            },
-            {
-                "country": "Romania",
-                "channels": [
-                    "Antena Play"
-                ]
-            }
-        ]
+        "match_id": 5107522,
+        "kickoff": 1783098000,
+        "fixture": "Sirius vs Mjällby",
+        "league_id": 67,
+        "league": "Allsvenskan",
+        "venue": "Studenternas IP",
+        "tv_channels": []
     },
     {
         "match_id": 5101229,
@@ -1366,33 +1328,6 @@
                 ]
             }
         ]
-    },
-    {
-        "match_id": 5163717,
-        "kickoff": 1783092600,
-        "fixture": "FC KTP vs JIPPO",
-        "league_id": 251,
-        "league": "Ykkosliiga",
-        "venue": "Arto Tolsa Areena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5163716,
-        "kickoff": 1783092600,
-        "fixture": "JäPS vs SJK Akatemia",
-        "league_id": 251,
-        "league": "Ykkosliiga",
-        "venue": "Järvenpään keskusurheilukenttä",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5107522,
-        "kickoff": 1783098000,
-        "fixture": "Sirius vs Mjällby",
-        "league_id": 67,
-        "league": "Allsvenskan",
-        "venue": "Studenternas IP",
-        "tv_channels": []
     },
     {
         "match_id": 5100926,
@@ -1483,6 +1418,64 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 5136383,
+        "kickoff": 1783101600,
+        "fixture": "NSI Runavik vs Klaksvik",
+        "league_id": 250,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Armenia",
+                "channels": [
+                    "FastTV"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3 Extra Sports Lithuania"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Antena Play"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5163717,
+        "kickoff": 1783092600,
+        "fixture": "FC KTP vs JIPPO",
+        "league_id": 251,
+        "league": "Ykkosliiga",
+        "venue": "Arto Tolsa Areena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5163716,
+        "kickoff": 1783092600,
+        "fixture": "JäPS vs SJK Akatemia",
+        "league_id": 251,
+        "league": "Ykkosliiga",
+        "venue": "Järvenpään keskusurheilukenttä",
+        "tv_channels": []
     },
     {
         "match_id": 5162022,
