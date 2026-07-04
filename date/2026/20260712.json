@@ -171,15 +171,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5847091,
-        "kickoff": 1783789200,
-        "fixture": "VfB Stuttgart vs Everton",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5769429,
         "kickoff": 1783861200,
         "fixture": "Rapid Wien vs SPG HOGO Wels",
@@ -612,7 +603,17 @@
         "league_id": 10654,
         "league": "USL Cup Grp. 1",
         "venue": "Merritt College Soccer Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "FOX",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5201592,
@@ -702,7 +703,15 @@
         "league_id": 10654,
         "league": "USL Cup Grp. 4",
         "venue": "Ruoff Mortgage Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5201607,
@@ -729,7 +738,17 @@
         "league_id": 10654,
         "league": "USL Cup Grp. 5",
         "venue": "Trinity Health Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "MSG Sportsnet",
+                    "WWAX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5201634,
@@ -752,7 +771,8 @@
                 "country": "United States",
                 "channels": [
                     "ESPN Select",
-                    "ESPN Unlimited"
+                    "ESPN Unlimited",
+                    "MyNetworkTV"
                 ]
             }
         ]
@@ -764,7 +784,16 @@
         "league_id": 10654,
         "league": "USL Cup Grp. 6",
         "venue": "F.N.B. Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "KDKA+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5201620,
@@ -773,7 +802,15 @@
         "league_id": 10654,
         "league": "USL Cup Grp. 6",
         "venue": "GE Vernova Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5201621,
@@ -782,7 +819,15 @@
         "league_id": 10654,
         "league": "USL Cup Grp. 6",
         "venue": "Patriots Point",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5201792,
@@ -791,7 +836,15 @@
         "league_id": 10654,
         "league": "USL Cup Grp. 7",
         "venue": "Premier Sports Campus",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5201800,
@@ -800,7 +853,16 @@
         "league_id": 10654,
         "league": "USL Cup Grp. 7",
         "venue": "Al Lang Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "Tampa Bay 44"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101054,
@@ -847,6 +909,13 @@
         "venue": "Miami Stadium",
         "tv_channels": [
             {
+                "country": "Finland",
+                "channels": [
+                    "Yle Areena",
+                    "Yle TV2"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "MagentaTV"
@@ -866,9 +935,27 @@
                 ]
             },
             {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Ej fastställd (SE)"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
-                    "FOX Sports"
+                    "FOX",
+                    "FOX One",
+                    "FOX Sports",
+                    "FOX Sports 4K",
+                    "Fubo Sports",
+                    "Peacock ES",
+                    "Telemundo"
                 ]
             }
         ]
@@ -876,7 +963,7 @@
     {
         "match_id": 4653854,
         "kickoff": 1783818000,
-        "fixture": "Winner EF 7 vs Winner EF 8",
+        "fixture": "Argentina/Egypt vs Winner EF 8",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Kansas City Stadium",
@@ -903,7 +990,9 @@
             {
                 "country": "United States",
                 "channels": [
-                    "FOX Sports"
+                    "FOX One",
+                    "FOX Sports",
+                    "FOX Sports 4K"
                 ]
             }
         ]
@@ -1365,7 +1454,14 @@
         "league_id": 251,
         "league": "Ykkosliiga",
         "venue": "Bolt Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5107528,
@@ -1374,7 +1470,21 @@
         "league_id": 67,
         "league": "Allsvenskan",
         "venue": "Gamla Ullevi",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Play Sport Fotboll",
+                    "TV4 Sportkanalen"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5107526,
@@ -1444,7 +1554,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "KFUM Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104941,
@@ -1453,7 +1570,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Brann Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104942,
@@ -1462,7 +1586,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Lerkendal Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104945,
@@ -1471,7 +1602,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Jotun Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104943,
@@ -1480,7 +1618,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Sarpsborg Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5100932,
@@ -1712,7 +1857,38 @@
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio Jocay",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Armenia",
+                "channels": [
+                    "FastTV"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3 Extra Sports Lithuania"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Antena Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009012,
@@ -1721,7 +1897,38 @@
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio Mushuc Runa Cooperativa de Ahorro y Crédito",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Armenia",
+                "channels": [
+                    "FastTV"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3 Extra Sports Lithuania"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Antena Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009014,
@@ -1730,7 +1937,38 @@
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio Christian Benítez Betancourt",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Armenia",
+                "channels": [
+                    "FastTV"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3 Extra Sports Lithuania"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Antena Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009016,
@@ -2152,7 +2390,7 @@
         "fixture": "Gama vs Porto Velho EC",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "TBA",
+        "venue": "Estádio Walmir Campelo Bezerra",
         "tv_channels": []
     },
     {

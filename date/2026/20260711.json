@@ -180,15 +180,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5847091,
-        "kickoff": 1783789200,
-        "fixture": "VfB Stuttgart vs Everton",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5139958,
         "kickoff": 1783765800,
         "fixture": "Gimcheon Sangmu vs Bucheon FC 1995",
@@ -528,10 +519,49 @@
         "venue": "Centreville Bank Stadium",
         "tv_channels": [
             {
+                "country": "Austria",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "NWSL+",
+                    "TNT Sports 2"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "channels": [
                     "HBO Max (UK)",
                     "TNT Sports 2"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "MyNetworkTV",
+                    "NBC Sports Boston",
+                    "NWSL+"
                 ]
             }
         ]
@@ -544,6 +574,36 @@
         "league": "NWSL",
         "venue": "Inter&Co Stadium",
         "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
             {
                 "country": "United States",
                 "channels": [
@@ -559,7 +619,44 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Lynn Family Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "NWSL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161555,
@@ -569,6 +666,38 @@
         "league": "NWSL",
         "venue": "America First Field",
         "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "HBO MAX",
+                    "NWSL+",
+                    "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "channels": [
@@ -734,6 +863,13 @@
         "venue": "Miami Stadium",
         "tv_channels": [
             {
+                "country": "Finland",
+                "channels": [
+                    "Yle Areena",
+                    "Yle TV2"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "MagentaTV"
@@ -753,9 +889,27 @@
                 ]
             },
             {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Ej fastställd (SE)"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
-                    "FOX Sports"
+                    "FOX",
+                    "FOX One",
+                    "FOX Sports",
+                    "FOX Sports 4K",
+                    "Fubo Sports",
+                    "Peacock ES",
+                    "Telemundo"
                 ]
             }
         ]
@@ -969,7 +1123,14 @@
         "league_id": 251,
         "league": "Ykkosliiga",
         "venue": "Tehtaan kenttä",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5163723,
@@ -978,7 +1139,14 @@
         "league_id": 251,
         "league": "Ykkosliiga",
         "venue": "OmaSP Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5163724,
@@ -987,7 +1155,14 @@
         "league_id": 251,
         "league": "Ykkosliiga",
         "venue": "Bolt Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5107529,
@@ -996,7 +1171,21 @@
         "league_id": 67,
         "league": "Allsvenskan",
         "venue": "Strandvallen",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Fotboll",
+                    "TV4 Play Sport Fotboll"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5107528,
@@ -1005,7 +1194,21 @@
         "league_id": 67,
         "league": "Allsvenskan",
         "venue": "Gamla Ullevi",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Play Sport Fotboll",
+                    "TV4 Sportkanalen"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104939,
@@ -1082,6 +1285,7 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "LOITV",
                     "Virgin Media Play",
                     "Virgin Media Three"
                 ]
@@ -1221,7 +1425,61 @@
         "venue": "Lemonsoft stadion",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -1239,7 +1497,97 @@
                 ]
             },
             {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -1253,7 +1601,14 @@
         "league_id": 51,
         "league": "Veikkausliiga",
         "venue": "Toolpoint Areena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5147595,
@@ -1262,7 +1617,14 @@
         "league_id": 51,
         "league": "Veikkausliiga",
         "venue": "Markku.fi Areena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5147596,
@@ -1271,7 +1633,14 @@
         "league_id": 51,
         "league": "Veikkausliiga",
         "venue": "Veritas Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007914,
@@ -1347,7 +1716,38 @@
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio Bellavista Universidad Indoamérica",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Armenia",
+                "channels": [
+                    "FastTV"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3 Extra Sports Lithuania"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Antena Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009015,
@@ -1356,7 +1756,38 @@
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio Jocay",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Armenia",
+                "channels": [
+                    "FastTV"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3 Extra Sports Lithuania"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Antena Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009012,
@@ -1365,7 +1796,38 @@
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio Mushuc Runa Cooperativa de Ahorro y Crédito",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Armenia",
+                "channels": [
+                    "FastTV"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3 Extra Sports Lithuania"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Antena Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5190608,
@@ -1374,7 +1836,14 @@
         "league_id": 8814,
         "league": "Serie B",
         "venue": "Estádio Alfredo Jaconi",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5190606,
@@ -1633,7 +2102,17 @@
         "league_id": 10654,
         "league": "USL Cup Grp. 1",
         "venue": "Merritt College Soccer Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "FOX",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5201619,
@@ -1642,7 +2121,16 @@
         "league_id": 10654,
         "league": "USL Cup Grp. 6",
         "venue": "F.N.B. Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "KDKA+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113925,
