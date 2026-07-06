@@ -177,7 +177,7 @@
     },
     {
         "match_id": 5769577,
-        "kickoff": 1783504800,
+        "kickoff": 1783512000,
         "fixture": "Basel vs Yverdon",
         "league_id": 489,
         "league": "Club Friendlies",
@@ -250,7 +250,7 @@
     {
         "match_id": 5344667,
         "kickoff": 1783515600,
-        "fixture": "3A vs 3B",
+        "fixture": "Denmark U19 vs Italy U19",
         "league_id": 287,
         "league": "EURO U19 World Cup U20 Playoff",
         "venue": "TBA",
@@ -354,8 +354,10 @@
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
                     "Entel Gol",
+                    "Red Uno",
                     "Tigo Sports",
-                    "Tigo Sports App"
+                    "Tigo Sports App",
+                    "Unitel"
                 ]
             },
             {
@@ -363,13 +365,27 @@
                 "channels": [
                     "CazeTV",
                     "CazéTV YouTube",
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "Ge TV",
+                    "NSports",
+                    "Rede Globo",
+                    "SBT",
+                    "SporTV"
                 ]
             },
             {
                 "country": "Bulgaria",
                 "channels": [
                     "BNT 1"
+                ]
+            },
+            {
+                "country": "Canada",
+                "channels": [
+                    "RDS",
+                    "TSN1",
+                    "TSN3",
+                    "TSN4"
                 ]
             },
             {
@@ -394,11 +410,15 @@
                 "country": "Colombia",
                 "channels": [
                     "Amazon Prime Video",
+                    "Canal RCN App",
+                    "Caracol TV",
                     "DAZN",
                     "DGO",
                     "DIRECTV 4K",
                     "DSports",
-                    "Paramount+"
+                    "Paramount+",
+                    "RCN TV",
+                    "ditu"
                 ]
             },
             {
@@ -435,6 +455,7 @@
                     "DGO",
                     "DIRECTV 4K",
                     "DSports",
+                    "Disney+ Premium",
                     "Paramount+",
                     "Teleamazonas"
                 ]
@@ -547,9 +568,15 @@
                 ]
             },
             {
+                "country": "Italy",
+                "channels": [
+                    "DAZN Italia"
+                ]
+            },
+            {
                 "country": "Japan",
                 "channels": [
-                    "確認予定"
+                    "DAZN"
                 ]
             },
             {
@@ -682,6 +709,7 @@
             {
                 "country": "Panama",
                 "channels": [
+                    "FOX",
                     "Tigo Sports",
                     "Tigo Sports App"
                 ]
@@ -762,7 +790,11 @@
             {
                 "country": "Slovakia",
                 "channels": [
-                    "Kanál bude upresnený"
+                    "Das Erste",
+                    "JOJ Play",
+                    "JOJ Šport",
+                    "M4 Sport",
+                    "ORF 1"
                 ]
             },
             {
@@ -785,7 +817,10 @@
                 "channels": [
                     "BarTV Mundial",
                     "DAZN",
-                    "DAZN Mundial"
+                    "DAZN Mundial",
+                    "La 1 TVE",
+                    "La 2 Cat",
+                    "RTVE Play"
                 ]
             },
             {
@@ -854,7 +889,8 @@
                     "FOX Sports 4K",
                     "Fubo Sports",
                     "Peacock ES",
-                    "Telemundo"
+                    "Telemundo",
+                    "Telemundo 4K"
                 ]
             },
             {
@@ -873,7 +909,9 @@
                 "channels": [
                     "DAZN",
                     "DSports",
-                    "Paramount+"
+                    "Disney+ Premium",
+                    "Paramount+",
+                    "Televen"
                 ]
             }
         ]
@@ -993,7 +1031,8 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "MagentaTV"
+                    "MagentaTV",
+                    "Sportschau.de"
                 ]
             },
             {
@@ -1279,6 +1318,7 @@
                     "FOX Sports",
                     "FOX Sports 4K",
                     "Fubo Sports",
+                    "NBC Universo",
                     "Peacock ES",
                     "Telemundo"
                 ]
@@ -1654,7 +1694,7 @@
     {
         "match_id": 5344825,
         "kickoff": 1783524600,
-        "fixture": "1A vs 2B",
+        "fixture": "Spain U19 vs Croatia U19",
         "league_id": 287,
         "league": "EURO U19",
         "venue": "TBA",
@@ -1670,7 +1710,7 @@
     {
         "match_id": 5344826,
         "kickoff": 1783524600,
-        "fixture": "1B vs 2A",
+        "fixture": "Ukraine U19 vs Germany U19",
         "league_id": 287,
         "league": "EURO U19",
         "venue": "TBA",
@@ -1706,7 +1746,14 @@
         "league_id": 10210,
         "league": "Women's Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000011237,

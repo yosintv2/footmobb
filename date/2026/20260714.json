@@ -45,6 +45,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5851954,
+        "kickoff": 1783960200,
+        "fixture": "Arsenal vs Tekstilshchik",
+        "league_id": 338,
+        "league": "First League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5888331,
         "kickoff": 1783980000,
         "fixture": "Cerro Largo vs Defensor Sporting",
@@ -60,7 +69,27 @@
         "league_id": 67,
         "league": "Allsvenskan",
         "venue": "3Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "MTV Max"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Fotboll",
+                    "TV4 Play Sport Fotboll"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5225682,
@@ -462,11 +491,17 @@
     {
         "match_id": 4653855,
         "kickoff": 1784055600,
-        "fixture": "Winner QF 1 vs Winner QF 2",
+        "fixture": "France/Morocco vs Winner QF 2",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Dallas Stadium",
         "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "MagentaTV"
+                ]
+            },
             {
                 "country": "Ireland",
                 "channels": [
@@ -475,8 +510,15 @@
                 ]
             },
             {
+                "country": "Montenegro",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
+                    "FOX One",
                     "FOX Sports",
                     "FOX Sports 4K"
                 ]

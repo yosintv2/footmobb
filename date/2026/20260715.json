@@ -426,10 +426,47 @@
     {
         "match_id": 4653855,
         "kickoff": 1784055600,
-        "fixture": "Winner QF 1 vs Winner QF 2",
+        "fixture": "France/Morocco vs Winner QF 2",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Dallas Stadium",
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "MagentaTV"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "RTÉ Player",
+                    "RTÉ2"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX One",
+                    "FOX Sports",
+                    "FOX Sports 4K"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 4653856,
+        "kickoff": 1784142000,
+        "fixture": "Norway/England vs Winner QF 4",
+        "league_id": 77,
+        "league": "World Cup",
+        "venue": "Atlanta Stadium",
         "tv_channels": [
             {
                 "country": "Ireland",
@@ -441,20 +478,12 @@
             {
                 "country": "United States",
                 "channels": [
+                    "FOX One",
                     "FOX Sports",
                     "FOX Sports 4K"
                 ]
             }
         ]
-    },
-    {
-        "match_id": 4653856,
-        "kickoff": 1784142000,
-        "fixture": "Winner QF 3 vs Winner QF 4",
-        "league_id": 77,
-        "league": "World Cup",
-        "venue": "Atlanta Stadium",
-        "tv_channels": []
     },
     {
         "match_id": 5113936,
@@ -567,7 +596,7 @@
     {
         "match_id": 1000012278,
         "kickoff": 1784109600,
-        "fixture": "Daegu FC vs Jincheon HR FC/Siheung Citizen",
+        "fixture": "Daegu FC vs Siheung Citizen",
         "league_id": 9551,
         "league": "Cup",
         "venue": "Daegu iM Bank Park",
@@ -576,7 +605,7 @@
     {
         "match_id": 1000012279,
         "kickoff": 1784109600,
-        "fixture": "Chuncheon FC/Ulsan Citizen vs Seoul E-Land FC",
+        "fixture": "Ulsan Citizen vs Seoul E-Land FC",
         "league_id": 9551,
         "league": "Cup",
         "venue": "TBA",
@@ -585,7 +614,7 @@
     {
         "match_id": 1000016608,
         "kickoff": 1784109600,
-        "fixture": "Cheonan City vs Anseong Citizens FC/FC Mokpo",
+        "fixture": "Cheonan City vs FC Mokpo",
         "league_id": 9551,
         "league": "Cup",
         "venue": "Cheonan Baekseok Stadium",
@@ -603,7 +632,7 @@
     {
         "match_id": 1000012281,
         "kickoff": 1784109600,
-        "fixture": "Ansan Greeners vs Jinju Citizen/Sejong SA FC",
+        "fixture": "Ansan Greeners vs Jinju Citizen",
         "league_id": 9551,
         "league": "Cup",
         "venue": "Ansan Wa Stadium",
@@ -621,7 +650,7 @@
     {
         "match_id": 1000015648,
         "kickoff": 1784109600,
-        "fixture": "Hwaseong FC vs Ulsan FC/Yangpyeong",
+        "fixture": "Hwaseong FC vs Yangpyeong",
         "league_id": 9551,
         "league": "Cup",
         "venue": "Hwaseong Stadium",
@@ -639,7 +668,7 @@
     {
         "match_id": 1000012284,
         "kickoff": 1784109600,
-        "fixture": "Yongin FC vs Dangjin Citizen/Haman FC",
+        "fixture": "Yongin FC vs Dangjin Citizen",
         "league_id": 9551,
         "league": "Cup",
         "venue": "Yongin Mireu Stadium",
@@ -657,7 +686,7 @@
     {
         "match_id": 1000016609,
         "kickoff": 1784109600,
-        "fixture": "Suwon FC vs Pyeongchang United/Seoul TNT",
+        "fixture": "Suwon FC vs Pyeongchang United",
         "league_id": 9551,
         "league": "Cup",
         "venue": "Suwon Sports Complex",
@@ -666,7 +695,7 @@
     {
         "match_id": 1000012286,
         "kickoff": 1784109600,
-        "fixture": "Changwon City/Geumsan Insam vs Gimhae FC 2008",
+        "fixture": "Changwon City vs Gimhae FC 2008",
         "league_id": 9551,
         "league": "Cup",
         "venue": "TBA",
@@ -675,7 +704,7 @@
     {
         "match_id": 1000012287,
         "kickoff": 1784109600,
-        "fixture": "Seongnam FC vs Daejeon Korail/Pocheon Citizen FC",
+        "fixture": "Seongnam FC vs Pocheon Citizen FC",
         "league_id": 9551,
         "league": "Cup",
         "venue": "Tancheon Sports Complex",
@@ -693,7 +722,7 @@
     {
         "match_id": 1000012288,
         "kickoff": 1784109600,
-        "fixture": "Paju Frontier vs Gangneung City/Jecheon Citizen",
+        "fixture": "Paju Frontier vs Gangneung City",
         "league_id": 9551,
         "league": "Cup",
         "venue": "Paju Public Stadium",

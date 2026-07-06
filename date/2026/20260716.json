@@ -326,11 +326,27 @@
     {
         "match_id": 4653856,
         "kickoff": 1784142000,
-        "fixture": "Winner QF 3 vs Winner QF 4",
+        "fixture": "Norway/England vs Winner QF 4",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Atlanta Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "RTÉ Player",
+                    "RTÉ2"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX One",
+                    "FOX Sports",
+                    "FOX Sports 4K"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5163725,
