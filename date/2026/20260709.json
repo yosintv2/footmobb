@@ -6,7 +6,15 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Ortalyq stadıon",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5785664,
@@ -78,7 +86,14 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "Blue Turtle Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5786605,
@@ -195,7 +210,14 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "The Oval",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5786621,
@@ -222,7 +244,14 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "BetMcLean Oval",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "NIFL TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5786624,
@@ -240,7 +269,14 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "Cardiff City Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5786615,
@@ -284,28 +320,57 @@
         "fixture": "Spain U19 vs Croatia U19",
         "league_id": 287,
         "league": "EURO U19",
-        "venue": "TBA",
+        "venue": "Central Park",
         "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
+                ]
+            },
             {
                 "country": "Ireland",
                 "channels": [
                     "UEFA TV"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Sunrise TV",
+                    "TDP"
                 ]
             }
         ]
     },
     {
         "match_id": 5344826,
-        "kickoff": 1783524600,
+        "kickoff": 1783533600,
         "fixture": "Ukraine U19 vs Germany U19",
         "league_id": 287,
         "league": "EURO U19",
-        "venue": "TBA",
+        "venue": "STōK Cae Ras",
         "tv_channels": [
             {
                 "country": "Ireland",
                 "channels": [
                     "UEFA TV"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Blue Sport",
+                    "RTL+ Plus",
+                    "Sportdigital Fussball",
+                    "Sunrise TV"
                 ]
             }
         ]
@@ -628,7 +693,8 @@
                 "country": "Armenia",
                 "channels": [
                     "FAST TV",
-                    "Fast Sports"
+                    "Fast Sports",
+                    "FastTV"
                 ]
             },
             {
@@ -640,7 +706,8 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "ORF 1",
+                    "ORF ON App"
                 ]
             },
             {
@@ -858,9 +925,11 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "BBC One",
+                    "ITV",
                     "RTÉ Player",
                     "RTÉ2",
-                    "To be confirmed"
+                    "RTÉ2 +1"
                 ]
             },
             {
@@ -893,6 +962,7 @@
                 "country": "Lao People's Democratic Republic",
                 "channels": [
                     "Go3",
+                    "Go3 Extra Sports Latvia",
                     "TV6 Latvia"
                 ]
             },
@@ -900,6 +970,7 @@
                 "country": "Liechtenstein",
                 "channels": [
                     "Go3",
+                    "Go3 Extra Sports Lithuania",
                     "TV3 Lithuania"
                 ]
             },
@@ -970,6 +1041,12 @@
                 ]
             },
             {
+                "country": "Netherlands",
+                "channels": [
+                    "NPO 1"
+                ]
+            },
+            {
                 "country": "New Zealand",
                 "channels": [
                     "TVNZ 1",
@@ -1000,7 +1077,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV 2 Play (NO)"
+                    "NRK TV",
+                    "NRK1"
                 ]
             },
             {
@@ -1095,7 +1173,12 @@
             {
                 "country": "Slovakia",
                 "channels": [
-                    "Kanál bude upresnený"
+                    ";Šport",
+                    "JOJ Play",
+                    "M4 Sport",
+                    "ORF 1",
+                    "ZDF",
+                    "ČT Sport"
                 ]
             },
             {
@@ -1124,14 +1207,21 @@
             {
                 "country": "Sweden",
                 "channels": [
-                    "Ej fastställd (SE)",
+                    "TV4",
                     "TV4 Play Sport"
                 ]
             },
             {
                 "country": "Switzerland",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "M6 Suisse",
+                    "ORF 1",
+                    "Play SRF",
+                    "RSI La 2",
+                    "RTS 2",
+                    "Rai 1",
+                    "SRF Sport",
+                    "SRF zwei"
                 ]
             },
             {

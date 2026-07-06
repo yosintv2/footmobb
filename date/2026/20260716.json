@@ -33,7 +33,15 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Stadion Kraj Bistrice",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5793345,
@@ -159,7 +167,14 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "LNK Sporta Parks dabīgais",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "NIFL TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5786635,

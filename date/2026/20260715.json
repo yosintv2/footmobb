@@ -157,7 +157,15 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Stadion Kraj Bistrice",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5748089,
@@ -487,7 +495,7 @@
     },
     {
         "match_id": 5113936,
-        "kickoff": 1784059200,
+        "kickoff": 1784052000,
         "fixture": "Argentino de Quilmes vs Arsenal Sarandi",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
@@ -495,17 +503,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5113937,
-        "kickoff": 1784059200,
-        "fixture": "Brown de Adrogue vs Laferrere",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5113939,
-        "kickoff": 1784059200,
+        "kickoff": 1784052000,
         "fixture": "CA Defensores Unidos vs Excursionistas",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
@@ -514,7 +513,7 @@
     },
     {
         "match_id": 5113942,
-        "kickoff": 1784059200,
+        "kickoff": 1784052000,
         "fixture": "CASD Camioneros vs CS Deportivo Liniers",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
@@ -522,35 +521,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5113938,
-        "kickoff": 1784059200,
-        "fixture": "Comunicaciones vs Villa Dalmine",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5113941,
-        "kickoff": 1784059200,
-        "fixture": "Deportivo Armenio vs CA Talleres Remedios de Escalada",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5113940,
-        "kickoff": 1784059200,
-        "fixture": "Deportivo Merlo vs Real Pilar",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5113943,
-        "kickoff": 1784059200,
+        "kickoff": 1784052000,
         "fixture": "Dock Sud vs CD UAI Urquiza",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
@@ -559,7 +531,7 @@
     },
     {
         "match_id": 5113944,
-        "kickoff": 1784059200,
+        "kickoff": 1784052000,
         "fixture": "Flandria vs Argentino de Merlo",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
@@ -567,8 +539,44 @@
         "tv_channels": []
     },
     {
+        "match_id": 5113946,
+        "kickoff": 1784052000,
+        "fixture": "Sportivo Italiano vs Villa San Carlos",
+        "league_id": 9213,
+        "league": "Primera B Metropolitana",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5113941,
+        "kickoff": 1784053800,
+        "fixture": "Deportivo Armenio vs CA Talleres Remedios de Escalada",
+        "league_id": 9213,
+        "league": "Primera B Metropolitana",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5113938,
+        "kickoff": 1784066400,
+        "fixture": "Comunicaciones vs Villa Dalmine",
+        "league_id": 9213,
+        "league": "Primera B Metropolitana",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5113940,
+        "kickoff": 1784066400,
+        "fixture": "Deportivo Merlo vs Real Pilar",
+        "league_id": 9213,
+        "league": "Primera B Metropolitana",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5113945,
-        "kickoff": 1784059200,
+        "kickoff": 1784066400,
         "fixture": "Ituzaingo vs San Martin Burzaco",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
@@ -576,9 +584,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 5113946,
-        "kickoff": 1784059200,
-        "fixture": "Sportivo Italiano vs Villa San Carlos",
+        "match_id": 5113937,
+        "kickoff": 1784070000,
+        "fixture": "Brown de Adrogue vs Laferrere",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
@@ -623,7 +631,7 @@
     {
         "match_id": 1000012280,
         "kickoff": 1784109600,
-        "fixture": "Busan Transport Corp/Gijang United vs Suwon Samsung Bluewings",
+        "fixture": "Busan Transport Corp vs Suwon Samsung Bluewings",
         "league_id": 9551,
         "league": "Cup",
         "venue": "TBA",
@@ -641,7 +649,7 @@
     {
         "match_id": 1000012282,
         "kickoff": 1784109600,
-        "fixture": "Cheongju FC vs Gyeongju H & N/Seosan Pioneer",
+        "fixture": "Cheongju FC vs Gyeongju H & N",
         "league_id": 9551,
         "league": "Cup",
         "venue": "Cheongju Stadium",
@@ -659,7 +667,7 @@
     {
         "match_id": 1000012283,
         "kickoff": 1784109600,
-        "fixture": "Pyeongtaek Citizen/Yeoju FC vs Gyeongnam FC",
+        "fixture": "Yeoju FC vs Gyeongnam FC",
         "league_id": 9551,
         "league": "Cup",
         "venue": "TBA",
@@ -677,7 +685,7 @@
     {
         "match_id": 1000012285,
         "kickoff": 1784109600,
-        "fixture": "Namyangju Citizen/Seoul Jungnang vs Gimpo FC",
+        "fixture": "Namyangju Citizen vs Gimpo FC",
         "league_id": 9551,
         "league": "Cup",
         "venue": "TBA",
@@ -713,7 +721,7 @@
     {
         "match_id": 1000016610,
         "kickoff": 1784109600,
-        "fixture": "Busan I'Park vs Geoje Citizen/Incheon Seogot",
+        "fixture": "Busan I'Park vs Geoje Citizen",
         "league_id": 9551,
         "league": "Cup",
         "venue": "Busan Gudeok Stadium",
