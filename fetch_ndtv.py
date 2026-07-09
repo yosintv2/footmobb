@@ -156,7 +156,7 @@ def transform_match(item):
         "league": league,
         "start": start,
         "duration": duration,
-        "details_url": f"https://web.getemoji.online/?yosintv={slug}",
+        "details_url": f"https://home.getemoji.online/?yosintv={slug}",
         "streaming_url": f"https://cdn.singhs.com.np/{slug}.json",
         "event_id": event_id,
         "cricket_data": None,
