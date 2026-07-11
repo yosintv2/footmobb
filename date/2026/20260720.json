@@ -191,16 +191,28 @@
     {
         "match_id": 4653858,
         "kickoff": 1784487600,
-        "fixture": "Winner SF 1 vs Winner SF 2",
+        "fixture": "France/Spain vs Winner SF 2",
         "league_id": 77,
         "league": "World Cup",
         "venue": "New York New Jersey Stadium",
         "tv_channels": [
             {
+                "country": "Germany",
+                "channels": [
+                    "MagentaTV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "RTÉ Player",
                     "RTÉ2"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {

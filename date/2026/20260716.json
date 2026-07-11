@@ -1019,8 +1019,20 @@
         "venue": "Atlanta Stadium",
         "tv_channels": [
             {
+                "country": "Canada",
+                "channels": [
+                    "CTV",
+                    "RDS",
+                    "TSN1",
+                    "TSN3",
+                    "TSN4",
+                    "TSN5"
+                ]
+            },
+            {
                 "country": "Finland",
                 "channels": [
+                    "MTV Katsomo",
                     "MTV Urheilu 1",
                     "MTV3"
                 ]
@@ -1046,14 +1058,28 @@
                 ]
             },
             {
+                "country": "Italy",
+                "channels": [
+                    "DAZN Italia",
+                    "Rai 1"
+                ]
+            },
+            {
                 "country": "Montenegro",
                 "channels": [
                     "beIN SPORTS CONNECT"
                 ]
             },
             {
+                "country": "Netherlands",
+                "channels": [
+                    "NPO 1"
+                ]
+            },
+            {
                 "country": "Norway",
                 "channels": [
+                    "TV 2 Direkte",
                     "TV 2 Play (NO)"
                 ]
             },
@@ -1062,6 +1088,16 @@
                 "channels": [
                     "TV4",
                     "TV4 Play Sport"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC One England",
+                    "BBC One Northern Ireland",
+                    "BBC One Scotland",
+                    "BBC One Wales",
+                    "BBC iPlayer"
                 ]
             },
             {

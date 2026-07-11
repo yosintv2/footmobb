@@ -413,6 +413,12 @@
                     "Premier Sports 2 UK",
                     "Premier Sports Player"
                 ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
             }
         ]
     },
@@ -435,6 +441,12 @@
                 "channels": [
                     "Premier Sports 2 UK",
                     "Premier Sports Player"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
                 ]
             }
         ]
@@ -484,11 +496,20 @@
         "venue": "Icahn Stadium",
         "tv_channels": [
             {
+                "country": "United Kingdom",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 1",
+                    "TNT Sports 3"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "ABC",
                     "ESPN Deportes",
-                    "ESPN Unlimited"
+                    "ESPN Unlimited",
+                    "Fubo Sports"
                 ]
             }
         ]
@@ -500,7 +521,23 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Centennial Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 3"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS",
+                    "KPIX+",
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161565,
@@ -509,7 +546,16 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "PayPal Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS",
+                    "KPIX+",
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161566,
@@ -518,7 +564,14 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Northwestern Medicine Field at Martin Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ION"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161567,
@@ -680,7 +733,14 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "F.N.B. Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "KPIX+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109834,
@@ -689,7 +749,15 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "Keyworth Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109836,
@@ -698,7 +766,16 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "Segra Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "WDVM-TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109841,
@@ -707,7 +784,15 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "Hodges Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109833,
@@ -716,7 +801,15 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "Patriots Point",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109839,
@@ -725,7 +818,17 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "Centreville Bank Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "NESN Plus",
+                    "WWAX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109835,
@@ -801,11 +904,18 @@
     {
         "match_id": 4653857,
         "kickoff": 1784408400,
-        "fixture": "Loser SF 1 vs Loser SF 2",
+        "fixture": "France/Spain vs Loser SF 2",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Miami Stadium",
         "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "MTV Urheilu 1",
+                    "MTV3"
+                ]
+            },
             {
                 "country": "Germany",
                 "channels": [
@@ -826,13 +936,35 @@
                 ]
             },
             {
+                "country": "Netherlands",
+                "channels": [
+                    "NPO 1"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "SVT1"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "SVT Play",
+                    "SVT1"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "FOX",
+                    "FOX 4K",
                     "FOX One",
                     "FOX Sports",
                     "FOX Sports 4K",
+                    "Fubo Sports",
                     "NBC Universo",
+                    "Peacock ES",
                     "Telemundo"
                 ]
             }
@@ -841,16 +973,28 @@
     {
         "match_id": 4653858,
         "kickoff": 1784487600,
-        "fixture": "Winner SF 1 vs Winner SF 2",
+        "fixture": "France/Spain vs Winner SF 2",
         "league_id": 77,
         "league": "World Cup",
         "venue": "New York New Jersey Stadium",
         "tv_channels": [
             {
+                "country": "Germany",
+                "channels": [
+                    "MagentaTV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "RTÉ Player",
                     "RTÉ2"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -1032,7 +1176,15 @@
         "league_id": 168,
         "league": "Superettan",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Play Sport Fotboll",
+                    "TV4 Sportkanalen"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5125560,
@@ -1460,7 +1612,14 @@
         "league_id": 9986,
         "league": "Premier League",
         "venue": "ATCO Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007889,
@@ -1685,7 +1844,15 @@
         "league_id": 9296,
         "league": "USL League One",
         "venue": "Hinchliffe Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109459,
@@ -1694,7 +1861,15 @@
         "league_id": 9296,
         "league": "USL League One",
         "venue": "American Legion Memorial Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109462,
@@ -1703,7 +1878,15 @@
         "league_id": 9296,
         "league": "USL League One",
         "venue": "City Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109461,
@@ -1712,7 +1895,15 @@
         "league_id": 9296,
         "league": "USL League One",
         "venue": "Covenant Health Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109465,

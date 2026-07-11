@@ -127,18 +127,6 @@
                 ]
             },
             {
-                "country": "Canada",
-                "channels": [
-                    "CTV",
-                    "RDS",
-                    "TSN+",
-                    "TSN1",
-                    "TSN3",
-                    "TSN4",
-                    "TSN5"
-                ]
-            },
-            {
                 "country": "Chile",
                 "channels": [
                     "Amazon Prime Video",
@@ -219,21 +207,6 @@
                 ]
             },
             {
-                "country": "Finland",
-                "channels": [
-                    "MTV Katsomo",
-                    "MTV Urheilu 1",
-                    "MTV3"
-                ]
-            },
-            {
-                "country": "France",
-                "channels": [
-                    "M6",
-                    "beIN Sports 1 (FR)"
-                ]
-            },
-            {
                 "country": "Georgia",
                 "channels": [
                     "Rustavi 2",
@@ -243,10 +216,7 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "Joyn",
-                    "MagentaTV",
-                    "ZDF",
-                    "ZDF Livestream"
+                    "MagentaTV"
                 ]
             },
             {
@@ -308,13 +278,6 @@
                 ]
             },
             {
-                "country": "India",
-                "channels": [
-                    "Unite8 Sports 1",
-                    "Unite8 Sports 2"
-                ]
-            },
-            {
                 "country": "Indonesia",
                 "channels": [
                     "Fola Play",
@@ -339,13 +302,6 @@
                     "KAN 11",
                     "KAN 11 HD",
                     "Sport 1"
-                ]
-            },
-            {
-                "country": "Italy",
-                "channels": [
-                    "DAZN Italia",
-                    "Rai 1"
                 ]
             },
             {
@@ -449,12 +405,6 @@
                 ]
             },
             {
-                "country": "Netherlands",
-                "channels": [
-                    "NPO 1"
-                ]
-            },
-            {
                 "country": "New Zealand",
                 "channels": [
                     "TVNZ 1",
@@ -485,14 +435,6 @@
                     "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud"
-                ]
-            },
-            {
-                "country": "Norway",
-                "channels": [
-                    "SVT1",
-                    "TV 2 Direkte",
-                    "TV 2 Play (NO)"
                 ]
             },
             {
@@ -632,13 +574,6 @@
                 ]
             },
             {
-                "country": "Sweden",
-                "channels": [
-                    "SVT Play",
-                    "SVT1"
-                ]
-            },
-            {
                 "country": "Switzerland",
                 "channels": [
                     "M6 Suisse",
@@ -700,13 +635,7 @@
             {
                 "country": "United States",
                 "channels": [
-                    "FOX",
-                    "FOX 4K",
-                    "FOX One",
                     "FOX Sports",
-                    "FOX Sports 4K",
-                    "Fubo Sports",
-                    "Peacock ES",
                     "Telemundo",
                     "Telemundo 4K"
                 ]
@@ -3164,8 +3093,54 @@
         ]
     },
     {
-        "match_id": 5161552,
+        "match_id": 5161553,
         "kickoff": 1783728000,
+        "fixture": "Racing Louisville (W) vs Bay FC (W)",
+        "league_id": 9134,
+        "league": "NWSL",
+        "venue": "Lynn Family Stadium",
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "NWSL+"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5161552,
+        "kickoff": 1783731600,
         "fixture": "Orlando Pride (W) vs Kansas City Current (W)",
         "league_id": 9134,
         "league": "NWSL",
@@ -3247,52 +3222,6 @@
                 "country": "United States",
                 "channels": [
                     "Prime Video (US)"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5161553,
-        "kickoff": 1783728000,
-        "fixture": "Racing Louisville (W) vs Bay FC (W)",
-        "league_id": 9134,
-        "league": "NWSL",
-        "venue": "Lynn Family Stadium",
-        "tv_channels": [
-            {
-                "country": "Austria",
-                "channels": [
-                    "NWSL+"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "NWSL+"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "NWSL+"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "NWSL+"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "NWSL+"
-                ]
-            },
-            {
-                "country": "United States",
-                "channels": [
-                    "NWSL+"
                 ]
             }
         ]
@@ -5373,15 +5302,6 @@
         ]
     },
     {
-        "match_id": 5186543,
-        "kickoff": 1783767600,
-        "fixture": "Zhejiang Professional vs Qingdao Hainiu",
-        "league_id": 120,
-        "league": "Super League",
-        "venue": "Huanglong Sports Centre",
-        "tv_channels": []
-    },
-    {
         "match_id": 5186544,
         "kickoff": 1783769700,
         "fixture": "Shanghai Shenhua vs Beijing Guoan",
@@ -5494,18 +5414,6 @@
                 "country": "Ecuador",
                 "channels": [
                     "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Finland",
-                "channels": [
-                    "Ruutu+ Urheilu"
-                ]
-            },
-            {
-                "country": "Germany",
-                "channels": [
-                    "OneFootball Deutschland"
                 ]
             },
             {
@@ -6272,14 +6180,7 @@
         "league_id": 251,
         "league": "Ykkosliiga",
         "venue": "Arto Tolsa Areena",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "channels": [
-                    "Ruutu+ Urheilu"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5163721,
@@ -6288,14 +6189,7 @@
         "league_id": 251,
         "league": "Ykkosliiga",
         "venue": "Markku.fi Areena",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "channels": [
-                    "Ruutu+ Urheilu"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5163722,
@@ -6752,6 +6646,7 @@
             {
                 "country": "Ecuador",
                 "channels": [
+                    "Teleamazonas",
                     "Zapping Sports + Plus"
                 ]
             },
@@ -7030,7 +6925,7 @@
         "fixture": "Spain U19 vs Germany U19",
         "league_id": 287,
         "league": "EURO U19",
-        "venue": "STōK Cae Ras",
+        "venue": "Racecourse Ground",
         "tv_channels": [
             {
                 "country": "Austria",
@@ -7119,7 +7014,180 @@
         "league_id": 9122,
         "league": "Segunda Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Antel TV",
+                    "DSports Uruguay",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5904119,
@@ -7128,7 +7196,180 @@
         "league_id": 9122,
         "league": "Segunda Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Antel TV",
+                    "DSports Uruguay",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5860635,
