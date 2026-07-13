@@ -18,13 +18,50 @@
         "tv_channels": []
     },
     {
+        "match_id": 5107525,
+        "kickoff": 1783962000,
+        "fixture": "Djurgården vs Halmstads BK",
+        "league_id": 67,
+        "league": "Allsvenskan",
+        "venue": "3Arena",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "MTV Katsomo",
+                    "MTV Max"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Fotboll",
+                    "TV4 Play Sport Fotboll"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5848059,
         "kickoff": 1784021400,
         "fixture": "APIA Leichhardt FC vs Peninsula Power",
         "league_id": 9471,
         "league": "Australia Cup",
         "venue": "Leichhardt Oval",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "10 Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5848060,
@@ -33,7 +70,14 @@
         "league_id": 9471,
         "league": "Australia Cup",
         "venue": "AIS Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "10 Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5905504,
@@ -86,12 +130,28 @@
                 ]
             },
             {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
                 "country": "Portugal",
                 "channels": [
+                    "DAZN 1",
                     "Sporting TV"
                 ]
             }
         ]
+    },
+    {
+        "match_id": 5238329,
+        "kickoff": 1783978200,
+        "fixture": "9 de Julio Rafaela vs Defensores de Belgrano de Villa Ramallo",
+        "league_id": 9213,
+        "league": "Federal A Zona A",
+        "venue": "TBA",
+        "tv_channels": []
     },
     {
         "match_id": 5851954,
@@ -282,6 +342,166 @@
                 "channels": [
                     "Antel TV Internacional",
                     "Disney+ Premium"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5112995,
+        "kickoff": 1783987200,
+        "fixture": "Atlanta vs Colegiales",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio Don León Kolbovski",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "LPF Play"
                 ]
             }
         ]
@@ -651,205 +871,6 @@
         ]
     },
     {
-        "match_id": 5238329,
-        "kickoff": 1783978200,
-        "fixture": "9 de Julio Rafaela vs Defensores de Belgrano de Villa Ramallo",
-        "league_id": 9213,
-        "league": "Federal A Zona A",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5112995,
-        "kickoff": 1783987200,
-        "fixture": "Atlanta vs Colegiales",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "Estadio Don León Kolbovski",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Australia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Bolivia, Plurinational State of",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Chile",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Panama",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Peru",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Venezuela, Bolivarian Republic of",
-                "channels": [
-                    "LPF Play"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5107525,
-        "kickoff": 1783962000,
-        "fixture": "Djurgården vs Halmstads BK",
-        "league_id": 67,
-        "league": "Allsvenskan",
-        "venue": "3Arena",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "channels": [
-                    "MTV Katsomo",
-                    "MTV Max"
-                ]
-            },
-            {
-                "country": "Norway",
-                "channels": [
-                    "VG TV"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "channels": [
-                    "TV4 Fotboll",
-                    "TV4 Play Sport Fotboll"
-                ]
-            }
-        ]
-    },
-    {
         "match_id": 5186543,
         "kickoff": 1784028900,
         "fixture": "Zhejiang Professional vs Qingdao Hainiu",
@@ -1070,7 +1091,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             }
         ]
@@ -1951,6 +1973,7 @@
                 "country": "Albania",
                 "channels": [
                     "Klani IM",
+                    "Super Sport 2 HD",
                     "SuperSport Digitalb",
                     "TV Klan"
                 ]
@@ -1973,9 +1996,11 @@
                     "DIRECTV 4K",
                     "DSports",
                     "Disney+ Premium",
+                    "Mitelefe.com",
                     "Paramount+",
                     "TV Pública",
-                    "TeleCentro 4K"
+                    "TeleCentro 4K",
+                    "Telefe"
                 ]
             },
             {
@@ -1995,7 +2020,8 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "ORF 1",
+                    "ORF ON App"
                 ]
             },
             {
@@ -2017,8 +2043,11 @@
                 "country": "Belgium",
                 "channels": [
                     "La Une (RTBF)",
+                    "Proximus",
                     "RTBF Auvio",
+                    "RTBF Auvio Direct",
                     "Sporza",
+                    "Tipik",
                     "VRT 1"
                 ]
             },
@@ -2033,6 +2062,14 @@
                 ]
             },
             {
+                "country": "Bosnia and Herzegovina",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 1",
+                    "Moja TV"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
                     "CazeTV",
@@ -2043,7 +2080,10 @@
             {
                 "country": "Bulgaria",
                 "channels": [
-                    "BNT 1"
+                    "BNT 1",
+                    "BNT 3",
+                    "BNT News App",
+                    "bnt.bg"
                 ]
             },
             {
@@ -2075,6 +2115,7 @@
             {
                 "country": "China",
                 "channels": [
+                    "CCTV Sports VIP",
                     "CCTV-5",
                     "Migu"
                 ]
@@ -2101,6 +2142,7 @@
             {
                 "country": "Costa Rica",
                 "channels": [
+                    "Azteca Deportes Network",
                     "FOX",
                     "FOX+",
                     "Teletica 7"
@@ -2111,6 +2153,7 @@
                 "channels": [
                     "HRT 2",
                     "HRTi",
+                    "MAX To Go",
                     "MAXtv"
                 ]
             },
@@ -2123,6 +2166,7 @@
             {
                 "country": "Dominican Republic",
                 "channels": [
+                    "Azteca Deportes Network",
                     "CDN Deportes"
                 ]
             },
@@ -2142,8 +2186,11 @@
                 "country": "Estonia",
                 "channels": [
                     "ETV 1",
+                    "ETV 1 HD",
                     "ETV+",
-                    "Go3"
+                    "Go3",
+                    "Go3 Extra Sports Estonia",
+                    "TV3 Play"
                 ]
             },
             {
@@ -2164,35 +2211,49 @@
                 "country": "Georgia",
                 "channels": [
                     "Rustavi 2",
+                    "Setanta Sports",
                     "Setanta Sports Georgia"
                 ]
             },
             {
                 "country": "Germany",
                 "channels": [
-                    "MagentaTV"
+                    "Joyn",
+                    "MagentaTV",
+                    "ZDF",
+                    "ZDF Livestream"
                 ]
             },
             {
                 "country": "Ghana",
                 "channels": [
                     "DStv Now",
+                    "Sporty TV",
                     "StarTimes",
                     "StarTimes App",
                     "Startimes World Football",
-                    "SuperSport"
+                    "SuperSport",
+                    "SuperSport Football Plus ROA",
+                    "SuperSport GOtv Football",
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport Laliga",
+                    "SuperSport Laliga ROA",
+                    "SuperSport MaXimo 1"
                 ]
             },
             {
                 "country": "Greece",
                 "channels": [
                     "ERT 1",
+                    "ERT 2",
+                    "ERT 2 HD",
                     "ERT FLIX"
                 ]
             },
             {
                 "country": "Guatemala",
                 "channels": [
+                    "Azteca Deportes Network",
                     "Canal 11",
                     "FOX",
                     "Tigo Sports",
@@ -2202,6 +2263,7 @@
             {
                 "country": "Honduras",
                 "channels": [
+                    "Azteca Deportes Network",
                     "DTVC+",
                     "FOX",
                     "Telecadena 7 y 4",
@@ -2212,6 +2274,8 @@
             {
                 "country": "Hong Kong",
                 "channels": [
+                    "616 Now Sports 4K",
+                    "618 Now Sports",
                     "Now Sports",
                     "ViuTV6"
                 ]
@@ -2219,12 +2283,14 @@
             {
                 "country": "Hungary",
                 "channels": [
-                    "M4 Sport"
+                    "M4 Sport",
+                    "M4 Sports"
                 ]
             },
             {
                 "country": "Iceland",
                 "channels": [
+                    "RUV",
                     "RUV 2"
                 ]
             },
@@ -2233,21 +2299,26 @@
                 "channels": [
                     "Fola Play",
                     "TVRI",
-                    "Vidio"
+                    "Vidio",
+                    "Vidio TV"
                 ]
             },
             {
                 "country": "Ireland",
                 "channels": [
+                    "ITV",
+                    "ITV1",
+                    "ITVX",
                     "RTÉ Player",
                     "RTÉ2",
-                    "To be confirmed"
+                    "RTÉ2 +1"
                 ]
             },
             {
                 "country": "Israel",
                 "channels": [
                     "KAN 11",
+                    "KAN 11 HD",
                     "Sport 1"
                 ]
             },
@@ -2284,6 +2355,7 @@
                 "country": "Liechtenstein",
                 "channels": [
                     "Go3",
+                    "Go3 Extra Sports Estonia",
                     "Go3 Extra Sports Lithuania",
                     "TV3 Lithuania"
                 ]
@@ -2297,9 +2369,11 @@
             {
                 "country": "Malaysia",
                 "channels": [
+                    "RTM klik",
                     "Sukan+",
                     "TV Okey",
-                    "Unifi TV"
+                    "Unifi TV",
+                    "unifi Play TV"
                 ]
             },
             {
@@ -2316,6 +2390,7 @@
                     "Azteca Deportes App",
                     "Azteca Deportes Network",
                     "Canal 5",
+                    "Las Estrellas",
                     "Pase Mundial 2026",
                     "TUDN"
                 ]
@@ -2323,6 +2398,7 @@
             {
                 "country": "Mongolia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
                     "TVCG 1"
@@ -2336,7 +2412,9 @@
                     "beIN Sports English 2",
                     "beIN Sports HD 2",
                     "beIN Sports HD 3",
+                    "beIN Sports MAX 1",
                     "beIN Sports MAX 1 Arabia",
+                    "beIN Sports MAX 1 HD",
                     "beIN Sports MAX 2 Arabia",
                     "beIN Sports MAX 5 Arabia",
                     "beIN Sports MAX 6 Arabia"
@@ -2346,7 +2424,9 @@
                 "country": "Morocco",
                 "channels": [
                     "beIN SPORTS CONNECT",
+                    "beIN Sports MAX 1",
                     "beIN Sports MAX 1 Arabia",
+                    "beIN Sports MAX 1 HD",
                     "beIN Sports MAX 2 Arabia",
                     "beIN Sports MAX 5 Arabia",
                     "beIN Sports MAX 6 Arabia"
@@ -2374,6 +2454,7 @@
             {
                 "country": "Nicaragua",
                 "channels": [
+                    "Azteca Deportes Network",
                     "Canal 10",
                     "FOX",
                     "Tigo Sports",
@@ -2383,15 +2464,22 @@
             {
                 "country": "Nigeria",
                 "channels": [
+                    "Sporty TV",
                     "StarTimes App",
                     "Startimes World Football",
                     "SuperSport Football Plus Nigeria",
-                    "SuperSport Laliga Nigeria"
+                    "SuperSport Football Plus ROA",
+                    "SuperSport GOtv Football",
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport Laliga",
+                    "SuperSport Laliga Nigeria",
+                    "SuperSport MaXimo 1"
                 ]
             },
             {
                 "country": "North Macedonia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud"
                 ]
@@ -2414,6 +2502,7 @@
             {
                 "country": "Panama",
                 "channels": [
+                    "Azteca Deportes Network",
                     "FOX",
                     "Medcom GO",
                     "RPC TV",
@@ -2470,6 +2559,7 @@
                 "country": "Romania",
                 "channels": [
                     "Antena 1",
+                    "Antena 1 HD",
                     "Antena Play"
                 ]
             },
@@ -2489,6 +2579,7 @@
             {
                 "country": "Serbia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
                     "RTS 1"
@@ -2505,7 +2596,12 @@
             {
                 "country": "Slovakia",
                 "channels": [
-                    "Kanál bude upresnený"
+                    "Das Erste",
+                    "JOJ",
+                    "JOJ Play",
+                    "JOJ Šport",
+                    "M4 Sport",
+                    "ORF 1"
                 ]
             },
             {
@@ -2518,8 +2614,10 @@
             {
                 "country": "South Africa",
                 "channels": [
+                    "Sporty TV",
                     "StarTimes App",
                     "Startimes World Football",
+                    "SuperSport GOtv LaLiga",
                     "SuperSport Laliga",
                     "SuperSport Premier League Nigeria",
                     "SuperSport Variety 3"
@@ -2546,9 +2644,14 @@
             {
                 "country": "Switzerland",
                 "channels": [
+                    "M6 Suisse",
                     "Play SRF",
+                    "RSI La 2",
+                    "RTS 2",
+                    "Rai 1",
                     "SRF Sport",
-                    "SRF zwei"
+                    "SRF zwei",
+                    "Servus TV"
                 ]
             },
             {
@@ -2556,9 +2659,16 @@
                 "channels": [
                     "Azam Sports",
                     "DStv Now",
+                    "Sporty TV",
                     "StarTimes App",
                     "Startimes World Football",
-                    "SuperSport"
+                    "SuperSport",
+                    "SuperSport Football Plus ROA",
+                    "SuperSport GOtv Football",
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport Laliga",
+                    "SuperSport Laliga ROA",
+                    "SuperSport MaXimo 1"
                 ]
             },
             {
@@ -2572,6 +2682,7 @@
                 "country": "Türkiye",
                 "channels": [
                     "Digiturk",
+                    "Digiturk Play",
                     "TRT 1",
                     "tabii"
                 ]
@@ -2581,6 +2692,15 @@
                 "channels": [
                     "MEGOGO Football 1",
                     "Megogo"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "ITV1",
+                    "ITVX",
+                    "STV",
+                    "STV Player"
                 ]
             },
             {

@@ -47,7 +47,7 @@
     {
         "match_id": 5787766,
         "kickoff": 1784649600,
-        "fixture": "Borac Banja Luka/Levski Sofia vs Maxline Vitebsk/Universitatea Craiova",
+        "fixture": "Borac Banja Luka/Levski Sofia vs ML Vitebsk/Universitatea Craiova",
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "TBA",
@@ -123,7 +123,21 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Merkur-Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5787768,
@@ -405,42 +419,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5853710,
-        "kickoff": 1784719800,
-        "fixture": "Dalian Kewei vs Beijing Guoan",
-        "league_id": 9550,
-        "league": "Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5853711,
-        "kickoff": 1784719800,
-        "fixture": "Lanzhou Longyuan Athletic vs Shaanxi Union",
-        "league_id": 9550,
-        "league": "Cup",
-        "venue": "Lanzhou Olympic Center Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5853712,
-        "kickoff": 1784719800,
-        "fixture": "Shanghai Port vs Shenzhen Peng City",
-        "league_id": 9550,
-        "league": "Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5853713,
-        "kickoff": 1784719800,
-        "fixture": "Wuhan Three Towns vs Shandong Taishan",
-        "league_id": 9550,
-        "league": "Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5139973,
         "kickoff": 1784716200,
         "fixture": "Bucheon FC 1995 vs FC Anyang",
@@ -483,7 +461,27 @@
         "league_id": 180,
         "league": "League Cup Grp. A",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762583,
@@ -501,7 +499,15 @@
         "league_id": 180,
         "league": "League Cup Grp. B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762595,
@@ -519,7 +525,15 @@
         "league_id": 180,
         "league": "League Cup Grp. C",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762753,
@@ -537,7 +551,15 @@
         "league_id": 180,
         "league": "League Cup Grp. D",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763210,
@@ -573,7 +595,15 @@
         "league_id": 180,
         "league": "League Cup Grp. F",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763429,
@@ -582,7 +612,15 @@
         "league_id": 180,
         "league": "League Cup Grp. G",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763430,
@@ -600,7 +638,15 @@
         "league_id": 180,
         "league": "League Cup Grp. H",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763488,
@@ -666,35 +712,26 @@
         "tv_channels": []
     },
     {
+        "match_id": 5796881,
+        "kickoff": 1784707200,
+        "fixture": "Neftci PFC (W) vs Buducnost Podgorica (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 1st Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5796887,
-        "kickoff": 1784728800,
+        "kickoff": 1784710800,
         "fixture": "Athlone Town (W) vs Skopje 2014 (W)",
         "league_id": 10612,
         "league": "Women's Champions League Qualification 1st Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5796886,
-        "kickoff": 1784728800,
-        "fixture": "Czarni Sosnowiec (W) vs Nike Lusso (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 1st Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5796888,
-        "kickoff": 1784728800,
-        "fixture": "Flora Tallinn (W) vs Mgarr United (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 1st Round",
-        "venue": "TBA",
+        "venue": "ArcelorMittal Park",
         "tv_channels": []
     },
     {
         "match_id": 5796885,
-        "kickoff": 1784728800,
+        "kickoff": 1784721600,
         "fixture": "Glentoran Belfast United (W) vs Riga FC (W)",
         "league_id": 10612,
         "league": "Women's Champions League Qualification 1st Round",
@@ -703,7 +740,7 @@
     },
     {
         "match_id": 5796882,
-        "kickoff": 1784728800,
+        "kickoff": 1784730600,
         "fixture": "KI Klaksvik (W) vs Ludogorets Razgrad (W)",
         "league_id": 10612,
         "league": "Women's Champions League Qualification 1st Round",
@@ -712,25 +749,16 @@
     },
     {
         "match_id": 5796883,
-        "kickoff": 1784728800,
+        "kickoff": 1784730600,
         "fixture": "Mitrovica (W) vs Zimbru (W)",
         "league_id": 10612,
         "league": "Women's Champions League Qualification 1st Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5796881,
-        "kickoff": 1784728800,
-        "fixture": "Neftci PFC (W) vs Buducnost Podgorica (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 1st Round",
-        "venue": "TBA",
+        "venue": "Kampi Nacional",
         "tv_channels": []
     },
     {
         "match_id": 5796880,
-        "kickoff": 1784728800,
+        "kickoff": 1784734200,
         "fixture": "PAOK Thessaloniki FC (W) vs Hapoel Katamon Jerusalem (W)",
         "league_id": 10612,
         "league": "Women's Champions League Qualification 1st Round",
@@ -738,12 +766,30 @@
         "tv_channels": []
     },
     {
+        "match_id": 5796886,
+        "kickoff": 1784736000,
+        "fixture": "Czarni Sosnowiec (W) vs Nike Lusso (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 1st Round",
+        "venue": "ArcelorMittal Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5796888,
+        "kickoff": 1784736000,
+        "fixture": "Flora Tallinn (W) vs Mgarr United (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 1st Round",
+        "venue": "Futbalový štadión",
+        "tv_channels": []
+    },
+    {
         "match_id": 5796884,
-        "kickoff": 1784728800,
+        "kickoff": 1784743200,
         "fixture": "Pyunik (W) vs Wrexham (W)",
         "league_id": 10612,
         "league": "Women's Champions League Qualification 1st Round",
-        "venue": "TBA",
+        "venue": "Racecourse Ground",
         "tv_channels": []
     },
     {

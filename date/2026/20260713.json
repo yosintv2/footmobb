@@ -27,6 +27,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5225933,
+        "kickoff": 1783872000,
+        "fixture": "Throttur Vogar vs KFG",
+        "league_id": 10226,
+        "league": "2. Deild",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5874489,
         "kickoff": 1783871100,
         "fixture": "FK TransINVEST vs Banga Gargzdai",
@@ -36,12 +45,37 @@
         "tv_channels": []
     },
     {
+        "match_id": 5207156,
+        "kickoff": 1783940400,
+        "fixture": "Ningbo Professional vs Foshan Nanshi",
+        "league_id": 9137,
+        "league": "China League",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5900784,
         "kickoff": 1783872000,
         "fixture": "Zenit vs FK Crvena Zvezda",
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Gazprom Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5915947,
+        "kickoff": 1783886400,
+        "fixture": "Columbus vs Burnley",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -164,8 +198,7 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV 2 Play (NO)",
-                    "TV 2 Sport 1"
+                    "TV 2 Play (NO)"
                 ]
             }
         ]
@@ -207,17 +240,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5238408,
-        "kickoff": 1783881000,
-        "fixture": "Juventud Antoniana vs Tucuman Central",
-        "league_id": 9213,
-        "league": "Federal A Zona B",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5238407,
-        "kickoff": 1783882800,
+        "kickoff": 1783881000,
         "fixture": "CA Bartolome Mitre vs Defensores de Vilelas",
         "league_id": 9213,
         "league": "Federal A Zona B",
@@ -231,6 +255,15 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 5238408,
+        "kickoff": 1783881000,
+        "fixture": "Juventud Antoniana vs Tucuman Central",
+        "league_id": 9213,
+        "league": "Federal A Zona B",
+        "venue": "TBA",
+        "tv_channels": []
     },
     {
         "match_id": 5238409,
@@ -269,18 +302,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 5238555,
+        "match_id": 5238553,
         "kickoff": 1783879200,
-        "fixture": "Villa Mitre vs Guillermo Brown",
+        "fixture": "Germinal vs Olimpo",
         "league_id": 9213,
         "league": "Federal A Zona D",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 5238553,
-        "kickoff": 1783882800,
-        "fixture": "Germinal vs Olimpo",
+        "match_id": 5238555,
+        "kickoff": 1783879200,
+        "fixture": "Villa Mitre vs Guillermo Brown",
         "league_id": 9213,
         "league": "Federal A Zona D",
         "venue": "TBA",
@@ -329,14 +362,7 @@
         "league_id": 10174,
         "league": "Kansallinen Liiga",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "channels": [
-                    "Ruutu+ Urheilu"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5888328,
@@ -911,9 +937,10 @@
                 ]
             },
             {
-                "country": "Canada",
+                "country": "Brazil",
                 "channels": [
-                    "TSN2"
+                    "Disney+ Premium",
+                    "ESPN 4"
                 ]
             },
             {
@@ -960,10 +987,8 @@
                 "country": "United States",
                 "channels": [
                     "ESPN",
-                    "ESPN Deportes",
                     "ESPN Select",
-                    "ESPN Unlimited",
-                    "Fubo Sports"
+                    "ESPN Unlimited"
                 ]
             }
         ]
@@ -3019,6 +3044,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5915974,
+        "kickoff": 1783897200,
+        "fixture": "LD Alajuelense vs Club Sport Herediano",
+        "league_id": 10223,
+        "league": "Super Cup",
+        "venue": "Estadio José Rafael Fello Meza",
+        "tv_channels": []
+    },
+    {
         "match_id": 5860637,
         "kickoff": 1783875600,
         "fixture": "FC Milsami Orhei vs Dacia Buiucani",
@@ -3891,15 +3925,8 @@
         "venue": "Hamilton Stadium",
         "tv_channels": [
             {
-                "country": "Canada",
-                "channels": [
-                    "OneSoccer"
-                ]
-            },
-            {
                 "country": "United States",
                 "channels": [
-                    "FOX Soccer Plus",
                     "FOX Sports"
                 ]
             }
@@ -3914,15 +3941,8 @@
         "venue": "Stade Saputo",
         "tv_channels": [
             {
-                "country": "Canada",
-                "channels": [
-                    "OneSoccer"
-                ]
-            },
-            {
                 "country": "United States",
                 "channels": [
-                    "FOX Soccer Plus",
                     "FOX Sports"
                 ]
             }
@@ -4026,12 +4046,6 @@
                 "channels": [
                     "Fanatiz",
                     "Sport TV 1"
-                ]
-            },
-            {
-                "country": "United States",
-                "channels": [
-                    "Fanatiz"
                 ]
             },
             {
@@ -5101,7 +5115,14 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Víctor Agustín Ugarte de Potosí",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Entel Gol"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000010885,
@@ -5110,7 +5131,14 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Hernando Siles",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Entel Gol"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000010883,
@@ -5119,7 +5147,14 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio IV Centenario",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Entel Gol"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009016,
@@ -5362,7 +5397,7 @@
     },
     {
         "match_id": 1000009009,
-        "kickoff": 1783897800,
+        "kickoff": 1783901400,
         "fixture": "Emelec vs Barcelona SC",
         "league_id": 246,
         "league": "Serie A",

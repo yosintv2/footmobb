@@ -90,8 +90,17 @@
         "tv_channels": []
     },
     {
+        "match_id": 5853710,
+        "kickoff": 1784617200,
+        "fixture": "Dalian Kewei vs Beijing Guoan",
+        "league_id": 9550,
+        "league": "Cup",
+        "venue": "Dalian Pro Soccer Academy Base Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 5853707,
-        "kickoff": 1784633400,
+        "kickoff": 1784617200,
         "fixture": "Henan FC vs Dalian Yingbo",
         "league_id": 9550,
         "league": "Cup",
@@ -99,8 +108,26 @@
         "tv_channels": []
     },
     {
+        "match_id": 5853711,
+        "kickoff": 1784617200,
+        "fixture": "Lanzhou Longyuan Athletic vs Shaanxi Union",
+        "league_id": 9550,
+        "league": "Cup",
+        "venue": "Lanzhou Olympic Center Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5853712,
+        "kickoff": 1784617200,
+        "fixture": "Shanghai Port vs Shenzhen Peng City",
+        "league_id": 9550,
+        "league": "Cup",
+        "venue": "SAIC Motor Pudong Arena",
+        "tv_channels": []
+    },
+    {
         "match_id": 5853708,
-        "kickoff": 1784633400,
+        "kickoff": 1784617200,
         "fixture": "Shanghai Shenhua vs Qingdao Hainiu",
         "league_id": 9550,
         "league": "Cup",
@@ -108,8 +135,17 @@
         "tv_channels": []
     },
     {
+        "match_id": 5853713,
+        "kickoff": 1784617200,
+        "fixture": "Wuhan Three Towns vs Shandong Taishan",
+        "league_id": 9550,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5853709,
-        "kickoff": 1784633400,
+        "kickoff": 1784617200,
         "fixture": "Yunnan Yukun vs Chengdu Rongcheng FC",
         "league_id": 9550,
         "league": "Cup",
@@ -168,7 +204,14 @@
         "league_id": 161,
         "league": "Liga AUF Uruguaya Intermedio Grp. A",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5888343,
@@ -177,7 +220,20 @@
         "league_id": 161,
         "league": "Liga AUF Uruguaya Intermedio Grp. B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5164012,
@@ -195,7 +251,15 @@
         "league_id": 168,
         "league": "Superettan",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Play Sport Fotboll",
+                    "TV4 Sportkanalen"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5125557,
@@ -213,7 +277,20 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio de Chacarita Juniors",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113010,
@@ -222,7 +299,20 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Ingeniero Hilario Sánchez",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113008,
@@ -231,7 +321,14 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Presbítero Bartolomé Grella",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113009,
@@ -240,7 +337,14 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Centenario Ciudad de Quilmes",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113376,
@@ -276,7 +380,27 @@
         "league_id": 67,
         "league": "Allsvenskan",
         "venue": "Guldfågeln Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "MTV Max"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Fotboll",
+                    "TV4 Play Sport Fotboll"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5107536,
@@ -285,7 +409,21 @@
         "league_id": 67,
         "league": "Allsvenskan",
         "venue": "Gamla Ullevi",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Play Sport Fotboll",
+                    "TV4 Sport Live 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5760426,
@@ -311,7 +449,7 @@
         "fixture": "Corvinul Hunedoara vs Csikszereda Miercurea Ciuc",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Stadionul Michael Klein",
+        "venue": "Stadionul Francisc von Neuman",
         "tv_channels": []
     },
     {
@@ -320,7 +458,7 @@
         "fixture": "Rapid Bucuresti vs Sepsi OSK",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Stadionul Rapid-Giulesti",
+        "venue": "Arena Giulești",
         "tv_channels": []
     },
     {
@@ -330,7 +468,56 @@
         "league_id": 51,
         "league": "Veikkausliiga",
         "venue": "Veritas Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5147602,
@@ -339,7 +526,26 @@
         "league_id": 51,
         "league": "Veikkausliiga",
         "venue": "Wiklöf Holding Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5225685,
@@ -348,7 +554,20 @@
         "league_id": 215,
         "league": "Besta deildin",
         "venue": "HS Orku völlurinn",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5225688,
@@ -357,7 +576,20 @@
         "league_id": 215,
         "league": "Besta deildin",
         "venue": "Kaplakrikavöllur",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000011182,
@@ -396,22 +628,26 @@
         "tv_channels": []
     },
     {
-        "match_id": 5190614,
-        "kickoff": 1784588400,
-        "fixture": "Atletico GO vs Athletic Club",
-        "league_id": 8814,
-        "league": "Serie B",
-        "venue": "Estádio Antônio Accioly",
-        "tv_channels": []
-    },
-    {
         "match_id": 5162031,
         "kickoff": 1784563200,
         "fixture": "SK Super Nova vs Grobina",
         "league_id": 226,
         "league": "Virsliga",
         "venue": "RFS Jāņa Skredeļa sporta komplekss Dabīgais segum",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5787765,
@@ -425,7 +661,7 @@
     {
         "match_id": 5787766,
         "kickoff": 1784649600,
-        "fixture": "Borac Banja Luka/Levski Sofia vs Maxline Vitebsk/Universitatea Craiova",
+        "fixture": "Borac Banja Luka/Levski Sofia vs ML Vitebsk/Universitatea Craiova",
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "TBA",
@@ -501,7 +737,21 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Merkur-Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5787768,
@@ -582,7 +832,15 @@
         "league_id": 180,
         "league": "League Cup Grp. B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762595,
@@ -600,7 +858,15 @@
         "league_id": 180,
         "league": "League Cup Grp. C",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762753,
@@ -618,7 +884,15 @@
         "league_id": 180,
         "league": "League Cup Grp. D",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763210,
@@ -654,7 +928,15 @@
         "league_id": 180,
         "league": "League Cup Grp. F",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763429,
@@ -663,7 +945,15 @@
         "league_id": 180,
         "league": "League Cup Grp. G",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763430,
@@ -681,7 +971,15 @@
         "league_id": 180,
         "league": "League Cup Grp. H",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763488,

@@ -407,7 +407,7 @@
     {
         "match_id": 5789143,
         "kickoff": 1784822400,
-        "fixture": "Maxline Vitebsk/Universitatea Craiova vs Kairat Almaty/Sutjeska",
+        "fixture": "ML Vitebsk/Universitatea Craiova vs Kairat Almaty/Sutjeska",
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "TBA",
@@ -618,7 +618,27 @@
         "league_id": 180,
         "league": "League Cup Grp. A",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5071217,
@@ -816,6 +836,42 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "Weidner Field",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5796880,
+        "kickoff": 1784734200,
+        "fixture": "PAOK Thessaloniki FC (W) vs Hapoel Katamon Jerusalem (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 1st Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5796886,
+        "kickoff": 1784736000,
+        "fixture": "Czarni Sosnowiec (W) vs Nike Lusso (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 1st Round",
+        "venue": "ArcelorMittal Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5796888,
+        "kickoff": 1784736000,
+        "fixture": "Flora Tallinn (W) vs Mgarr United (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 1st Round",
+        "venue": "Futbalový štadión",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5796884,
+        "kickoff": 1784743200,
+        "fixture": "Pyunik (W) vs Wrexham (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 1st Round",
+        "venue": "Racecourse Ground",
         "tv_channels": []
     },
     {
@@ -1149,6 +1205,15 @@
         "league_id": 10613,
         "league": "Europa League Qualification",
         "venue": "Tupras Stadyumu",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5911456,
+        "kickoff": 1784826000,
+        "fixture": "TSV Aubstadt vs FC Schweinfurt",
+        "league_id": 512,
+        "league": "Regionalliga Bayern",
+        "venue": "NGN-Arena",
         "tv_channels": []
     }
 ]
