@@ -1025,7 +1025,21 @@
         "league_id": 268,
         "league": "Serie A",
         "venue": "Estádio José Pinheiro Borda",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103553,
@@ -1103,15 +1117,6 @@
         "match_id": 5225820,
         "kickoff": 1784834100,
         "fixture": "Leiknir Reykjavik vs Throttur Reykjavik",
-        "league_id": 216,
-        "league": "1. Deild",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5225821,
-        "kickoff": 1784834100,
-        "fixture": "Njardvik vs HK Kopavogs",
         "league_id": 216,
         "league": "1. Deild",
         "venue": "TBA",

@@ -207,6 +207,22 @@
         "tv_channels": []
     },
     {
+        "match_id": 5920573,
+        "kickoff": 1784305800,
+        "fixture": "Eldense vs Millwall",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Millwall TV"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5900696,
         "kickoff": 1784305800,
         "fixture": "Olympiacos vs Fortuna Sittard",
@@ -2654,7 +2670,20 @@
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio Cooprogreso Gonzalo Pozo Ripalda",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Zapping Sports + Plus"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009017,
@@ -2663,7 +2692,20 @@
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio 9 de Mayo Banco de Machala",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Zapping Sports + Plus"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103545,

@@ -9,15 +9,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5225817,
-        "kickoff": 1784469600,
-        "fixture": "HK Kopavogs vs Vestri",
-        "league_id": 216,
-        "league": "1. Deild",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5225941,
         "kickoff": 1784390400,
         "fixture": "Magni vs Fjölnir",
@@ -134,7 +125,11 @@
             {
                 "country": "Austria",
                 "channels": [
+                    "Sky Sport Bundesliga",
                     "Sky Sport Bundesliga YouTube",
+                    "Sky Sport News",
+                    "Sky Sport News Livestream",
+                    "Sky Sport Top Event",
                     "Sky Stream"
                 ]
             },
@@ -218,7 +213,7 @@
             {
                 "country": "Spain",
                 "channels": [
-                    "Canal por confirmar"
+                    "Athletic-club.eus"
                 ]
             }
         ]
@@ -1419,8 +1414,7 @@
                 "country": "United Kingdom",
                 "channels": [
                     "HBO Max (UK)",
-                    "TNT Sports 1",
-                    "TNT Sports 3"
+                    "TNT Sports 1"
                 ]
             },
             {
@@ -5062,158 +5056,7 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Australia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Bolivia, Plurinational State of",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Chile",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Panama",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Peru",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Venezuela, Bolivarian Republic of",
-                "channels": [
-                    "LPF Play"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5113373,
@@ -5222,158 +5065,7 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Australia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Bolivia, Plurinational State of",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Chile",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Panama",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Peru",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Venezuela, Bolivarian Republic of",
-                "channels": [
-                    "LPF Play"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5113378,
@@ -5382,158 +5074,7 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Australia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Bolivia, Plurinational State of",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Chile",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Panama",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Peru",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Venezuela, Bolivarian Republic of",
-                "channels": [
-                    "LPF Play"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5113005,
@@ -5542,158 +5083,7 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Australia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Bolivia, Plurinational State of",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Chile",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Panama",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Peru",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Venezuela, Bolivarian Republic of",
-                "channels": [
-                    "LPF Play"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5107538,
@@ -9053,7 +8443,20 @@
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio Alejandro Serrano Aguilar Banco del Austro",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Zapping Sports + Plus"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009032,
@@ -9106,7 +8509,20 @@
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio Bellavista Universidad Indoamérica",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Zapping Sports + Plus"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5190609,
