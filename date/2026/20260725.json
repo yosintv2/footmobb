@@ -221,7 +221,7 @@
         "fixture": "Laos vs Thailand",
         "league_id": 9265,
         "league": "ASEAN Championship Grp. B",
-        "venue": "TBA",
+        "venue": "Lao National Stadium KM16",
         "tv_channels": []
     },
     {
@@ -230,7 +230,7 @@
         "fixture": "Myanmar vs Malaysia",
         "league_id": 9265,
         "league": "ASEAN Championship Grp. B",
-        "venue": "TBA",
+        "venue": "Thuwunna Stadium",
         "tv_channels": []
     },
     {
@@ -249,7 +249,14 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Lerkendal Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "MUTV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5900532,
@@ -276,7 +283,21 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5900861,
@@ -518,7 +539,7 @@
         "fixture": "Bromley vs Crystal Palace",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Copperjax Community Stadium",
         "tv_channels": []
     },
     {
@@ -554,7 +575,7 @@
         "fixture": "Stevenage vs Millwall",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Sir Tom Finney Stadium",
         "tv_channels": []
     },
     {
@@ -2148,7 +2169,15 @@
         "league_id": 126,
         "league": "Premier Division",
         "venue": "Richmond Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Virgin Media Play",
+                    "Virgin Media Three"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5100934,
@@ -2769,6 +2798,78 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Municipal El Alto",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017515,
+        "kickoff": 1784937600,
+        "fixture": "Ferroviario vs Goiatuba SC",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017517,
+        "kickoff": 1784937600,
+        "fixture": "Gama vs America RN",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017519,
+        "kickoff": 1784937600,
+        "fixture": "ABC vs Luverdense",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017521,
+        "kickoff": 1784937600,
+        "fixture": "Iguatu vs Nacional AM",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017523,
+        "kickoff": 1784937600,
+        "fixture": "Treze vs EC Sao Jose",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017525,
+        "kickoff": 1784937600,
+        "fixture": "Portuguesa vs Uberlandia",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017527,
+        "kickoff": 1784937600,
+        "fixture": "CS Alagoano vs Sao Luiz",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017529,
+        "kickoff": 1784937600,
+        "fixture": "ASA vs Cianorte",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -4055,7 +4156,7 @@
         "fixture": "Dinamo Bucuresti vs Universitatea Craiova",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Arena Nationala",
+        "venue": "Arena Mr. Bit Arcul de Triumf",
         "tv_channels": []
     },
     {
@@ -4073,7 +4174,7 @@
         "fixture": "FCV Farul Constanta vs Corvinul Hunedoara",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Stadionul Viitorul",
+        "venue": "Stadionul Central",
         "tv_channels": []
     },
     {

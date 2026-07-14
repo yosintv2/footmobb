@@ -113,7 +113,7 @@
         "fixture": "Eldense vs Millwall",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Estadio Municipal Nuevo Pepico Amat",
         "tv_channels": [
             {
                 "country": "Ireland",
@@ -611,7 +611,19 @@
                 ]
             },
             {
+                "country": "Sweden",
+                "channels": [
+                    "MUTV"
+                ]
+            },
+            {
                 "country": "United Kingdom",
+                "channels": [
+                    "MUTV"
+                ]
+            },
+            {
+                "country": "United States",
                 "channels": [
                     "MUTV"
                 ]
@@ -642,6 +654,12 @@
                 "channels": [
                     "Skysport.de",
                     "WOW"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player"
                 ]
             }
         ]
@@ -907,6 +925,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
+            {
                 "country": "Austria",
                 "channels": [
                     "Sportdigital Fussball",
@@ -992,8 +1016,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Premier Sports Player",
-                    "PremierSports PPV"
+                    "Premier Sports PPV",
+                    "Premier Sports Player"
                 ]
             }
         ]
@@ -1045,8 +1069,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Premier Sports Player",
-                    "PremierSports PPV"
+                    "Premier Sports PPV",
+                    "Premier Sports Player"
                 ]
             }
         ]
@@ -1071,8 +1095,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Premier Sports Player",
-                    "PremierSports PPV"
+                    "Premier Sports PPV",
+                    "Premier Sports Player"
                 ]
             }
         ]
@@ -1106,8 +1130,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Premier Sports Player",
-                    "PremierSports PPV"
+                    "Premier Sports PPV",
+                    "Premier Sports Player"
                 ]
             }
         ]
@@ -2207,6 +2231,12 @@
         "venue": "Icahn Stadium",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "Stan Sport"
@@ -2219,9 +2249,33 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
                 "country": "Canada",
                 "channels": [
                     "TSN3"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -2236,6 +2290,12 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN 3"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -2289,6 +2349,18 @@
                 ]
             },
             {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
                 "country": "Portugal",
                 "channels": [
                     "NWSL+"
@@ -2314,6 +2386,18 @@
                     "ESPN Deportes",
                     "ESPN Unlimited",
                     "Fubo Sports"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "Disney+ Premium"
                 ]
             }
         ]
@@ -3277,7 +3361,14 @@
         "league_id": 219,
         "league": "FAI Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5125561,
@@ -4662,14 +4753,7 @@
         "league_id": 120,
         "league": "Super League",
         "venue": "Qingdao West Coast University City Stadium",
-        "tv_channels": [
-            {
-                "country": "China",
-                "channels": [
-                    "Migu"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5186554,
@@ -4683,6 +4767,12 @@
                 "country": "China",
                 "channels": [
                     "Migu"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "GOL"
                 ]
             }
         ]
@@ -5717,7 +5807,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
                 ]
             },
             {
@@ -5883,7 +5975,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
                 ]
             },
             {
@@ -6049,7 +6143,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
                 ]
             },
             {
@@ -6215,7 +6311,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
                 ]
             },
             {
@@ -6381,7 +6479,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
                 ]
             },
             {
@@ -6547,7 +6647,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
                 ]
             },
             {
@@ -7018,7 +7120,14 @@
         "league_id": 9986,
         "league": "Premier League",
         "venue": "Stade Boréale",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "TVA Sports 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000008677,
@@ -8111,6 +8220,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5923033,
+        "kickoff": 1784399400,
+        "fixture": "Beitar Jerusalem vs Hapoel Tel Aviv",
+        "league_id": 9098,
+        "league": "Toto Cup UEFA Qualifiers Match",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5109838,
         "kickoff": 1784390400,
         "fixture": "Pittsburgh Riverhounds SC vs Louisville City FC",
@@ -8171,12 +8289,6 @@
                     "BBC iPlayer",
                     "RTÉ Player",
                     "RTÉ2"
-                ]
-            },
-            {
-                "country": "Italy",
-                "channels": [
-                    "DAZN Italia"
                 ]
             },
             {

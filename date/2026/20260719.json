@@ -107,7 +107,19 @@
                 ]
             },
             {
+                "country": "Sweden",
+                "channels": [
+                    "MUTV"
+                ]
+            },
+            {
                 "country": "United Kingdom",
+                "channels": [
+                    "MUTV"
+                ]
+            },
+            {
+                "country": "United States",
                 "channels": [
                     "MUTV"
                 ]
@@ -138,6 +150,12 @@
                 "channels": [
                     "Skysport.de",
                     "WOW"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player"
                 ]
             }
         ]
@@ -506,6 +524,12 @@
         "league": "League Cup Grp. A",
         "venue": "TBA",
         "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
             {
                 "country": "Austria",
                 "channels": [
@@ -1317,6 +1341,12 @@
         "venue": "Icahn Stadium",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "Stan Sport"
@@ -1329,9 +1359,33 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
                 "country": "Canada",
                 "channels": [
                     "TSN3"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1346,6 +1400,12 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN 3"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1399,6 +1459,18 @@
                 ]
             },
             {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
                 "country": "Portugal",
                 "channels": [
                     "NWSL+"
@@ -1424,6 +1496,18 @@
                     "ESPN Deportes",
                     "ESPN Unlimited",
                     "Fubo Sports"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "Disney+ Premium"
                 ]
             }
         ]
@@ -2738,6 +2822,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5923033,
+        "kickoff": 1784399400,
+        "fixture": "Beitar Jerusalem vs Hapoel Tel Aviv",
+        "league_id": 9098,
+        "league": "Toto Cup UEFA Qualifiers Match",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5109838,
         "kickoff": 1784390400,
         "fixture": "Pittsburgh Riverhounds SC vs Louisville City FC",
@@ -3000,12 +3093,6 @@
                 ]
             },
             {
-                "country": "Italy",
-                "channels": [
-                    "DAZN Italia"
-                ]
-            },
-            {
                 "country": "Montenegro",
                 "channels": [
                     "beIN SPORTS CONNECT"
@@ -3093,17 +3180,10 @@
                 "channels": [
                     "BBC One",
                     "BBC iPlayer",
-                    "ITV",
                     "ITV1",
                     "ITVX",
                     "RTÉ Player",
                     "RTÉ2"
-                ]
-            },
-            {
-                "country": "Italy",
-                "channels": [
-                    "DAZN Italia"
                 ]
             },
             {
@@ -3196,7 +3276,14 @@
         "league_id": 219,
         "league": "FAI Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5740721,
@@ -5012,6 +5099,7 @@
             {
                 "country": "Sweden",
                 "channels": [
+                    "TV4 Play Sport",
                     "TV4 Play Sport Fotboll"
                 ]
             }
@@ -5028,6 +5116,7 @@
             {
                 "country": "Sweden",
                 "channels": [
+                    "TV4 Play Sport",
                     "TV4 Play Sport Fotboll"
                 ]
             }
@@ -5044,6 +5133,7 @@
             {
                 "country": "Sweden",
                 "channels": [
+                    "TV4 Play Sport",
                     "TV4 Play Sport Fotboll"
                 ]
             }
@@ -5956,15 +6046,6 @@
         ]
     },
     {
-        "match_id": 1000013924,
-        "kickoff": 1784412000,
-        "fixture": "Coquimbo Unido vs O'Higgins",
-        "league_id": 11697,
-        "league": "Copa de la Liga",
-        "venue": "Estadio Elías Figueroa Brander",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000011187,
         "kickoff": 1784397600,
         "fixture": "Paulista FC vs Primavera SP",
@@ -6199,7 +6280,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
                 ]
             },
             {
@@ -6365,7 +6448,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
                 ]
             },
             {
@@ -6531,7 +6616,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
                 ]
             },
             {
@@ -6697,7 +6784,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
                 ]
             },
             {
@@ -6863,7 +6952,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
                 ]
             },
             {

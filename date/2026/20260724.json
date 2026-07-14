@@ -32,7 +32,7 @@
         "fixture": "Cambodia vs Singapore",
         "league_id": 9265,
         "league": "ASEAN Championship Grp. A",
-        "venue": "TBA",
+        "venue": "Morodok Techo National Stadium",
         "tv_channels": []
     },
     {
@@ -41,7 +41,7 @@
         "fixture": "Timor-Leste vs Vietnam",
         "league_id": 9265,
         "league": "ASEAN Championship Grp. A",
-        "venue": "TBA",
+        "venue": "Chonburi Daikin Stadium",
         "tv_channels": []
     },
     {
@@ -141,7 +141,14 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Lerkendal Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "MUTV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5900532,
@@ -1176,7 +1183,15 @@
         "league_id": 126,
         "league": "Premier Division",
         "venue": "Richmond Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Virgin Media Play",
+                    "Virgin Media Three"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5147603,

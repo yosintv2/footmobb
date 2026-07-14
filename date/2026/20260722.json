@@ -199,7 +199,7 @@
         "fixture": "Gillingham vs Millwall",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Priestfield Stadium",
         "tv_channels": []
     },
     {
@@ -361,7 +361,7 @@
         "fixture": "Rangers vs Saint-Etienne",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Ibrox Stadium",
         "tv_channels": []
     },
     {
@@ -521,8 +521,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Premier Sports Player",
-                    "PremierSports PPV"
+                    "Premier Sports PPV",
+                    "Premier Sports Player"
                 ]
             }
         ]
@@ -547,8 +547,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Premier Sports Player",
-                    "PremierSports PPV"
+                    "Premier Sports PPV",
+                    "Premier Sports Player"
                 ]
             }
         ]
@@ -573,8 +573,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Premier Sports Player",
-                    "PremierSports PPV"
+                    "Premier Sports PPV",
+                    "Premier Sports Player"
                 ]
             }
         ]
@@ -617,8 +617,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Premier Sports Player",
-                    "PremierSports PPV"
+                    "Premier Sports PPV",
+                    "Premier Sports Player"
                 ]
             }
         ]
@@ -634,8 +634,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Premier Sports Player",
-                    "PremierSports PPV"
+                    "Premier Sports PPV",
+                    "Premier Sports Player"
                 ]
             }
         ]
@@ -660,8 +660,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Premier Sports Player",
-                    "PremierSports PPV"
+                    "Premier Sports PPV",
+                    "Premier Sports Player"
                 ]
             }
         ]
@@ -834,7 +834,20 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Tres de Febrero",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113379,
@@ -843,7 +856,14 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Abel Sastre",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5163730,
@@ -883,6 +903,12 @@
                 ]
             },
             {
+                "country": "New Zealand",
+                "channels": [
+                    "beIN Sports Connect New Zealand"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "Fanatiz"
@@ -896,7 +922,7 @@
         "fixture": "Universidad Central vs Santos FC",
         "league_id": 299,
         "league": "Copa Sudamericana Knockout Round Play-offs",
-        "venue": "Estadio Olímpico de la UCV",
+        "venue": "Estadio Polideportivo Misael Delgado",
         "tv_channels": []
     },
     {
@@ -998,7 +1024,7 @@
     },
     {
         "match_id": 1000014994,
-        "kickoff": 1784678400,
+        "kickoff": 1784667600,
         "fixture": "Estudiantes vs Independiente Rivadavia",
         "league_id": 9381,
         "league": "Super Copa International",

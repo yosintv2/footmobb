@@ -212,7 +212,7 @@
         "fixture": "Eldense vs Millwall",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Estadio Municipal Nuevo Pepico Amat",
         "tv_channels": [
             {
                 "country": "Ireland",
@@ -989,6 +989,12 @@
         "tv_channels": [
             {
                 "country": "Ireland",
+                "channels": [
+                    "SolidSport"
+                ]
+            },
+            {
+                "country": "United Kingdom",
                 "channels": [
                     "SolidSport"
                 ]
@@ -3095,6 +3101,78 @@
         ]
     },
     {
+        "match_id": 1000017514,
+        "kickoff": 1784246400,
+        "fixture": "Goiatuba SC vs Ferroviario",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017516,
+        "kickoff": 1784246400,
+        "fixture": "America RN vs Gama",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017518,
+        "kickoff": 1784246400,
+        "fixture": "Luverdense vs ABC",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017520,
+        "kickoff": 1784246400,
+        "fixture": "Nacional AM vs Iguatu",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017522,
+        "kickoff": 1784246400,
+        "fixture": "EC Sao Jose vs Treze",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017524,
+        "kickoff": 1784246400,
+        "fixture": "Uberlandia vs Portuguesa",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017526,
+        "kickoff": 1784246400,
+        "fixture": "Sao Luiz vs CS Alagoano",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017528,
+        "kickoff": 1784246400,
+        "fixture": "Cianorte vs ASA",
+        "league_id": 9464,
+        "league": "Serie D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5225937,
         "kickoff": 1784315700,
         "fixture": "Haukar vs Throttur Vogar",
@@ -3879,7 +3957,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
                 ]
             },
             {
@@ -4045,7 +4125,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
                 ]
             },
             {
