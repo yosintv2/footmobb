@@ -54,8 +54,26 @@
         "tv_channels": []
     },
     {
-        "match_id": 5787780,
+        "match_id": 5787774,
+        "kickoff": 1785250800,
+        "fixture": "KuPS vs Sabah FK",
+        "league_id": 10611,
+        "league": "Champions League Qualification",
+        "venue": "Väre Areena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5787772,
         "kickoff": 1785254400,
+        "fixture": "Lincoln Red Imps FC vs Mjällby",
+        "league_id": 10611,
+        "league": "Champions League Qualification",
+        "venue": "Europa Point Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5787780,
+        "kickoff": 1785261600,
         "fixture": "Dinamo Zagreb vs Thun",
         "league_id": 10611,
         "league": "Champions League Qualification",
@@ -63,111 +81,62 @@
         "tv_channels": []
     },
     {
-        "match_id": 5787773,
-        "kickoff": 1785254400,
-        "fixture": "FK Crvena Zvezda vs Tre Fiori/Larne",
+        "match_id": 5787783,
+        "kickoff": 1785262500,
+        "fixture": "NK Celje vs Egnatia",
         "league_id": 10611,
         "league": "Champions League Qualification",
-        "venue": "Stadion Rajko Mitic",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5787775,
-        "kickoff": 1785254400,
-        "fixture": "FK Kauno Zalgiris/Drita vs Klaksvik/Atert Bissen",
-        "league_id": 10611,
-        "league": "Champions League Qualification",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5787774,
-        "kickoff": 1785254400,
-        "fixture": "FK Vardar Skopje/KuPS vs Sabah FK/TNS",
-        "league_id": 10611,
-        "league": "Champions League Qualification",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5787777,
-        "kickoff": 1785254400,
-        "fixture": "Floriana/Shamrock Rovers vs Ararat Armenia/Riga FC",
-        "league_id": 10611,
-        "league": "Champions League Qualification",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5787787,
-        "kickoff": 1785254400,
-        "fixture": "Górnik Zabrze vs Fenerbahçe",
-        "league_id": 10611,
-        "league": "Champions League Qualification",
-        "venue": "Stadion im. Ernesta Pohla",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5787781,
-        "kickoff": 1785254400,
-        "fixture": "Hapoel Beer Sheva vs Vikingur Reykjavik/Gyori ETO",
-        "league_id": 10611,
-        "league": "Champions League Qualification",
-        "venue": "Turner Stadium Be'er Sheva",
+        "venue": "Stadion Z'dežele",
         "tv_channels": []
     },
     {
         "match_id": 5787788,
-        "kickoff": 1785254400,
-        "fixture": "Hearts vs Sturm Graz",
+        "kickoff": 1785264300,
+        "fixture": "Heart of Midlothian vs Sturm Graz",
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Tynecastle Park",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5787777,
+        "kickoff": 1785265200,
+        "fixture": "Shamrock Rovers vs Ararat Armenia",
+        "league_id": 10611,
+        "league": "Champions League Qualification",
+        "venue": "Tallaght Stadium",
         "tv_channels": []
     },
     {
         "match_id": 5787779,
-        "kickoff": 1785254400,
-        "fixture": "Kairat Almaty/Sutjeska vs Omonia Nicosia",
+        "kickoff": 1785337200,
+        "fixture": "Kairat Almaty vs Omonia Nicosia",
         "league_id": 10611,
         "league": "Champions League Qualification",
-        "venue": "TBA",
+        "venue": "Ortalyq stadıon",
         "tv_channels": []
     },
     {
-        "match_id": 5787772,
-        "kickoff": 1785254400,
-        "fixture": "Lincoln Red Imps FC/Inter Club d'Escaldes vs Mjällby",
+        "match_id": 5787775,
+        "kickoff": 1785340800,
+        "fixture": "FK Kauno Zalgiris vs Klaksvik",
         "league_id": 10611,
         "league": "Champions League Qualification",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5787778,
-        "kickoff": 1785254400,
-        "fixture": "ML Vitebsk/Universitatea Craiova vs Borac Banja Luka/Levski Sofia",
-        "league_id": 10611,
-        "league": "Champions League Qualification",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5787783,
-        "kickoff": 1785254400,
-        "fixture": "NK Celje vs CS Petrocub/Egnatia",
-        "league_id": 10611,
-        "league": "Champions League Qualification",
-        "venue": "Stadion Z'dezele",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5787782,
-        "kickoff": 1785254400,
-        "fixture": "Slovan Bratislava vs Flora Tallinn/Iberia 1999",
-        "league_id": 10611,
-        "league": "Champions League Qualification",
-        "venue": "National Football Stadium",
+        "venue": "S. Dariaus ir S. Girėno stadionas",
         "tv_channels": []
     },
     {
@@ -176,7 +145,52 @@
         "fixture": "Lech Poznań vs AGF",
         "league_id": 10611,
         "league": "Champions League Qualification",
-        "venue": "Stadion Poznan",
+        "venue": "Enea Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5787781,
+        "kickoff": 1785346200,
+        "fixture": "Hapoel Beer Sheva vs Vikingur Reykjavik",
+        "league_id": 10611,
+        "league": "Champions League Qualification",
+        "venue": "Haladás Sportkomplexum",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5787778,
+        "kickoff": 1785346200,
+        "fixture": "Universitatea Craiova vs Levski Sofia",
+        "league_id": 10611,
+        "league": "Champions League Qualification",
+        "venue": "Complex Sportiv Craiova",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5787773,
+        "kickoff": 1785348000,
+        "fixture": "FK Crvena Zvezda vs Larne",
+        "league_id": 10611,
+        "league": "Champions League Qualification",
+        "venue": "Stadion Rajko Mitić",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5787787,
+        "kickoff": 1785348000,
+        "fixture": "Górnik Zabrze vs Fenerbahçe",
+        "league_id": 10611,
+        "league": "Champions League Qualification",
+        "venue": "Stadion im. Ernesta Pohla",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5787782,
+        "kickoff": 1785348900,
+        "fixture": "Slovan Bratislava vs Iberia 1999",
+        "league_id": 10611,
+        "league": "Champions League Qualification",
+        "venue": "Štadión Tehelné pole",
         "tv_channels": []
     },
     {
@@ -189,12 +203,30 @@
         "tv_channels": []
     },
     {
+        "match_id": 5944888,
+        "kickoff": 1785252600,
+        "fixture": "Udinese vs Shabab Al-Ahli Dubai FC",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Sportplatz Neukirchen am Großvenediger",
+        "tv_channels": []
+    },
+    {
         "match_id": 5900443,
         "kickoff": 1785258000,
         "fixture": "Cambuur vs NFC Volos",
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Kooi Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5932983,
+        "kickoff": 1785261600,
+        "fixture": "Elche vs Al-Ain",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Pinatar Arena Football Center",
         "tv_channels": []
     },
     {
@@ -290,7 +322,7 @@
     {
         "match_id": 5900330,
         "kickoff": 1785346200,
-        "fixture": "Deportivo La Coruña vs Lugo",
+        "fixture": "Deportivo A Coruña vs Lugo",
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Estadio Municipal A Magdalena",
@@ -366,6 +398,69 @@
         "league_id": 9682,
         "league": "CONCACAF Central American Cup Grp. C",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5789209,
+        "kickoff": 1785258000,
+        "fixture": "Apollon Limassol vs Dila Gori",
+        "league_id": 10615,
+        "league": "Conference League Qualification",
+        "venue": "Alphamega Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5789195,
+        "kickoff": 1785258000,
+        "fixture": "Riga FC vs FK Vardar Skopje",
+        "league_id": 10615,
+        "league": "Conference League Qualification",
+        "venue": "Stadions Skonto",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5789235,
+        "kickoff": 1785259800,
+        "fixture": "CSKA 1948 vs Spartak Trnava",
+        "league_id": 10615,
+        "league": "Conference League Qualification",
+        "venue": "Stadion Vasil Levski",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5789194,
+        "kickoff": 1785261600,
+        "fixture": "Drita vs Floriana",
+        "league_id": 10615,
+        "league": "Conference League Qualification",
+        "venue": "Stadiumi Fadil Vokrri",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5789198,
+        "kickoff": 1785335400,
+        "fixture": "Dukagjini vs Lugano",
+        "league_id": 10615,
+        "league": "Conference League Qualification",
+        "venue": "Kampi Nacional",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5789227,
+        "kickoff": 1785344400,
+        "fixture": "FC København vs Polissya Zhytomyr",
+        "league_id": 10615,
+        "league": "Conference League Qualification",
+        "venue": "Parken",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5789229,
+        "kickoff": 1785349800,
+        "fixture": "Rapid Wien vs FC Santa Coloma",
+        "league_id": 10615,
+        "league": "Conference League Qualification",
+        "venue": "Allianz Stadion",
         "tv_channels": []
     },
     {
@@ -578,88 +673,70 @@
     {
         "match_id": 1000017162,
         "kickoff": 1785319200,
-        "fixture": "Changwon City/Gimhae FC 2008 vs Pocheon Citizen FC/Seongnam FC",
+        "fixture": "Gimhae FC 2008 vs Seongnam FC",
         "league_id": 9551,
         "league": "Cup",
-        "venue": "TBA",
+        "venue": "Gimhae Sports Complex",
         "tv_channels": []
     },
     {
         "match_id": 1000017169,
         "kickoff": 1785319200,
-        "fixture": "Busan Transport Corp/Suwon Samsung Bluewings vs Ansan Greeners/Jinju Citizen",
+        "fixture": "Busan Transport Corp vs Jinju Citizen",
         "league_id": 9551,
         "league": "Cup",
-        "venue": "TBA",
+        "venue": "Yangsan Stadium",
         "tv_channels": []
     },
     {
         "match_id": 1000017170,
         "kickoff": 1785319200,
-        "fixture": "Gyeongnam FC/Yeoju FC vs Dangjin Citizen/Yongin FC",
+        "fixture": "Yeoju FC vs Dangjin Citizen",
         "league_id": 9551,
         "league": "Cup",
-        "venue": "TBA",
+        "venue": "Yeoju Sports Complex",
         "tv_channels": []
     },
     {
         "match_id": 1000017163,
         "kickoff": 1785319200,
-        "fixture": "Chungnam Asan FC/Jeonnam Dragons vs Daegu FC/Siheung Citizen",
+        "fixture": "Chungnam Asan FC vs Siheung Citizen",
         "league_id": 9551,
         "league": "Cup",
-        "venue": "TBA",
+        "venue": "Yishunsin Stadium",
         "tv_channels": []
     },
     {
         "match_id": 1000017166,
         "kickoff": 1785319200,
-        "fixture": "Seoul E-Land FC/Ulsan Citizen vs Ulsan HD FC",
+        "fixture": "Ulsan Citizen vs Ulsan HD FC",
         "league_id": 9551,
         "league": "Cup",
-        "venue": "TBA",
+        "venue": "Ulsan Stadium",
         "tv_channels": []
     },
     {
         "match_id": 1000017167,
         "kickoff": 1785319200,
-        "fixture": "Gwangju FC vs Cheonan City/FC Mokpo",
+        "fixture": "Gwangju FC vs Cheonan City",
         "league_id": 9551,
         "league": "Cup",
         "venue": "Gwangju World Cup Stadium",
         "tv_channels": []
     },
     {
-        "match_id": 1000017171,
-        "kickoff": 1785319200,
-        "fixture": "Cheongju FC/Gyeongju H & N vs FC Anyang",
-        "league_id": 9551,
-        "league": "Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000017168,
-        "kickoff": 1785319200,
-        "fixture": "Jeju SK vs Hwaseong FC/Yangpyeong",
-        "league_id": 9551,
-        "league": "Cup",
-        "venue": "Jeju World Cup Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000017172,
         "kickoff": 1785319200,
-        "fixture": "Gimpo FC/Namyangju Citizen vs Incheon United",
+        "fixture": "Gimpo FC vs Incheon United",
         "league_id": 9551,
         "league": "Cup",
-        "venue": "TBA",
+        "venue": "Gimpo Stadium",
         "tv_channels": []
     },
     {
         "match_id": 1000017164,
         "kickoff": 1785319200,
-        "fixture": "Gimcheon Sangmu vs Pyeongchang United/Suwon FC",
+        "fixture": "Gimcheon Sangmu vs Suwon FC",
         "league_id": 9551,
         "league": "Cup",
         "venue": "Gimcheon Stadium",
@@ -668,19 +745,37 @@
     {
         "match_id": 1000017173,
         "kickoff": 1785319200,
-        "fixture": "Busan I'Park/Geoje Citizen vs FC Seoul",
+        "fixture": "Busan I'Park vs FC Seoul",
         "league_id": 9551,
         "league": "Cup",
-        "venue": "TBA",
+        "venue": "Busan Gudeok Stadium",
         "tv_channels": []
     },
     {
         "match_id": 1000017165,
         "kickoff": 1785319200,
-        "fixture": "Bucheon FC 1995 vs Gangneung City/Paju Frontier",
+        "fixture": "Bucheon FC 1995 vs Paju Frontier",
         "league_id": 9551,
         "league": "Cup",
         "venue": "Bucheon Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017171,
+        "kickoff": 1785321000,
+        "fixture": "Cheongju FC vs FC Anyang",
+        "league_id": 9551,
+        "league": "Cup",
+        "venue": "Cheongju Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017168,
+        "kickoff": 1785321000,
+        "fixture": "Jeju SK vs Hwaseong FC",
+        "league_id": 9551,
+        "league": "Cup",
+        "venue": "Jeju World Cup Stadium",
         "tv_channels": []
     },
     {
@@ -839,8 +934,8 @@
                 "country": "United States",
                 "channels": [
                     "FOX One",
-                    "FOX Sports",
-                    "FOX Sports 2"
+                    "FOX Sports 2",
+                    "FOX Sports online"
                 ]
             }
         ]
@@ -996,15 +1091,6 @@
         "league_id": 10226,
         "league": "2. Deild",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5789227,
-        "kickoff": 1785348000,
-        "fixture": "FC København vs Polissya Zhytomyr",
-        "league_id": 10615,
-        "league": "Conference League Qualification",
-        "venue": "Parken",
         "tv_channels": []
     },
     {
