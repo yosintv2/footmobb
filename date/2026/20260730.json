@@ -171,13 +171,32 @@
         "tv_channels": []
     },
     {
+        "match_id": 5958626,
+        "kickoff": 1785340800,
+        "fixture": "Hoffenheim vs Holstein Kiel",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Akademie-Arena Rasenplatz 1",
+        "tv_channels": []
+    },
+    {
         "match_id": 5765867,
         "kickoff": 1785342600,
         "fixture": "Kickers Offenbach vs VfB Stuttgart",
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Stadion am Bieberer Berg",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sky Bundesliga",
+                    "Sky Sport News",
+                    "Sky Top Event",
+                    "WOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5793339,
@@ -222,7 +241,14 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Vicarage Road",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "DAZN Italia"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5793420,
@@ -249,7 +275,36 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Yankee Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "DAZN Deutschland"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "All Red Video",
+                    "LFCTV"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN",
+                    "ESPN Deportes",
+                    "ESPN Unlimited",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5765427,
@@ -276,6 +331,15 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Stadio Pineta",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5958599,
+        "kickoff": 1785427200,
+        "fixture": "Monza vs Aris Thessaloniki",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Campo Monzello 2",
         "tv_channels": []
     },
     {
@@ -356,7 +420,7 @@
         "fixture": "Braga vs Zeleznicar Pancevo",
         "league_id": 10615,
         "league": "Conference League Qualification",
-        "venue": "Estadio Municipal de Braga",
+        "venue": "Estádio Municipal de Braga",
         "tv_channels": []
     },
     {
@@ -365,7 +429,7 @@
         "fixture": "CFR Cluj vs Alashkert FC",
         "league_id": 10615,
         "league": "Conference League Qualification",
-        "venue": "Stadionul Dr. Constantin Radulescu",
+        "venue": "Stadionul Dr. Constantin Rădulescu",
         "tv_channels": []
     },
     {
@@ -374,7 +438,7 @@
         "fixture": "Coleraine vs HJK",
         "league_id": 10615,
         "league": "Conference League Qualification",
-        "venue": "The Showgrounds",
+        "venue": "Inver Park",
         "tv_channels": []
     },
     {
@@ -383,7 +447,7 @@
         "fixture": "FC Dinamo City vs Aluminij",
         "league_id": 10615,
         "league": "Conference League Qualification",
-        "venue": "TBA",
+        "venue": "Elbasan Arena",
         "tv_channels": []
     },
     {
@@ -473,7 +537,7 @@
         "fixture": "Panathinaikos vs Paksi SE",
         "league_id": 10615,
         "league": "Conference League Qualification",
-        "venue": "Apostolos Nikolaidis Stadium",
+        "venue": "Olympiako Stadio Spyros Louis",
         "tv_channels": []
     },
     {
@@ -491,7 +555,7 @@
         "fixture": "Sutjeska vs ML Vitebsk",
         "league_id": 10615,
         "league": "Conference League Qualification",
-        "venue": "TBA",
+        "venue": "Stadion Kraj Bistrice",
         "tv_channels": []
     },
     {
@@ -500,7 +564,7 @@
         "fixture": "Vestri vs RFS",
         "league_id": 10615,
         "league": "Conference League Qualification",
-        "venue": "TBA",
+        "venue": "AVIS völlurinn",
         "tv_channels": []
     },
     {
@@ -518,7 +582,7 @@
         "fixture": "Zrinjski Mostar vs Valur",
         "league_id": 10615,
         "league": "Conference League Qualification",
-        "venue": "HSK Zrinjski Stadium",
+        "venue": "Stadion HŠK Zrinjski",
         "tv_channels": []
     },
     {
@@ -707,7 +771,7 @@
         "fixture": "Koper vs NSI Runavik",
         "league_id": 10615,
         "league": "Conference League Qualification",
-        "venue": "SRC Bonifika Stadion",
+        "venue": "ŠRC Bonifika",
         "tv_channels": []
     },
     {
@@ -807,7 +871,16 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "F.N.B. Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "SportsNet Pittsburgh"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109856,
@@ -816,25 +889,14 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "Lynn Family Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5163736,
-        "kickoff": 1785339000,
-        "fixture": "MP vs KäPa",
-        "league_id": 251,
-        "league": "Ykkosliiga",
-        "venue": "Mikkelin urheilupuisto",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5163737,
-        "kickoff": 1785425400,
-        "fixture": "JIPPO vs JäPS",
-        "league_id": 251,
-        "league": "Ykkosliiga",
-        "venue": "Mehtimäki tekonurmi",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Golazo Network"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5115890,
@@ -843,7 +905,14 @@
         "league_id": 112,
         "league": "Liga Profesional Clausura",
         "venue": "Estadio Claudio Fabián Tapia",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5115893,
@@ -852,7 +921,14 @@
         "league_id": 112,
         "league": "Liga Profesional Clausura",
         "venue": "Estadio Norberto Tito Tomaghello",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5115894,
@@ -861,7 +937,22 @@
         "league_id": 112,
         "league": "Liga Profesional Clausura",
         "venue": "Estadio Juan Carmelo Zerillo",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Deportes",
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5115897,
@@ -879,7 +970,15 @@
         "league_id": 9656,
         "league": "CONCACAF Championship U20",
         "venue": "Estadio Universitario BUAP",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Soccer Plus",
+                    "FOX Sports online"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000011115,
@@ -897,7 +996,27 @@
         "league_id": 299,
         "league": "Copa Sudamericana Knockout Round Play-offs",
         "venue": "Estádio São Januário",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "ESPN NL",
+                    "ESPN Watch NL"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "channels": [
+                    "beIN Sports Connect New Zealand"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5702740,
@@ -1014,7 +1133,14 @@
         "league_id": 268,
         "league": "Serie A",
         "venue": "Estádio José Maria de Campos Maia",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103570,
@@ -1023,7 +1149,14 @@
         "league_id": 268,
         "league": "Serie A",
         "venue": "Estádio José Pinheiro Borda",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103564,
@@ -1050,7 +1183,15 @@
         "league_id": 9296,
         "league": "USL League One",
         "venue": "GE Vernova Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109478,
@@ -1212,15 +1353,6 @@
         "league_id": 8969,
         "league": "Ykkonen",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5764562,
-        "kickoff": 1785427200,
-        "fixture": "AB vs Fredericia",
-        "league_id": 85,
-        "league": "1. Division",
-        "venue": "Gladsaxe Stadion",
         "tv_channels": []
     }
 ]
